@@ -1,4 +1,4 @@
-[
+module.exports = [
   {
     "date": "2000-12-19",
     "key": "100years",
@@ -3081,4 +3081,4 @@
     "key": "ieatfood",
     "title": "i eat food"
   }
-]
+];

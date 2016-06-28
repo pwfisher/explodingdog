@@ -7,6 +7,7 @@ export default RESTSerializer.extend({
       id: i,
       date: o.date,
       ext: o.ext,
+      img: o.img,
       key: o.key,
       title: o.title,
     }));

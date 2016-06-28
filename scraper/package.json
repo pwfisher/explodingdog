@@ -1,0 +1,13 @@
+{
+  "name": "explodingdog-scraper",
+  "version": "0.0.1",
+  "description": "Scrape explodingdog.com.",
+  "main": "server.js",
+  "author": "pwfisher",
+  "dependencies" : {
+    "express": "",
+    "request": "",
+    "cheerio": "",
+    "rsvp": ""
+  }
+}

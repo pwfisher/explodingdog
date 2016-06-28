@@ -6,9 +6,10 @@ import attr from 'ember-data/attr';
 export default Model.extend({
 
   date: attr('string'),
+  ext: attr('string'),
+  img: attr('string'),
   key: attr('string'),
   title: attr('string'),
-  ext: attr('string'),
 
   href: Ember.computed('key', function src() {
     const key = this.get('key');
@@ -17,8 +18,9 @@ export default Model.extend({
 
   src: Ember.computed('key', function src() {
     const key = this.get('key');
-    const ext = this.get('ext') || 'png';
-    return `http://explodingdog.com/drawing/${key}.${ext}`;
+    const ext = this.get('ext') || 'gif';
+    let img = this.get('img') || `${key}.${ext}`;
+    return `http://explodingdog.com/drawing/${img}`;
   }),
 
 });

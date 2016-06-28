@@ -1,4 +1,4 @@
-[
+module.exports = [
   {
     "date": "2008-12-19",
     "key": "imgettingnervousiwishyouwouldcomehome",
@@ -294,4 +294,4 @@
     "key": "stuckintheclouds",
     "title": "Stuck in the clouds"
   }
-]
+];
