@@ -783,7 +783,7 @@
     "id": "2000.99",
     "caption": "It's not that you're boring, you're just not interesting",
     "date": "2000-08-07",
-    "img": "g/boring.gif",
+    "img": "boring.gif",
     "key": "boring",
     "title": "It's not that you're boring, you're just not interesting"
   },
@@ -1831,7 +1831,7 @@
     "id": "2000.230",
     "caption": "draw something",
     "date": "2000-06-05",
-    "img": "g/something.gif",
+    "img": "something.gif",
     "key": "something",
     "title": "give me something to cry about"
   },
@@ -2799,7 +2799,7 @@
     "id": "2000.351",
     "caption": "draw something",
     "date": "2000-04-01",
-    "img": "g/something.gif",
+    "img": "something.gif",
     "key": "something",
     "title": "i drew something for you"
   },

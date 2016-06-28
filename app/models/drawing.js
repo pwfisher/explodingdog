@@ -1,12 +1,11 @@
 import Ember from 'ember';
 import Model from 'ember-data/model';
 import attr from 'ember-data/attr';
-// import { belongsTo, hasMany } from 'ember-data/relationships';
 
 export default Model.extend({
 
+  caption: attr('string'),
   date: attr('string'),
-  ext: attr('string'),
   img: attr('string'),
   key: attr('string'),
   title: attr('string'),
@@ -17,9 +16,7 @@ export default Model.extend({
   }),
 
   src: Ember.computed('key', function src() {
-    const key = this.get('key');
-    const ext = this.get('ext') || 'gif';
-    let img = this.get('img') || `${key}.${ext}`;
+    const img = this.get('img');
     return `http://explodingdog.com/drawing/${img}`;
   }),
 
