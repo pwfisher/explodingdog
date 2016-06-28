@@ -1,6 +1,8 @@
 
-{{outlet}}
+<nav class="years">
+  {{#each model as |year|}}
+    {{ link-to year 'year' year }}
+  {{/each}}
+</nav>
 
-{{#each model as |drawing| }}
-  {{ drawing-tile drawing=drawing }}
-{{/each}}
+{{outlet}}
