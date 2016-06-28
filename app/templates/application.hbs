@@ -3,6 +3,9 @@
   {{#each model as |year|}}
     {{ link-to year 'year' year }}
   {{/each}}
+  <fieldset>
+    Tile size {{ input value=config.tileSize type="number" }}
+  </fieldset>
 </nav>
 
 {{outlet}}
