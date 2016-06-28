@@ -1,6 +1,8 @@
 # Explodingdog
 
-I've been a fan of explodingdog for about 15 years now, and I've always wanted to do something to make it easier to browse through and find just the right drawing. There are many gems for every taste, but it is hard to scan for the ones that strike your fancy. It has always cried out for a database and user interface. Hopefully Sam won't be too upset. It should spike sales of custom prints, right?
+I've been a fan of explodingdog for over a decade now, and I've always wanted to do something to make it easier to browse through and find just the right drawing. There are many gems for every taste, but it is hard to scan for the ones that strike your fancy (and skim past the ones that don't). It has always cried out for a database and user interface. Hopefully Sam won't be too upset. It should spike sales of custom prints, right?
+
+Check it out at [explodingdog.herokuapp.com](https://explodingdog.herokuapp.com).
 
 ## Prerequisites
 
