@@ -1425,7 +1425,7 @@ module.exports = [
     "date": "2000-05-31",
     "id": "362",
     "key": "itsnotabug",
-    "title": "\"It's not a bug - it's a feature.\""
+    "title": "It's not a bug - it's a feature."
   },
   {
     "date": "2000-05-31",
@@ -2127,7 +2127,7 @@ module.exports = [
     "date": "2000-03-01",
     "id": "245",
     "key": "dontpiss",
-    "title": "\"Don't piss on my head and then tell me it's raining gold!\""
+    "title": "Don't piss on my head and then tell me it's raining gold!"
   },
   {
     "date": "2000-03-01",
@@ -2211,13 +2211,13 @@ module.exports = [
     "date": "2000-02-26",
     "id": "231",
     "key": "howdyou",
-    "title": "\"How'd you like to see my new watch?\""
+    "title": "How'd you like to see my new watch?"
   },
   {
     "date": "2000-02-26",
     "id": "230",
     "key": "anyonewan",
-    "title": "\"Anyone want to see my balls?\""
+    "title": "Anyone want to see my balls?"
   },
   {
     "date": "2000-02-26",
@@ -2229,7 +2229,7 @@ module.exports = [
     "date": "2000-02-26",
     "id": "228",
     "key": "youneedto",
-    "title": "\" You need to Shower after you do that\""
+    "title": "You need to Shower after you do that"
   },
   {
     "date": "2000-02-26",
@@ -2271,7 +2271,7 @@ module.exports = [
     "date": "2000-02-25",
     "id": "221",
     "key": "mispace",
-    "title": "\"monkeys in rocket cars juggling tangelos\""
+    "title": "monkeys in rocket cars juggling tangelos"
   },
   {
     "date": "2000-02-25",
@@ -2289,7 +2289,7 @@ module.exports = [
     "date": "2000-02-25",
     "id": "218",
     "key": "ijustcant",
-    "title": "\"I just can't take you seriously...please return my biscuits\""
+    "title": "I just can't take you seriously...please return my biscuits"
   },
   {
     "date": "2000-02-25",
@@ -2307,7 +2307,7 @@ module.exports = [
     "date": "2000-02-24",
     "id": "215",
     "key": "weareglkad",
-    "title": "\"We are glad you were born.\""
+    "title": "We are glad you were born."
   },
   {
     "date": "2000-02-24",
@@ -2319,7 +2319,7 @@ module.exports = [
     "date": "2000-02-24",
     "id": "213",
     "key": "suddenly",
-    "title": "\"Suddenly Kermit realized what the library was REALLY for.\""
+    "title": "Suddenly Kermit realized what the library was REALLY for."
   },
   {
     "date": "2000-02-24",
@@ -2373,7 +2373,7 @@ module.exports = [
     "date": "2000-02-23",
     "id": "204",
     "key": "yousurly",
-    "title": "\"You surely deserve the name 'Beefalow Queen"
+    "title": "You surely deserve the name 'Beefalow Queen'"
   },
   {
     "date": "2000-02-22",
@@ -2385,7 +2385,7 @@ module.exports = [
     "date": "2000-02-22",
     "id": "202",
     "key": "mrsadab",
-    "title": "\"Ms. Ada Barry, meet the Surcharge Board of Appeals of the Division of Insurance\""
+    "title": "Ms. Ada Barry, meet the Surcharge Board of Appeals of the Division of Insurance"
   },
   {
     "date": "2000-02-22",
@@ -2403,7 +2403,7 @@ module.exports = [
     "date": "2000-02-22",
     "id": "199",
     "key": "forgetfra",
-    "title": "\"Forget France. The French can be annoying. Come to Greece. We're nicer.\""
+    "title": "Forget France. The French can be annoying. Come to Greece. We're nicer."
   },
   {
     "date": "2000-02-22",
@@ -2421,7 +2421,7 @@ module.exports = [
     "date": "2000-02-22",
     "id": "196",
     "key": "whateverha",
-    "title": "Whatever happened to a girlfriend? The kind of chick who makes love 'cuz she's in it?\""
+    "title": "Whatever happened to a girlfriend? The kind of chick who makes love 'cuz she's in it?"
   },
   {
     "date": "2000-02-20",
@@ -2445,7 +2445,7 @@ module.exports = [
     "date": "2000-02-20",
     "id": "192",
     "key": "myeyebrow",
-    "title": "\"my eyebrow is eating my face\"?"
+    "title": "my eyebrow is eating my face?"
   },
   {
     "date": "2000-02-20",
@@ -2475,7 +2475,7 @@ module.exports = [
     "date": "2000-02-20",
     "id": "187",
     "key": "harvards",
-    "title": "\"Harvard's team may fight 'til the end but Yale will win.\""
+    "title": "Harvard's team may fight 'til the end but Yale will win."
   },
   {
     "date": "2000-02-20",
@@ -2499,7 +2499,7 @@ module.exports = [
     "date": "2000-02-16",
     "id": "183",
     "key": "andnoone",
-    "title": "\"And no one saw the thief.\""
+    "title": "And no one saw the thief."
   },
   {
     "date": "2000-02-16",
@@ -2511,7 +2511,7 @@ module.exports = [
     "date": "2000-02-16",
     "id": "181",
     "key": "momwhen",
-    "title": "\"MOM, when did you get home?\""
+    "title": "MOM, when did you get home?"
   },
   {
     "date": "2000-02-16",
@@ -2589,7 +2589,7 @@ module.exports = [
     "date": "2000-02-14",
     "id": "168",
     "key": "isthatyour",
-    "title": "\"Is that your final answer?\""
+    "title": "Is that your final answer?"
   },
   {
     "date": "2000-02-14",
@@ -2601,7 +2601,7 @@ module.exports = [
     "date": "2000-02-14",
     "id": "166",
     "key": "andithought",
-    "title": "\"...and i thought they smelled bad on the outside\""
+    "title": "...and i thought they smelled bad on the outside"
   },
   {
     "date": "2000-02-14",
@@ -2613,7 +2613,7 @@ module.exports = [
     "date": "2000-02-14",
     "id": "164",
     "key": "didyouhear",
-    "title": "\"Did you hear about the cannibal who passed his brother in the jungle?\""
+    "title": "Did you hear about the cannibal who passed his brother in the jungle?"
   },
   {
     "date": "2000-02-14",
@@ -2655,13 +2655,13 @@ module.exports = [
     "date": "2000-02-12",
     "id": "157",
     "key": "aoneway",
-    "title": "\"A one-way road that ends in disaster\""
+    "title": "A one-way road that ends in disaster"
   },
   {
     "date": "2000-02-12",
     "id": "156",
     "key": "amihall",
-    "title": "\"Am I hallucinating or is that Bob Hope doing a triple axle?\""
+    "title": "Am I hallucinating or is that Bob Hope doing a triple axle?"
   },
   {
     "date": "2000-02-12",
@@ -2703,13 +2703,13 @@ module.exports = [
     "date": "2000-02-09",
     "id": "149",
     "key": "pleaseex",
-    "title": "\"Please excuse the interruption.\""
+    "title": "Please excuse the interruption."
   },
   {
     "date": "2000-02-09",
     "id": "148",
     "key": "whyhas",
-    "title": "\"why has everything been taken away from me?\""
+    "title": "why has everything been taken away from me?"
   },
   {
     "date": "2000-02-09",
@@ -2727,13 +2727,13 @@ module.exports = [
     "date": "2000-02-09",
     "id": "145",
     "key": "itsureis",
-    "title": "\"It sure is convenient that you're flexible\""
+    "title": "It sure is convenient that you're flexible"
   },
   {
     "date": "2000-02-09",
     "id": "144",
     "key": "whatshould",
-    "title": "\"What should I do today.....work in a homeless shelter, or have some beer and potato chips?\""
+    "title": "What should I do today.....work in a homeless shelter, or have some beer and potato chips?"
   },
   {
     "date": "2000-02-08",
@@ -2763,7 +2763,7 @@ module.exports = [
     "date": "2000-02-08",
     "id": "139",
     "key": "thecurly",
-    "title": "\"the curly haired coffee goddess\""
+    "title": "the curly haired coffee goddess"
   },
   {
     "date": "2000-02-08",
@@ -2817,7 +2817,7 @@ module.exports = [
     "date": "2000-02-07",
     "id": "130",
     "key": "gimmie",
-    "title": "\"gimmie now, please\""
+    "title": "gimmie now, please"
   },
   {
     "date": "2000-02-07",
@@ -2847,13 +2847,13 @@ module.exports = [
     "date": "2000-02-04",
     "id": "125",
     "key": "sothisguy",
-    "title": "\"So, this guy walks into a bar...\""
+    "title": "So, this guy walks into a bar..."
   },
   {
     "date": "2000-02-04",
     "id": "124",
     "key": "mycompany",
-    "title": "My company just layed me off but they gave me a coupon for all the shrimp I can eat !"
+    "title": "My company just layed me off but they gave me a coupon for all the shrimp I can eat!"
   },
   {
     "date": "2000-02-03",
@@ -3363,7 +3363,7 @@ module.exports = [
     "date": "2000-01-17",
     "id": "39",
     "key": "itoldthe",
-    "title": "\"I told the bitch, 'Stop picking at that!' Then I smacked her.\""
+    "title": "I told the bitch, 'Stop picking at that!' Then I smacked her."
   },
   {
     "date": "2000-01-17",
