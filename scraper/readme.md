@@ -1,6 +1,6 @@
-Annual indexes, e.g. `2000.js`, are manual copies of, e.g. http://explodingdog.com/2000.html.
+Annual indexes, e.g. `2000.js`, are manually extracted from source indexes, e.g. http://explodingdog.com/2000.html.
 
-This scraper parses the indexed detail pages, e.g. http://explodingdog.com/title/100years.html.
+This scraper parses indexed detail pages, e.g. http://explodingdog.com/title/100years.html, to produce complete data.
 
 ```sh
 cd scraper
