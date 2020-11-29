@@ -18,10 +18,10 @@ app.get('/scrape', function(req, res){
         if (error) return reject();
 
         var $ = cheerio.load(html);
-        var caption, img;
+        var headings = [], img;
 
         $('h4, h2').filter(function(){
-          caption = $(this).text().trim();
+          headings.push($(this).text().trim());
         });
 
         $('img').filter(function(){
@@ -30,7 +30,7 @@ app.get('/scrape', function(req, res){
 
         result[i] = {
           id: `${year}.${i + 1}`,
-          caption,
+          caption: headings[0],
           date: o.date,
           img,
           key: o.key,
