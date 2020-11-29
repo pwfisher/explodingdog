@@ -127,7 +127,7 @@ module.exports = [
   {
     "date": "2012-06-14",
     "key": "dontforgettofly",
-    "title": ""
+    "title": "Don't forget to fly"
   },
   {
     "date": "2012-05-31",
