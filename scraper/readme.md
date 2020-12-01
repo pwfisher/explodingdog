@@ -8,4 +8,10 @@ npm install
 node server.js
 ```
 
-Open http://localhost:8081/scrape.
+First, open
+- http://localhost:8081/scrape-year-index?year=2000, etc.
+- Save these to this directory to scrape the indexed detail pages.
+
+Then open
+- http://localhost:8081/scrape-year-details?year=2000, etc.
+- This is our complete source data.
