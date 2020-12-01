@@ -48,7 +48,7 @@ app.get('/scrape-year-details', function(req, res){
         if (error) return reject();
         const $ = cheerio.load(html);
         result[i] = {
-          id: `${year}.${i + 1}`,
+          id: `${year}.${o.id || 'ERROR'}`,
           caption: tidyTitle($('h4, h2').first().text()),
           date: o.date,
           img: $('img').attr('src').replace('/drawing/', ''),
