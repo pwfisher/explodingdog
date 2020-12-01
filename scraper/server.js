@@ -33,7 +33,7 @@ app.get('/scrape-year-index', function (req, res){
   });
   RSVP.all([promise]).then(() => {
     res.setHeader('Content-Type', 'application/javascript');
-    res.send(`module.exports = ${JSON.stringify(result, true, 2)}`);
+    res.send(`module.exports = ${JSON.stringify(result, true, 2)};`);
   });
 });
 
