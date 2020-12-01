@@ -2,6 +2,7 @@ const cheerio = require('cheerio');
 const express = require('express');
 const request = require('request');
 const RSVP = require('rsvp');
+const { tidyTitle } = require('./utils');
 
 const defaultYear = '2012';
 
@@ -23,7 +24,7 @@ app.get('/scrape-year-index', function (req, res){
           const id = idMatches[i].slice(4);
           const item = cheerio.load($(el).html());
           const key = item('a').attr('href').replace('/title/', '').replace('.html', '');
-          const title = item('a').text().trim().replace(/\s+/g, ' ');
+          const title = tidyTitle(item('a').text());
           result.push({ date, id, key, title });
         })
       })
@@ -48,7 +49,7 @@ app.get('/scrape-year-details', function(req, res){
         const $ = cheerio.load(html);
         result[i] = {
           id: `${year}.${i + 1}`,
-          caption: $('h4, h2').first().text().trim(),
+          caption: tidyTitle($('h4, h2').first().text()),
           date: o.date,
           img: $('img').attr('src').replace('/drawing/', ''),
           key: o.key,
