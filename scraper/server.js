@@ -44,16 +44,16 @@ app.get('/scrape-year-details', function(req, res){
   const promises = input.map((o, i) => {
     return new RSVP.Promise((resolve, reject) => {
       url = `http://explodingdog.com/title/${o.key}.html`;
-      request(url, function(error, response, html){
+      request(url, function(error, _response, html){
         if (error) return reject();
         const $ = cheerio.load(html);
+        const detailTitle = tidyTitle($('h4, h2').first().text());
         result[i] = {
-          id: `${year}.${o.id || 'ERROR'}`,
-          caption: tidyTitle($('h4, h2').first().text()),
+          id: `${detailsYear}.${o.id || 'ERROR'}`,
           date: o.date,
-          img: $('img').attr('src').replace('/drawing/', ''),
+          img: $('img').length && $('img').attr('src').replace('/drawing/', '') || 'ERROR',
           key: o.key,
-          title: o.title,
+          title: o.title === detailTitle ? o.title : 'ERROR',
         };
         resolve();
       });

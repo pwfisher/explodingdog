@@ -1537,7 +1537,7 @@ module.exports = [
   },
   {
     "date": "2000-05-25",
-    "id:": "343",
+    "id": "343",
     "key": "watchout",
     "title": "Watch out, it bites"
   },
@@ -2089,7 +2089,7 @@ module.exports = [
   },
   {
     "date": "2000-03-01",
-    "id:": "251",
+    "id": "251",
     "key": "something",
     "title": "i drew something for you"
   },
@@ -2662,12 +2662,6 @@ module.exports = [
     "id": "156",
     "key": "amihall",
     "title": "Am I hallucinating or is that Bob Hope doing a triple axle?"
-  },
-  {
-    "date": "2000-02-12",
-    "id": "155",
-    "key": "shitdems",
-    "title": "Shit, dem’s good varmints."
   },
   {
     "date": "2000-02-12",
