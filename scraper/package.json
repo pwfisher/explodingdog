@@ -4,8 +4,9 @@
   "description": "Scrape explodingdog.com.",
   "main": "server.js",
   "author": "pwfisher",
-  "dependencies" : {
+  "dependencies": {
     "express": "",
+    "node-fetch": "*",
     "request": "",
     "cheerio": "",
     "rsvp": ""

@@ -10,7 +10,7 @@ const app = express();
 
 app.get('/scrape-year-index', function (req, res){
   const indexYear = req.query.year || defaultYear;
-  url = `http://explodingdog.com/${indexYear}.html`;
+  const url = `http://explodingdog.com/${indexYear}.html`;
   const result = [];
   const promise = new RSVP.Promise((resolve, reject) => {
     request(url, function(error, response, html){
@@ -45,7 +45,7 @@ app.get('/scrape-year-details', function(req, res){
     return new RSVP.Promise((resolve, reject) => {
       const delay = Math.random() * input.length * 10;
       setTimeout(() => {
-        url = `http://explodingdog.com/title/${o.key}.html`;
+        const url = `http://explodingdog.com/title/${o.key}.html`;
         request(url, function(error, _response, html){
           if (error) return reject();
           const $ = cheerio.load(html);
