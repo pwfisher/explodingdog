@@ -17,3 +17,5 @@ npm-debug.log
 testem.log
 
 scraper/node_modules
+
+.DS_Store
