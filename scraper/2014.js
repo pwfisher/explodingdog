@@ -18,8 +18,8 @@ module.exports = [
     "title": "That Echo is Getting Louder"
   },
   {
-  "date": "2014-12-16",
-  "id": "46",
+    "date": "2014-12-16",
+    "id": "46",
     "key": "robotsarentscary",
     "title": "Robots Aren't Scary"
   },
@@ -45,7 +45,7 @@ module.exports = [
     "date": "2014-12-09",
     "id": "42",
     "key": "ilikeseeingyouinthewinter",
-    "title": "I like seeing you in the winter "
+    "title": "I like seeing you in the winter"
   },
   {
     "date": "2014-12-05",
@@ -267,7 +267,7 @@ module.exports = [
     "date": "2014-02-06",
     "id": "5",
     "key": "yourbarewallsaredepressingtome",
-    "title": "Your bare walls are depressing to me. "
+    "title": "Your bare walls are depressing to me."
   },
   {
     "date": "2014-01-30",
@@ -292,5 +292,5 @@ module.exports = [
     "id": "1",
     "key": "imheadingnorthagain",
     "title": "I'm heading north again."
-  },
-]
+  }
+];
