@@ -1,6 +1,9 @@
 {
-  "name": "explorer-ts",
-  "version": "0.1.0",
+  "name": "explodingdog-explorer",
+  "version": "0.2.0",
+  "description": "explodingdog explorer. An alternate explodingdog experience.",
+  "author": "Patrick Fisher <patrick@pwfisher.com>",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
