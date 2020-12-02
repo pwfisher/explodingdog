@@ -1,4 +1,4 @@
-# Explodingdog Explorer
+# explodingdog explorer
 
 An alternate explodingdog experience.
 
