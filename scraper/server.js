@@ -39,27 +39,32 @@ app.get('/scrape-year-index', function (req, res){
 
 app.get('/scrape-year-details', function(req, res){
   const detailsYear = req.query.year || defaultYear
-  const input = require(`./${detailsYear}`);
+  const input = require(`./scraped-indexes/${detailsYear}`);
   const result = [];
   const promises = input.map((o, i) => {
     return new RSVP.Promise((resolve, reject) => {
-      url = `http://explodingdog.com/title/${o.key}.html`;
-      request(url, function(error, _response, html){
-        if (error) return reject();
-        const $ = cheerio.load(html);
-        const detailTitle = tidyTitle($('h4, h2').first().text());
-        result[i] = {
-          id: `${detailsYear}.${o.id || 'ERROR'}`,
-          date: o.date,
-          img: $('img').length && $('img').attr('src').replace('/drawing/', '') || 'ERROR',
-          key: o.key,
-          title: o.title === detailTitle ? o.title : 'ERROR',
-        };
-        resolve();
-      });
+      const delay = Math.random() * input.length * 10;
+      setTimeout(() => {
+        url = `http://explodingdog.com/title/${o.key}.html`;
+        request(url, function(error, _response, html){
+          if (error) return reject();
+          const $ = cheerio.load(html);
+          const sourceTitle = tidyTitle($('h4, h2').first().text());
+          result[i] = {
+            id: `${detailsYear}.${o.id || 'ERROR'}`,
+            date: o.date,
+            img: $('img').length && $('img').attr('src')
+              .replace('../drawing/', '')
+              .replace('/drawing/', '') || 'ERROR',
+            key: o.key,
+            title: o.title,
+            sourceTitle,
+          };
+          resolve();
+        });
+      }, delay)
     });
   });
-
   RSVP.all(promises).then(() => {
     res.setHeader('Content-Type', 'application/json');
     res.send(JSON.stringify(result, true, 2));
