@@ -49,7 +49,7 @@ app.get('/scrape-year-details', function(req, res){
         request(url, function(error, _response, html){
           if (error) return reject();
           const $ = cheerio.load(html);
-          const sourceTitle = tidyTitle($('h4, h2').first().text());
+          // const sourceTitle = tidyTitle($('h4, h2').first().text());
           result[i] = {
             id: `${detailsYear}.${o.id || 'ERROR'}`,
             date: o.date,
@@ -58,7 +58,7 @@ app.get('/scrape-year-details', function(req, res){
               .replace('/drawing/', '') || 'ERROR',
             key: o.key,
             title: o.title,
-            sourceTitle,
+            // sourceTitle,
           };
           resolve();
         });
