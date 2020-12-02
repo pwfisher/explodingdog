@@ -1,7 +1,7 @@
 //
 // Scraper for http://explodingdog.com (2000-2006)
 //
-// Precondition: load https://code.jquery.com/jquery-3.0.0.min.js
+// Dependency: https://code.jquery.com/jquery-3.0.0.min.js
 //
 var result = [];
 var date = null;
