@@ -53,7 +53,7 @@ app.get('/scrape-year-details', function(req, res){
           result[i] = {
             id: `${detailsYear}.${o.id || 'ERROR'}`,
             date: o.date,
-            img: $('img').length && $('img').attr('src')
+            image: $('img').length && $('img').attr('src')
               .replace('../drawing/', '')
               .replace('/drawing/', '') || 'ERROR',
             key: o.key,
