@@ -1,6 +1,9 @@
 {
-  "name": "with-typescript",
-  "version": "1.0.0",
+  "name": "explodingdog-explorer",
+  "version": "0.4.0",
+  "description": "explodingdog explorer. An alternate explodingdog experience.",
+  "author": "Patrick Fisher <patrick@pwfisher.com>",
+  "license": "MIT",
   "scripts": {
     "dev": "next",
     "build": "next build",
@@ -17,6 +20,5 @@
     "@types/react": "^16.9.16",
     "@types/react-dom": "^16.9.4",
     "typescript": "4.0"
-  },
-  "license": "MIT"
+  }
 }
