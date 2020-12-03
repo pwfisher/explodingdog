@@ -3,6 +3,7 @@ import { PageLayout } from '../../components/PageLayout'
 import { drawingYears } from '../../__fixtures__/drawings'
 import { getYearDrawingSet } from '../../lib/drawings'
 import { Drawing } from '../../types/drawing-models'
+import { DrawingTile } from '../../components/DrawingTile'
 
 const YearPage = ({ year, drawings }: {
   year: number
@@ -11,7 +12,7 @@ const YearPage = ({ year, drawings }: {
   return (
     <PageLayout title={`explodingdog ${year}`}>
       {drawings && drawings.map(drawing => (
-        <pre key={drawing.id}>{JSON.stringify(drawing, null, 2)}</pre>
+        <DrawingTile {...drawing} />
       ))}
     </PageLayout>
   )
