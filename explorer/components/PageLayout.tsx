@@ -1,6 +1,7 @@
 import React, { ReactNode } from 'react'
-import Link from 'next/link'
 import Head from 'next/head'
+import { PageHeader } from './PageHeader'
+import { PageFooter } from './PageFooter'
 
 type Props = {
   children?: ReactNode
@@ -8,12 +9,12 @@ type Props = {
   description?: string
 }
 
-const Layout = ({
+export const PageLayout = ({
   children,
   title = 'explodingdog explorer',
   description = 'explodingdog explorer. An alternate explodingdog experience.'
 }: Props) => (
-  <div>
+  <>
     <Head>
       <title>{title}</title>
       <meta charSet="utf-8" />
@@ -24,29 +25,8 @@ const Layout = ({
       <meta name="description" content={description} />
       <link rel="manifest" href="/manifest.json" />
     </Head>
-    <header>
-      <nav>
-        <Link href="/">
-          <a>Home</a>
-        </Link>
-        {' | '}
-        <Link href="/about">
-          <a>About</a>
-        </Link>
-        {' | '}
-        <Link href="/users">
-          <a>Users List</a>
-        </Link>
-        {' | '}
-        <a href="/api/users">Users API</a>
-      </nav>
-    </header>
+    <PageHeader />
     {children}
-    <footer>
-      <hr />
-      <span>I'm here to stay (Footer)</span>
-    </footer>
-  </div>
+    <PageFooter />
+  </>
 )
-
-export default Layout
