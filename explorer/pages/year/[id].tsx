@@ -1,23 +1,7 @@
+import { YearPage } from '../../components/YearPage'
 import { GetStaticProps, GetStaticPaths } from 'next'
-import { PageLayout } from '../../components/PageLayout'
 import { drawingYears } from '../../__fixtures__/drawings'
 import { getYearDrawingSet } from '../../lib/drawings'
-import { Drawing } from '../../types/drawing-models'
-import { DrawingTile } from '../../components/DrawingTile'
-
-const YearPage = ({ year, drawings }: {
-  year: number
-  drawings?: Drawing[]
-}) => {
-  return (
-    <PageLayout title={`explodingdog ${year}`}>
-      <h1>{year}</h1>
-      {drawings && drawings.map(drawing => (
-        <DrawingTile {...drawing} />
-      ))}
-    </PageLayout>
-  )
-}
 
 export default YearPage
 
