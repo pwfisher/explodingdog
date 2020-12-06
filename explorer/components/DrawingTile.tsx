@@ -2,19 +2,21 @@ import React from 'react'
 import { Drawing } from '../types/drawing-models'
 import styled from 'styled-components'
 
-export const DrawingTile: React.FC<Drawing> = ({ date, title, image }) => {
+export const DrawingTile: React.FC<Drawing> = ({ date, title, slug, image }) => {
   return (
     <Container>
       <Date>{date}</Date>
       <Title>{title}</Title>
-      <Image src={`/images/${image}`} alt={title} />
+      <a href={`http://explodingdog.com/title/${slug}.html`} target='_blank'>
+        <Image src={`/images/${image}`} alt={title} />
+      </a>
     </Container>
   )
 }
 
 const Container = styled.div.attrs({ className: 'Explorer__DrawingTile__Container'})`
   display: inline-block;
-  padding: 8px;
+  padding: 24px 12px;
   width: 250px;
 `
 

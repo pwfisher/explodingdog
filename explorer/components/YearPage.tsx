@@ -12,7 +12,7 @@ export const YearPage = ({ year, drawings }: {
       <Heading>{year}</Heading>
       <DrawingSection>
         {drawings && drawings.map(drawing => (
-          <DrawingTile {...drawing} />
+          <DrawingTile key={drawing.slug} {...drawing} />
         ))}
       </DrawingSection>
     </PageLayout>

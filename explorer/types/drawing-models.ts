@@ -8,6 +8,6 @@ export interface Drawing
     id: string
     date: string
     title: string
-    key: string
+    slug: string
     image: string
   }> {}
