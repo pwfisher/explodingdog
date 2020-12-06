@@ -11,6 +11,7 @@ const YearPage = ({ year, drawings }: {
 }) => {
   return (
     <PageLayout title={`explodingdog ${year}`}>
+      <h1>{year}</h1>
       {drawings && drawings.map(drawing => (
         <DrawingTile {...drawing} />
       ))}
