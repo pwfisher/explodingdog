@@ -24,15 +24,14 @@ $('a[href*="title"], b, em, .date')
       }
     }
     if (node.tagName === 'A') {
-      var key = $(node).attr('href').trim().slice(6, -5); // a malformed href in 2001 has a leading space
+      var slug = $(node).attr('href').trim().slice(6, -5); // a malformed href in 2001 has a leading space
       var title = $(node).text().trim();
       var lastResult = result[result.length - 1] || {};
-      if (key === lastResult.key) { // a malformed link in 2000 is split in two
+      if (slug === lastResult.slug) { // a malformed link in 2000 is split in two
         lastResult.title += ' ' + title;
       } else if (date) {
-        result.push({ date, key, title });
+        result.push({ date, slug, title });
       }
-      lastKey = key;
     }
   });
 console.log(JSON.stringify(result, true, 2));

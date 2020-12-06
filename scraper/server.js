@@ -23,9 +23,9 @@ app.get('/scrape-year-index', function (req, res){
         day('li').map((i, el) => {
           const id = idMatches[i].slice(4);
           const item = cheerio.load($(el).html());
-          const key = item('a').attr('href').replace('/title/', '').replace('.html', '');
+          const slug = item('a').attr('href').replace('/title/', '').replace('.html', '');
           const title = tidyTitle(item('a').text());
-          result.push({ date, id, key, title });
+          result.push({ date, id, slug, title });
         })
       })
       resolve();
@@ -45,7 +45,7 @@ app.get('/scrape-year-details', function(req, res){
     return new RSVP.Promise((resolve, reject) => {
       const delay = Math.random() * input.length * 10;
       setTimeout(() => {
-        const url = `http://explodingdog.com/title/${o.key}.html`;
+        const url = `http://explodingdog.com/title/${o.slug}.html`;
         request(url, function(error, _response, html){
           if (error) return reject();
           const $ = cheerio.load(html);
@@ -56,7 +56,7 @@ app.get('/scrape-year-details', function(req, res){
             image: $('img').length && $('img').attr('src')
               .replace('../drawing/', '')
               .replace('/drawing/', '') || 'ERROR',
-            key: o.key,
+            slug: o.slug,
             title: o.title,
             // sourceTitle,
           };

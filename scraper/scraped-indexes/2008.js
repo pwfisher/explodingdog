@@ -2,3505 +2,3505 @@ module.exports = [
   {
     "date": "2008-12-19",
     "id": "586",
-    "key": "imgettingnervousiwishyouwouldcomehome",
+    "slug": "imgettingnervousiwishyouwouldcomehome",
     "title": "I'm getting nervous I wish you would come home"
   },
   {
     "date": "2008-12-19",
     "id": "585",
-    "key": "iamsorryididntkissyou",
+    "slug": "iamsorryididntkissyou",
     "title": "I am sorry I didn't kiss you"
   },
   {
     "date": "2008-12-18",
     "id": "584",
-    "key": "mymomtoldmegodispunishingme",
+    "slug": "mymomtoldmegodispunishingme",
     "title": "My mom told me, God is punishing me..."
   },
   {
     "date": "2008-12-18",
     "id": "583",
-    "key": "hedestroyedhisfuture",
+    "slug": "hedestroyedhisfuture",
     "title": "He destroyed his future"
   },
   {
     "date": "2008-12-18",
     "id": "582",
-    "key": "itwasbrokenbeforeigothere",
+    "slug": "itwasbrokenbeforeigothere",
     "title": "It was broken before I got here"
   },
   {
     "date": "2008-12-18",
     "id": "581",
-    "key": "dontstop",
+    "slug": "dontstop",
     "title": "don't stop"
   },
   {
     "date": "2008-12-18",
     "id": "580",
-    "key": "pleasecomehome",
+    "slug": "pleasecomehome",
     "title": "please come home"
   },
   {
     "date": "2008-12-18",
     "id": "579",
-    "key": "mylifewouldbemucheasier",
+    "slug": "mylifewouldbemucheasier",
     "title": "My life would be much easier if I could read your mind"
   },
   {
     "date": "2008-12-18",
     "id": "578",
-    "key": "thatwasadisappointment",
+    "slug": "thatwasadisappointment",
     "title": "That was a disappointment"
   },
   {
     "date": "2008-12-18",
     "id": "577",
-    "key": "atthetime",
+    "slug": "atthetime",
     "title": "At the time I thought it was a good idea to be chained to this monster"
   },
   {
     "date": "2008-12-16",
     "id": "576",
-    "key": "ilikethefuzzyones",
+    "slug": "ilikethefuzzyones",
     "title": "I like the fuzzy ones"
   },
   {
     "date": "2008-12-16",
     "id": "575",
-    "key": "whatswrongwithhim",
+    "slug": "whatswrongwithhim",
     "title": "what's wrong with him?"
   },
   {
     "date": "2008-12-15",
     "id": "574",
-    "key": "whatareyoustilldoinghere",
+    "slug": "whatareyoustilldoinghere",
     "title": "What are you still doing here?"
   },
   {
     "date": "2008-12-15",
     "id": "573",
-    "key": "icantlivewiththisthing",
+    "slug": "icantlivewiththisthing",
     "title": "I can't live with this thing"
   },
   {
     "date": "2008-12-12",
     "id": "572",
-    "key": "isthereaproblemhere",
+    "slug": "isthereaproblemhere",
     "title": "Is there a problem here?"
   },
   {
     "date": "2008-12-12",
     "id": "571",
-    "key": "iwashopingyouwouldnotice",
+    "slug": "iwashopingyouwouldnotice",
     "title": "I was hoping you would notice"
   },
   {
     "date": "2008-12-12",
     "id": "570",
-    "key": "pleasedonttakethisplaceawayfromme",
+    "slug": "pleasedonttakethisplaceawayfromme",
     "title": "please don't take this place away from me"
   },
   {
     "date": "2008-12-11",
     "id": "569",
-    "key": "dontstopbelievin",
+    "slug": "dontstopbelievin",
     "title": "Don't stop believin'"
   },
   {
     "date": "2008-12-11",
     "id": "568",
-    "key": "ivegotfive",
+    "slug": "ivegotfive",
     "title": "I've got five"
   },
   {
     "date": "2008-12-11",
     "id": "567",
-    "key": "ivethoughtaboutyou",
+    "slug": "ivethoughtaboutyou",
     "title": "I've thought about you ever day since we met, 738 days and counting..."
   },
   {
     "date": "2008-12-11",
     "id": "566",
-    "key": "lookupmore",
+    "slug": "lookupmore",
     "title": "Look up more"
   },
   {
     "date": "2008-12-10",
     "id": "565",
-    "key": "happybirthday",
+    "slug": "happybirthday",
     "title": "Happy Birthday"
   },
   {
     "date": "2008-12-10",
     "id": "564",
-    "key": "illdoitifyoulldoit",
+    "slug": "illdoitifyoulldoit",
     "title": "I'll do it if you'll do it"
   },
   {
     "date": "2008-12-09",
     "id": "563",
-    "key": "ineedavacation",
+    "slug": "ineedavacation",
     "title": "I need a vacation"
   },
   {
     "date": "2008-12-09",
     "id": "562",
-    "key": "whatdoyouwantmetosay",
+    "slug": "whatdoyouwantmetosay",
     "title": "What do you want me to say"
   },
   {
     "date": "2008-12-09",
     "id": "561",
-    "key": "itsalldownhillfromhere",
+    "slug": "itsalldownhillfromhere",
     "title": "It's all downhill from here"
   },
   {
     "date": "2008-12-08",
     "id": "560",
-    "key": "illneverfinish",
+    "slug": "illneverfinish",
     "title": "I'll never finish"
   },
   {
     "date": "2008-12-08",
     "id": "559",
-    "key": "wehavesomethingspecial",
+    "slug": "wehavesomethingspecial",
     "title": "We have something special"
   },
   {
     "date": "2008-12-05",
     "id": "558",
-    "key": "imnotliketheothergirls",
+    "slug": "imnotliketheothergirls",
     "title": "I'm not like the other girls"
   },
   {
     "date": "2008-12-05",
     "id": "557",
-    "key": "ihopeyourehappywhenidie",
+    "slug": "ihopeyourehappywhenidie",
     "title": "I hope you're happy when I die"
   },
   {
     "date": "2008-12-05",
     "id": "556",
-    "key": "thisisthebestbirthdaypresentever",
+    "slug": "thisisthebestbirthdaypresentever",
     "title": "This is the best birthday present ever"
   },
   {
     "date": "2008-12-05",
     "id": "555",
-    "key": "igotnewshoes",
+    "slug": "igotnewshoes",
     "title": "I got new shoes"
   },
   {
     "date": "2008-12-04",
     "id": "554",
-    "key": "ilivealone",
+    "slug": "ilivealone",
     "title": "I live alone"
   },
   {
     "date": "2008-12-04",
     "id": "553",
-    "key": "thisisblasphemy",
+    "slug": "thisisblasphemy",
     "title": "This is Blasphemy!"
   },
   {
     "date": "2008-12-03",
     "id": "550",
-    "key": "justgoingforashortwalk",
+    "slug": "justgoingforashortwalk",
     "title": "just going for a short walk"
   },
   {
     "date": "2008-12-03",
     "id": "549",
-    "key": "whydidntyoulovemeback",
+    "slug": "whydidntyoulovemeback",
     "title": "Why didn't you love me back"
   },
   {
     "date": "2008-12-02",
     "id": "548",
-    "key": "youwontusethisiknow",
+    "slug": "youwontusethisiknow",
     "title": "You won't use this, I know"
   },
   {
     "date": "2008-12-02",
     "id": "547",
-    "key": "sometimesilie",
+    "slug": "sometimesilie",
     "title": "Sometimes I lie"
   },
   {
     "date": "2008-12-02",
     "id": "546",
-    "key": "godblessyou",
+    "slug": "godblessyou",
     "title": "God bless you"
   },
   {
     "date": "2008-12-02",
     "id": "545",
-    "key": "maybethistimeitllhappen",
+    "slug": "maybethistimeitllhappen",
     "title": "Maybe this time it'll happen"
   },
   {
     "date": "2008-12-02",
     "id": "544",
-    "key": "idontseeyou",
+    "slug": "idontseeyou",
     "title": "I don't see you"
   },
   {
     "date": "2008-12-01",
     "id": "543",
-    "key": "ifoundyourradio",
+    "slug": "ifoundyourradio",
     "title": "I found your radio"
   },
   {
     "date": "2008-12-01",
     "id": "542",
-    "key": "itsonlycomplicatedwhenyoumakeitcomplicated",
+    "slug": "itsonlycomplicatedwhenyoumakeitcomplicated",
     "title": "It's only complicated when you make it complicated"
   },
   {
     "date": "2008-12-01",
     "id": "541",
-    "key": "ivebeentryingforyears",
+    "slug": "ivebeentryingforyears",
     "title": "I've been trying for years"
   },
   {
     "date": "2008-12-01",
     "id": "540",
-    "key": "listenillberightherewaiting",
+    "slug": "listenillberightherewaiting",
     "title": "Listen, I'll be right here waiting..."
   },
   {
     "date": "2008-12-01",
     "id": "539",
-    "key": "tellmesomethingextranice",
+    "slug": "tellmesomethingextranice",
     "title": "tell me something extra nice"
   },
   {
     "date": "2008-12-01",
     "id": "538",
-    "key": "wearefinallymarried",
+    "slug": "wearefinallymarried",
     "title": "We are finally married"
   },
   {
     "date": "2008-12-01",
     "id": "537",
-    "key": "youretoopredictable",
+    "slug": "youretoopredictable",
     "title": "you're too predictable"
   },
   {
     "date": "2008-11-26",
     "id": "536",
-    "key": "ionlyloveyouwhenimdrunk",
+    "slug": "ionlyloveyouwhenimdrunk",
     "title": "I only love you when I'm drunk"
   },
   {
     "date": "2008-11-26",
     "id": "535",
-    "key": "idonthaveaheadache",
+    "slug": "idonthaveaheadache",
     "title": "I don't have a headache"
   },
   {
     "date": "2008-11-24",
     "id": "534",
-    "key": "noonecanknow",
+    "slug": "noonecanknow",
     "title": "No one can know"
   },
   {
     "date": "2008-11-24",
     "id": "533",
-    "key": "stuckintheclouds",
+    "slug": "stuckintheclouds",
     "title": "Stuck in the clouds"
   },
   {
     "date": "2008-11-19",
     "id": "532",
-    "key": "dontlookintotheireyes",
+    "slug": "dontlookintotheireyes",
     "title": "Don't look into their eyes"
   },
   {
     "date": "2008-11-19",
     "id": "531",
-    "key": "itstoolatenow",
+    "slug": "itstoolatenow",
     "title": "It's too late now"
   },
   {
     "date": "2008-11-19",
     "id": "530",
-    "key": "thisismyair",
+    "slug": "thisismyair",
     "title": "this is my air"
   },
   {
     "date": "2008-11-19",
     "id": "529",
-    "key": "iwantmore",
+    "slug": "iwantmore",
     "title": "I want more"
   },
   {
     "date": "2008-11-18",
     "id": "528",
-    "key": "iamgoingtowriteyoueverydayuntilyoudrawmeapicture",
+    "slug": "iamgoingtowriteyoueverydayuntilyoudrawmeapicture",
     "title": "I am going to write you everyday until you draw me a picture"
   },
   {
     "date": "2008-11-18",
     "id": "527",
-    "key": "thanksfornothing",
+    "slug": "thanksfornothing",
     "title": "thanks for nothing"
   },
   {
     "date": "2008-11-18",
     "id": "526",
-    "key": "evensmartpeopledostupidthings",
+    "slug": "evensmartpeopledostupidthings",
     "title": "even smart people do stupid things"
   },
   {
     "date": "2008-11-18",
     "id": "525",
-    "key": "ididntsleepwelllastnight",
+    "slug": "ididntsleepwelllastnight",
     "title": "I didn't sleep well last night"
   },
   {
     "date": "2008-11-18",
     "id": "524",
-    "key": "ineedcoffee2",
+    "slug": "ineedcoffee2",
     "title": "I need coffee"
   },
   {
     "date": "2008-11-18",
     "id": "523",
-    "key": "itsallthewayoverthere",
+    "slug": "itsallthewayoverthere",
     "title": "it's all the way over there"
   },
   {
     "date": "2008-11-17",
     "id": "522",
-    "key": "todayisgoingtobealongday",
+    "slug": "todayisgoingtobealongday",
     "title": "today is going to be a long day"
   },
   {
     "date": "2008-11-17",
     "id": "521",
-    "key": "wemightaswell",
+    "slug": "wemightaswell",
     "title": "we might as well..."
   },
   {
     "date": "2008-11-14",
     "id": "520",
-    "key": "itwasallforyou",
+    "slug": "itwasallforyou",
     "title": "It was all for you"
   },
   {
     "date": "2008-11-14",
     "id": "519",
-    "key": "nowonderitdidntwork",
+    "slug": "nowonderitdidntwork",
     "title": "no wonder it didn't work"
   },
   {
     "date": "2008-11-14",
     "id": "518",
-    "key": "yesidohateyouwhatdidyouexpect",
+    "slug": "yesidohateyouwhatdidyouexpect",
     "title": "Yes! I do hate you. What did you expect?"
   },
   {
     "date": "2008-11-14",
     "id": "517",
-    "key": "itworks",
+    "slug": "itworks",
     "title": "It works"
   },
   {
     "date": "2008-11-14",
     "id": "516",
-    "key": "itsyourbirthdayandthisiswhatigotyou",
+    "slug": "itsyourbirthdayandthisiswhatigotyou",
     "title": "It's your birthday and this is what I got you"
   },
   {
     "date": "2008-11-13",
     "id": "515",
-    "key": "whendidichangemymind",
+    "slug": "whendidichangemymind",
     "title": "When did I change my mind?"
   },
   {
     "date": "2008-11-13",
     "id": "514",
-    "key": "thoughtsofyoudistractme",
+    "slug": "thoughtsofyoudistractme",
     "title": "Thoughts of you distract me"
   },
   {
     "date": "2008-11-13",
     "id": "513",
-    "key": "butimsotired",
+    "slug": "butimsotired",
     "title": "but I'm so tired"
   },
   {
     "date": "2008-11-13",
     "id": "512",
-    "key": "doyouhateme",
+    "slug": "doyouhateme",
     "title": "Do you hate me?"
   },
   {
     "date": "2008-11-13",
     "id": "511",
-    "key": "tomorrowwillbebetter",
+    "slug": "tomorrowwillbebetter",
     "title": "tomorrow will be better"
   },
   {
     "date": "2008-11-13",
     "id": "510",
-    "key": "sometimesiforgetyouarearobot",
+    "slug": "sometimesiforgetyouarearobot",
     "title": "Sometimes I forget you are a robot"
   },
   {
     "date": "2008-11-12",
     "id": "509",
-    "key": "iboughtyouthisstuff",
+    "slug": "iboughtyouthisstuff",
     "title": "I bought you this stuff"
   },
   {
     "date": "2008-11-12",
     "id": "508",
-    "key": "justjump",
+    "slug": "justjump",
     "title": "just jump"
   },
   {
     "date": "2008-11-12",
     "id": "507",
-    "key": "thisismynewfamily",
+    "slug": "thisismynewfamily",
     "title": "This is my new family"
   },
   {
     "date": "2008-11-10",
     "id": "506",
-    "key": "buildingawall",
+    "slug": "buildingawall",
     "title": "Building a wall"
   },
   {
     "date": "2008-11-10",
     "id": "505",
-    "key": "idreamoftreehousesbutiamafraidofheights",
+    "slug": "idreamoftreehousesbutiamafraidofheights",
     "title": "I dream of treehouses but I am afraid of heights"
   },
   {
     "date": "2008-11-06",
     "id": "504",
-    "key": "awesome2",
+    "slug": "awesome2",
     "title": "Awesome!"
   },
   {
     "date": "2008-11-06",
     "id": "503",
-    "key": "ifyoudogoodthingsitwillpayoff",
+    "slug": "ifyoudogoodthingsitwillpayoff",
     "title": "If you do good things, it will pay off."
   },
   {
     "date": "2008-11-06",
     "id": "502",
-    "key": "robo-businessman",
+    "slug": "robo-businessman",
     "title": "Robo-businessman"
   },
   {
     "date": "2008-11-06",
     "id": "501",
-    "key": "lookwhatigotinthemailtoday",
+    "slug": "lookwhatigotinthemailtoday",
     "title": "Look what I got in the mail today"
   },
   {
     "date": "2008-11-06",
     "id": "500",
-    "key": "wevebeentogetherfor5years",
+    "slug": "wevebeentogetherfor5years",
     "title": "We've been together for 5 years"
   },
   {
     "date": "2008-11-05",
     "id": "499",
-    "key": "whywontyougetoutofmyhead",
+    "slug": "whywontyougetoutofmyhead",
     "title": "Why won't you get out of my head?"
   },
   {
     "date": "2008-11-05",
     "id": "498",
-    "key": "imadeyousomething",
+    "slug": "imadeyousomething",
     "title": "I made you something"
   },
   {
     "date": "2008-11-05",
     "id": "497",
-    "key": "somedayillbeadoctor",
+    "slug": "somedayillbeadoctor",
     "title": "someday I'll be a doctor"
   },
   {
     "date": "2008-11-05",
     "id": "496",
-    "key": "imcryingontheinside",
+    "slug": "imcryingontheinside",
     "title": "I'm crying on the inside"
   },
   {
     "date": "2008-11-04",
     "id": "495",
-    "key": "ivoted",
+    "slug": "ivoted",
     "title": "I voted"
   },
   {
     "date": "2008-11-04",
     "id": "494",
-    "key": "lookaheadthefutureisclose",
+    "slug": "lookaheadthefutureisclose",
     "title": "look ahead the future is close"
   },
   {
     "date": "2008-11-04",
     "id": "493",
-    "key": "todayisgoingtobedifferent",
+    "slug": "todayisgoingtobedifferent",
     "title": "today is going to be different"
   },
   {
     "date": "2008-11-02",
     "id": "492",
-    "key": "thatsthetreeiplanted",
+    "slug": "thatsthetreeiplanted",
     "title": "That's the tree I planted"
   },
   {
     "date": "2008-11-02",
     "id": "491",
-    "key": "imwaitingtoawakefromthisdream",
+    "slug": "imwaitingtoawakefromthisdream",
     "title": "I'm waiting to awake from this dream"
   },
   {
     "date": "2008-10-30",
     "id": "490",
-    "key": "ifinallyfoundyou",
+    "slug": "ifinallyfoundyou",
     "title": "I finally found you"
   },
   {
     "date": "2008-10-30",
     "id": "489",
-    "key": "isthiswhatallthefussisabout",
+    "slug": "isthiswhatallthefussisabout",
     "title": "Is this what all the fuss is about?"
   },
   {
     "date": "2008-10-29",
     "id": "488",
-    "key": "youbrokemyheart",
+    "slug": "youbrokemyheart",
     "title": "You broke my heart"
   },
   {
     "date": "2008-10-29",
     "id": "487",
-    "key": "exploringtheocean",
+    "slug": "exploringtheocean",
     "title": "Exploring the ocean"
   },
   {
     "date": "2008-10-29",
     "id": "486",
-    "key": "ihavenoidea",
+    "slug": "ihavenoidea",
     "title": "I have no idea"
   },
   {
     "date": "2008-10-29",
     "id": "485",
-    "key": "technologyisfinallycatchingup",
+    "slug": "technologyisfinallycatchingup",
     "title": "technology is finally catching up"
   },
   {
     "date": "2008-10-28",
     "id": "484",
-    "key": "whatarethestupidthingsyoudo",
+    "slug": "whatarethestupidthingsyoudo",
     "title": "What are the the stupid things you do"
   },
   {
     "date": "2008-10-28",
     "id": "483",
-    "key": "damnit",
+    "slug": "damnit",
     "title": "Damn it"
   },
   {
     "date": "2008-10-28",
     "id": "482",
-    "key": "ifeelsodisconnectedfromallofyou",
+    "slug": "ifeelsodisconnectedfromallofyou",
     "title": "I feel so disconnected from all of you"
   },
   {
     "date": "2008-10-28",
     "id": "481",
-    "key": "thisisimportant",
+    "slug": "thisisimportant",
     "title": "This is important"
   },
   {
     "date": "2008-10-28",
     "id": "480",
-    "key": "ihopeitdoesnthurt",
+    "slug": "ihopeitdoesnthurt",
     "title": "I hope this doesn't hurt"
   },
   {
     "date": "2008-10-27",
     "id": "479",
-    "key": "thinkbeforeyoutalk",
+    "slug": "thinkbeforeyoutalk",
     "title": "Think before you talk"
   },
   {
     "date": "2008-10-27",
     "id": "478",
-    "key": "youredrinkingtoomuch",
+    "slug": "youredrinkingtoomuch",
     "title": "You're drinking too much"
   },
   {
     "date": "2008-10-27",
     "id": "477",
-    "key": "thiswasntsupposedtohappen",
+    "slug": "thiswasntsupposedtohappen",
     "title": "This wasn't supposed to happen"
   },
   {
     "date": "2008-10-23",
     "id": "476",
-    "key": "mineisbroken",
+    "slug": "mineisbroken",
     "title": "Mine is broken"
   },
   {
     "date": "2008-10-23",
     "id": "475",
-    "key": "iforgottogetajob",
+    "slug": "iforgottogetajob",
     "title": "I forgot to get a job"
   },
   {
     "date": "2008-10-22",
     "id": "474",
-    "key": "imafraidtosayiloveyou",
+    "slug": "imafraidtosayiloveyou",
     "title": "I'm afraid to say \"I love you\""
   },
   {
     "date": "2008-10-22",
     "id": "473",
-    "key": "imnolongeralonelyrobot",
+    "slug": "imnolongeralonelyrobot",
     "title": "I'm no longer a lonely robot"
   },
   {
     "date": "2008-10-16",
     "id": "472",
-    "key": "idontknowhowtotellyouthis",
+    "slug": "idontknowhowtotellyouthis",
     "title": "I don't know how to tell you this"
   },
   {
     "date": "2008-10-16",
     "id": "471",
-    "key": "antigravityboots",
+    "slug": "antigravityboots",
     "title": "Anti-Gravity boots"
   },
   {
     "date": "2008-10-16",
     "id": "470",
-    "key": "welljusthavetostartover",
+    "slug": "welljusthavetostartover",
     "title": "We'll just have to start over"
   },
   {
     "date": "2008-10-15",
     "id": "469",
-    "key": "nothingfeelsrealanymore",
+    "slug": "nothingfeelsrealanymore",
     "title": "Nothing feels real any more"
   },
   {
     "date": "2008-10-15",
     "id": "468",
-    "key": "thatsthemostbeautifulthingiveeverheard",
+    "slug": "thatsthemostbeautifulthingiveeverheard",
     "title": "That's the most beautiful thing I've ever heard"
   },
   {
     "date": "2008-10-15",
     "id": "467",
-    "key": "italkedtothem",
+    "slug": "italkedtothem",
     "title": "I talked to them"
   },
   {
     "date": "2008-10-13",
     "id": "466",
-    "key": "iamterrible",
+    "slug": "iamterrible",
     "title": "I am terrible"
   },
   {
     "date": "2008-10-13",
     "id": "465",
-    "key": "wejustdonthavethetechnologytofixthis",
+    "slug": "wejustdonthavethetechnologytofixthis",
     "title": "We just don't have the technology to fix this"
   },
   {
     "date": "2008-10-13",
     "id": "464",
-    "key": "ireceivedatransmission",
+    "slug": "ireceivedatransmission",
     "title": "I received a transmission"
   },
   {
     "date": "2008-10-13",
     "id": "463",
-    "key": "anotherperfectday",
+    "slug": "anotherperfectday",
     "title": "another perfect day"
   },
   {
     "date": "2008-10-13",
     "id": "462",
-    "key": "mybraindoesntlisten",
+    "slug": "mybraindoesntlisten",
     "title": "My brain doesn't listen"
   },
   {
     "date": "2008-10-10",
     "id": "461",
-    "key": "ijustcantwait",
+    "slug": "ijustcantwait",
     "title": "I just can't wait"
   },
   {
     "date": "2008-10-10",
     "id": "460",
-    "key": "icantstopit",
+    "slug": "icantstopit",
     "title": "I can't stop it"
   },
   {
     "date": "2008-10-10",
     "id": "459",
-    "key": "todayisnottheday",
+    "slug": "todayisnottheday",
     "title": "today is not the day"
   },
   {
     "date": "2008-10-10",
     "id": "458",
-    "key": "imcompletelylost",
+    "slug": "imcompletelylost",
     "title": "I'm completely lost"
   },
   {
     "date": "2008-10-09",
     "id": "457",
-    "key": "whywontyouletmesleep",
+    "slug": "whywontyouletmesleep",
     "title": "why won't you let me sleep"
   },
   {
     "date": "2008-10-09",
     "id": "456",
-    "key": "icannotwaituntilthen",
+    "slug": "icannotwaituntilthen",
     "title": "I can not wait until then"
   },
   {
     "date": "2008-10-08",
     "id": "455",
-    "key": "idontfindthisamusing",
+    "slug": "idontfindthisamusing",
     "title": "I don't find this amusing"
   },
   {
     "date": "2008-10-08",
     "id": "454",
-    "key": "thewindtookitaway",
+    "slug": "thewindtookitaway",
     "title": "The wind took it away"
   },
   {
     "date": "2008-10-08",
     "id": "453",
-    "key": "underthewateritglowed",
+    "slug": "underthewateritglowed",
     "title": "under the water it glowed"
   },
   {
     "date": "2008-10-07",
     "id": "452",
-    "key": "icantgiveup2",
+    "slug": "icantgiveup2",
     "title": "I can't give up"
   },
   {
     "date": "2008-10-07",
     "id": "451",
-    "key": "loveisadisasterousthing",
+    "slug": "loveisadisasterousthing",
     "title": "Love is a disasterous thing"
   },
   {
     "date": "2008-10-07",
     "id": "450",
-    "key": "wellalwaysbefriends",
+    "slug": "wellalwaysbefriends",
     "title": "We'll always be friends"
   },
   {
     "date": "2008-10-06",
     "id": "449",
-    "key": "wefellinlove",
+    "slug": "wefellinlove",
     "title": "We fell in love"
   },
   {
     "date": "2008-10-06",
     "id": "448",
-    "key": "whydidntyourechargeit",
+    "slug": "whydidntyourechargeit",
     "title": "Why didn't you recharge it?"
   },
   {
     "date": "2008-10-06",
     "id": "447",
-    "key": "iwishiwasbetter",
+    "slug": "iwishiwasbetter",
     "title": "I wish I was better"
   },
   {
     "date": "2008-10-06",
     "id": "446",
-    "key": "ineedcoffee",
+    "slug": "ineedcoffee",
     "title": "I need coffee"
   },
   {
     "date": "2008-10-03",
     "id": "445",
-    "key": "myfirstkiss",
+    "slug": "myfirstkiss",
     "title": "My first kiss"
   },
   {
     "date": "2008-10-03",
     "id": "444",
-    "key": "thelasttransmissionhasbeensent",
+    "slug": "thelasttransmissionhasbeensent",
     "title": "the last transmission has been sent"
   },
   {
     "date": "2008-10-02",
     "id": "443",
-    "key": "thisisatest",
+    "slug": "thisisatest",
     "title": "this is a test"
   },
   {
     "date": "2008-10-02",
     "id": "442",
-    "key": "whatifthingsgoright",
+    "slug": "whatifthingsgoright",
     "title": "What if things go right?"
   },
   {
     "date": "2008-10-02",
     "id": "441",
-    "key": "mybrainisgone",
+    "slug": "mybrainisgone",
     "title": "My brain is gone"
   },
   {
     "date": "2008-10-02",
     "id": "440",
-    "key": "imtoolonely",
+    "slug": "imtoolonely",
     "title": "I'm too lonely"
   },
   {
     "date": "2008-09-30",
     "id": "439",
-    "key": "willievermakeitthroughthis",
+    "slug": "willievermakeitthroughthis",
     "title": "Will I ever make it through this?"
   },
   {
     "date": "2008-09-30",
     "id": "438",
-    "key": "theresawhaleinmybackyard",
+    "slug": "theresawhaleinmybackyard",
     "title": "there's a whale in my backyard"
   },
   {
     "date": "2008-09-30",
     "id": "437",
-    "key": "imamess",
+    "slug": "imamess",
     "title": "I'm a mess"
   },
   {
     "date": "2008-09-30",
     "id": "436",
-    "key": "icantwin",
+    "slug": "icantwin",
     "title": "I can't win"
   },
   {
     "date": "2008-09-29",
     "id": "435",
-    "key": "sharksharkshark",
+    "slug": "sharksharkshark",
     "title": "Shark! Shark! Shark!"
   },
   {
     "date": "2008-09-29",
     "id": "434",
-    "key": "ilostyou",
+    "slug": "ilostyou",
     "title": "I lost you"
   },
   {
     "date": "2008-09-29",
     "id": "433",
-    "key": "ilaughedalot",
+    "slug": "ilaughedalot",
     "title": "I laughed a lot"
   },
   {
     "date": "2008-09-29",
     "id": "432",
-    "key": "ihopeidontfail",
+    "slug": "ihopeidontfail",
     "title": "I hope I don't fail"
   },
   {
     "date": "2008-09-29",
     "id": "431",
-    "key": "imissmydad",
+    "slug": "imissmydad",
     "title": "I miss my dad"
   },
   {
     "date": "2008-09-29",
     "id": "430",
-    "key": "iplayinarockband",
+    "slug": "iplayinarockband",
     "title": "I play in a rock band"
   },
   {
     "date": "2008-09-23",
     "id": "429",
-    "key": "imissyouthemost",
+    "slug": "imissyouthemost",
     "title": "I miss you the most"
   },
   {
     "date": "2008-09-23",
     "id": "428",
-    "key": "whatfor-1",
+    "slug": "whatfor-1",
     "title": "What for?"
   },
   {
     "date": "2008-09-23",
     "id": "427",
-    "key": "itcantbefixed",
+    "slug": "itcantbefixed",
     "title": "It can't be fixed"
   },
   {
     "date": "2008-09-23",
     "id": "426",
-    "key": "itisgettingcolder",
+    "slug": "itisgettingcolder",
     "title": "It is getting colder"
   },
   {
     "date": "2008-09-22",
     "id": "425",
-    "key": "tooearlyortoolate",
+    "slug": "tooearlyortoolate",
     "title": "too early, or too late?"
   },
   {
     "date": "2008-09-22",
     "id": "424",
-    "key": "thisissogreatihadtoshareitwithyou",
+    "slug": "thisissogreatihadtoshareitwithyou",
     "title": "this is so great I had to share it with you"
   },
   {
     "date": "2008-09-22",
     "id": "423",
-    "key": "severalnanosecondslater",
+    "slug": "severalnanosecondslater",
     "title": "several nanoseconds later"
   },
   {
     "date": "2008-09-19",
     "id": "422",
-    "key": "ihatephysics",
+    "slug": "ihatephysics",
     "title": "I hate physics!"
   },
   {
     "date": "2008-09-19",
     "id": "421",
-    "key": "theleavesarefalling",
+    "slug": "theleavesarefalling",
     "title": "The leaves are falling"
   },
   {
     "date": "2008-09-19",
     "id": "420",
-    "key": "everybodyknowsthatyoureinsane",
+    "slug": "everybodyknowsthatyoureinsane",
     "title": "Everybody knows that you're insane"
   },
   {
     "date": "2008-09-18",
     "id": "419",
-    "key": "thismusicmakesmewanttodance",
+    "slug": "thismusicmakesmewanttodance",
     "title": "This music makes me want to dance"
   },
   {
     "date": "2008-09-18",
     "id": "418",
-    "key": "doesitcomeinred",
+    "slug": "doesitcomeinred",
     "title": "Does it come in red?"
   },
   {
     "date": "2008-09-18",
     "id": "417",
-    "key": "memoirsofabanana",
+    "slug": "memoirsofabanana",
     "title": "Memoirs of a banana"
   },
   {
     "date": "2008-09-18",
     "id": "416",
-    "key": "mybacksbusted",
+    "slug": "mybacksbusted",
     "title": "My back's busted"
   },
   {
     "date": "2008-09-16",
     "id": "415",
-    "key": "ideservethat",
+    "slug": "ideservethat",
     "title": "I deserve that"
   },
   {
     "date": "2008-09-16",
     "id": "414",
-    "key": "iwasmisinformed",
+    "slug": "iwasmisinformed",
     "title": "I was misinformed"
   },
   {
     "date": "2008-09-15",
     "id": "413",
-    "key": "ilikebirds",
+    "slug": "ilikebirds",
     "title": "I like... birds"
   },
   {
     "date": "2008-09-15",
     "id": "412",
-    "key": "ineedtogobacktounderstand",
+    "slug": "ineedtogobacktounderstand",
     "title": "I need to go back to understand"
   },
   {
     "date": "2008-09-15",
     "id": "411",
-    "key": "thatisdefinitelynotnormal",
+    "slug": "thatisdefinitelynotnormal",
     "title": "that is definitely not normal"
   },
   {
     "date": "2008-09-15",
     "id": "410",
-    "key": "ineverwanttoholdanotherpersonshand",
+    "slug": "ineverwanttoholdanotherpersonshand",
     "title": "I never want to hold another persons hand"
   },
   {
     "date": "2008-09-12",
     "id": "409",
-    "key": "whatfor",
+    "slug": "whatfor",
     "title": "What for?"
   },
   {
     "date": "2008-09-12",
     "id": "408",
-    "key": "itstrue",
+    "slug": "itstrue",
     "title": "it's true"
   },
   {
     "date": "2008-09-10",
     "id": "407",
-    "key": "yourmusicmakesmehappy",
+    "slug": "yourmusicmakesmehappy",
     "title": "Your music makes me happy"
   },
   {
     "date": "2008-09-10",
     "id": "406",
-    "key": "ineverplannedonfallinginlovewithyou",
+    "slug": "ineverplannedonfallinginlovewithyou",
     "title": "I never planned on falling in love with you"
   },
   {
     "date": "2008-09-10",
     "id": "405",
-    "key": "letsjustsithere",
+    "slug": "letsjustsithere",
     "title": "let's just sit here"
   },
   {
     "date": "2008-09-09",
     "id": "404",
-    "key": "wherewereyouthisweekend",
+    "slug": "wherewereyouthisweekend",
     "title": "Where were you this weekend?"
   },
   {
     "date": "2008-09-09",
     "id": "403",
-    "key": "nowihavetoworkagain",
+    "slug": "nowihavetoworkagain",
     "title": "Now I have to work again"
   },
   {
     "date": "2008-09-09",
     "id": "402",
-    "key": "itswellunderstood",
+    "slug": "itswellunderstood",
     "title": "It's well understood"
   },
   {
     "date": "2008-09-09",
     "id": "401",
-    "key": "whataripoff",
+    "slug": "whataripoff",
     "title": "What a rip off"
   },
   {
     "date": "2008-09-09",
     "id": "400",
-    "key": "sametimenextweek",
+    "slug": "sametimenextweek",
     "title": "same time next week?"
   },
   {
     "date": "2008-09-08",
     "id": "399",
-    "key": "iwaited",
+    "slug": "iwaited",
     "title": "I waited."
   },
   {
     "date": "2008-09-08",
     "id": "398",
-    "key": "clouds",
+    "slug": "clouds",
     "title": "clouds"
   },
   {
     "date": "2008-09-08",
     "id": "397",
-    "key": "iknewitwastoogoodtobetrue",
+    "slug": "iknewitwastoogoodtobetrue",
     "title": "I knew it was too good to be true"
   },
   {
     "date": "2008-09-02",
     "id": "396",
-    "key": "dontforgetaboutme",
+    "slug": "dontforgetaboutme",
     "title": "don't forget about me"
   },
   {
     "date": "2008-09-02",
     "id": "395",
-    "key": "todayisthelastday",
+    "slug": "todayisthelastday",
     "title": "today is the last day"
   },
   {
     "date": "2008-09-02",
     "id": "394",
-    "key": "iamtakingthecarandgoingtoboston",
+    "slug": "iamtakingthecarandgoingtoboston",
     "title": "I am taking the car and going to Boston"
   },
   {
     "date": "2008-09-02",
     "id": "393",
-    "key": "ijustdontunderstand",
+    "slug": "ijustdontunderstand",
     "title": "I just don't understand"
   },
   {
     "date": "2008-09-02",
     "id": "392",
-    "key": "itoldyouthatyesterday",
+    "slug": "itoldyouthatyesterday",
     "title": "I told you that yesterday"
   },
   {
     "date": "2008-09-02",
     "id": "391",
-    "key": "itrainedallweekend",
+    "slug": "itrainedallweekend",
     "title": "It rained all weekend"
   },
   {
     "date": "2008-08-29",
     "id": "390",
-    "key": "imhappyareyou",
+    "slug": "imhappyareyou",
     "title": "I'm happy are you?"
   },
   {
     "date": "2008-08-29",
     "id": "389",
-    "key": "thanksfornotanswering",
+    "slug": "thanksfornotanswering",
     "title": "thanks for not answering"
   },
   {
     "date": "2008-08-29",
     "id": "388",
-    "key": "ishouldstoplisteningtothisrecord",
+    "slug": "ishouldstoplisteningtothisrecord",
     "title": "I should stop listening to this record"
   },
   {
     "date": "2008-08-29",
     "id": "387",
-    "key": "whyareyouhere",
+    "slug": "whyareyouhere",
     "title": "why are you here?"
   },
   {
     "date": "2008-08-29",
     "id": "386",
-    "key": "honestlyitmadesense10minutesago",
+    "slug": "honestlyitmadesense10minutesago",
     "title": "Honestly, it made sense 10 minutes ago"
   },
   {
     "date": "2008-08-28",
     "id": "385",
-    "key": "isitdead",
+    "slug": "isitdead",
     "title": "Is it dead?"
   },
   {
     "date": "2008-08-28",
     "id": "384",
-    "key": "whereamigoing",
+    "slug": "whereamigoing",
     "title": "where am I going?"
   },
   {
     "date": "2008-08-28",
     "id": "383",
-    "key": "soitwasadream",
+    "slug": "soitwasadream",
     "title": "so it was a dream"
   },
   {
     "date": "2008-08-28",
     "id": "382",
-    "key": "areyoustillthere",
+    "slug": "areyoustillthere",
     "title": "are you still there?"
   },
   {
     "date": "2008-08-28",
     "id": "381",
-    "key": "itsnotmyfault",
+    "slug": "itsnotmyfault",
     "title": "It's not my fault"
   },
   {
     "date": "2008-08-28",
     "id": "380",
-    "key": "icanseetheskyagain",
+    "slug": "icanseetheskyagain",
     "title": "I can see the sky again"
   },
   {
     "date": "2008-08-28",
     "id": "379",
-    "key": "idontknowwhativegot",
+    "slug": "idontknowwhativegot",
     "title": "I don't know what I've got"
   },
   {
     "date": "2008-08-28",
     "id": "378",
-    "key": "imalreadyleaving",
+    "slug": "imalreadyleaving",
     "title": "I'm already leaving"
   },
   {
     "date": "2008-08-26",
     "id": "377",
-    "key": "whereareyoufrom",
+    "slug": "whereareyoufrom",
     "title": "Where are you from?"
   },
   {
     "date": "2008-08-26",
     "id": "376",
-    "key": "thisisthetime",
+    "slug": "thisisthetime",
     "title": "This is the time!"
   },
   {
     "date": "2008-08-25",
     "id": "375",
-    "key": "donttellmewhatiknow",
+    "slug": "donttellmewhatiknow",
     "title": "Don't tell me what I know"
   },
   {
     "date": "2008-08-25",
     "id": "374",
-    "key": "mynameissam",
+    "slug": "mynameissam",
     "title": "My name is Sam"
   },
   {
     "date": "2008-08-21",
     "id": "373",
-    "key": "thisisnotwhatihadinmind",
+    "slug": "thisisnotwhatihadinmind",
     "title": "this is not what I had in mind"
   },
   {
     "date": "2008-08-21",
     "id": "372",
-    "key": "youarenotprepared",
+    "slug": "youarenotprepared",
     "title": "you are not prepared"
   },
   {
     "date": "2008-08-20",
     "id": "371",
-    "key": "iwouldntbehereifitwasntforyou",
+    "slug": "iwouldntbehereifitwasntforyou",
     "title": "I wouldn't be here if it wasn't for you"
   },
   {
     "date": "2008-08-20",
     "id": "370",
-    "key": "wehaveaproblem",
+    "slug": "wehaveaproblem",
     "title": "We have a problem"
   },
   {
     "date": "2008-08-19",
     "id": "369",
-    "key": "iwanttotravelwithyou",
+    "slug": "iwanttotravelwithyou",
     "title": "I want to travel with you"
   },
   {
     "date": "2008-08-19",
     "id": "368",
-    "key": "iwonafreecookie",
+    "slug": "iwonafreecookie",
     "title": "I won a free cookie!"
   },
   {
     "date": "2008-08-18",
     "id": "367",
-    "key": "asalwaysshewaslate",
+    "slug": "asalwaysshewaslate",
     "title": "As always she was late"
   },
   {
     "date": "2008-08-18",
     "id": "366",
-    "key": "youwantmetochoosbetweenyouandmydog",
+    "slug": "youwantmetochoosbetweenyouandmydog",
     "title": "you want me to choose between you and my dog...?"
   },
   {
     "date": "2008-08-14",
     "id": "365",
-    "key": "itoldyouso2",
+    "slug": "itoldyouso2",
     "title": "I told you so"
   },
   {
     "date": "2008-08-14",
     "id": "364",
-    "key": "no",
+    "slug": "no",
     "title": "NO?"
   },
   {
     "date": "2008-08-14",
     "id": "363",
-    "key": "iwasthinking",
+    "slug": "iwasthinking",
     "title": "I was thinking"
   },
   {
     "date": "2008-08-13",
     "id": "362",
-    "key": "imleavingwithoutyou",
+    "slug": "imleavingwithoutyou",
     "title": "I'm leaving without you"
   },
   {
     "date": "2008-08-13",
     "id": "361",
-    "key": "itoldyouso",
+    "slug": "itoldyouso",
     "title": "I told you so"
   },
   {
     "date": "2008-08-13",
     "id": "360",
-    "key": "whyaretheresomanyvoices",
+    "slug": "whyaretheresomanyvoices",
     "title": "Why are there so many voices"
   },
   {
     "date": "2008-08-13",
     "id": "359",
-    "key": "iwasverytired",
+    "slug": "iwasverytired",
     "title": "I was very tired"
   },
   {
     "date": "2008-08-12",
     "id": "358",
-    "key": "imnotmyfault",
+    "slug": "imnotmyfault",
     "title": "I'm not my fault"
   },
   {
     "date": "2008-08-12",
     "id": "357",
-    "key": "isthishell",
+    "slug": "isthishell",
     "title": "is this hell?"
   },
   {
     "date": "2008-08-12",
     "id": "356",
-    "key": "imfree",
+    "slug": "imfree",
     "title": "I'm free"
   },
   {
     "date": "2008-08-11",
     "id": "355",
-    "key": "youreright",
+    "slug": "youreright",
     "title": "you're right"
   },
   {
     "date": "2008-08-11",
     "id": "354",
-    "key": "iwassosmart",
+    "slug": "iwassosmart",
     "title": "I was so smart"
   },
   {
     "date": "2008-08-11",
     "id": "353",
-    "key": "ihavebeenthinkingaboutyou",
+    "slug": "ihavebeenthinkingaboutyou",
     "title": "I have been thinking about you"
   },
   {
     "date": "2008-08-11",
     "id": "352",
-    "key": "payattentiontome",
+    "slug": "payattentiontome",
     "title": "pay attention to me"
   },
   {
     "date": "2008-08-11",
     "id": "351",
-    "key": "ineverwanttogiveup",
+    "slug": "ineverwanttogiveup",
     "title": "I never want to give up"
   },
   {
     "date": "2008-08-08",
     "id": "350",
-    "key": "couldthisbeforever",
+    "slug": "couldthisbeforever",
     "title": "could this be forever?"
   },
   {
     "date": "2008-08-08",
     "id": "349",
-    "key": "thisishowitwasmeanttobe",
+    "slug": "thisishowitwasmeanttobe",
     "title": "this is how it was meant to be"
   },
   {
     "date": "2008-08-08",
     "id": "348",
-    "key": "buthehadideasofhisown",
+    "slug": "buthehadideasofhisown",
     "title": "but he had ideas of his own"
   },
   {
     "date": "2008-08-08",
     "id": "347",
-    "key": "imsosad",
+    "slug": "imsosad",
     "title": "I'm so sad"
   },
   {
     "date": "2008-08-08",
     "id": "346",
-    "key": "thankyou",
+    "slug": "thankyou",
     "title": "thank you"
   },
   {
     "date": "2008-08-08",
     "id": "345",
-    "key": "iamnevergoingtobelikeyou",
+    "slug": "iamnevergoingtobelikeyou",
     "title": "I am never going to be like you"
   },
   {
     "date": "2008-08-08",
     "id": "344",
-    "key": "smileitsanewday",
+    "slug": "smileitsanewday",
     "title": "SMILE! it's a new day"
   },
   {
     "date": "2008-08-07",
     "id": "343",
-    "key": "werefreeofthepast",
+    "slug": "werefreeofthepast",
     "title": "We're free of the past"
   },
   {
     "date": "2008-08-07",
     "id": "342",
-    "key": "yousaidtherewouldberockets",
+    "slug": "yousaidtherewouldberockets",
     "title": "you said there would be rockets..."
   },
   {
     "date": "2008-08-07",
     "id": "341",
-    "key": "thatmakesmesosad",
+    "slug": "thatmakesmesosad",
     "title": "that makes me so sad"
   },
   {
     "date": "2008-08-07",
     "id": "340",
-    "key": "itwasabouttorain",
+    "slug": "itwasabouttorain",
     "title": "it was about to rain"
   },
   {
     "date": "2008-08-06",
     "id": "339",
-    "key": "iwassostupid",
+    "slug": "iwassostupid",
     "title": "I was so stupid"
   },
   {
     "date": "2008-08-06",
     "id": "338",
-    "key": "imlosingallmymemories",
+    "slug": "imlosingallmymemories",
     "title": "I'm losing all my memories"
   },
   {
     "date": "2008-08-06",
     "id": "337",
-    "key": "newlove",
+    "slug": "newlove",
     "title": "new love"
   },
   {
     "date": "2008-08-06",
     "id": "336",
-    "key": "youarejustatemporaryfriend",
+    "slug": "youarejustatemporaryfriend",
     "title": "You are just a temporary friend"
   },
   {
     "date": "2008-08-06",
     "id": "335",
-    "key": "iamdisappointed",
+    "slug": "iamdisappointed",
     "title": "I am disappointed"
   },
   {
     "date": "2008-08-04",
     "id": "334",
-    "key": "itdoesntworkthatway",
+    "slug": "itdoesntworkthatway",
     "title": "It doesn't work that way"
   },
   {
     "date": "2008-08-04",
     "id": "333",
-    "key": "illdreamimflyingtonight",
+    "slug": "illdreamimflyingtonight",
     "title": "I'll dream I'm flying tonight"
   },
   {
     "date": "2008-08-01",
     "id": "332",
-    "key": "letslive",
+    "slug": "letslive",
     "title": "Let's live"
   },
   {
     "date": "2008-08-01",
     "id": "331",
-    "key": "everyonewassleeping",
+    "slug": "everyonewassleeping",
     "title": "everyone has been sleeping"
   },
   {
     "date": "2008-07-31",
     "id": "330",
-    "key": "icantcare",
+    "slug": "icantcare",
     "title": "I can't care"
   },
   {
     "date": "2008-07-31",
     "id": "329",
-    "key": "ilovestacey",
+    "slug": "ilovestacey",
     "title": "I love Stacey!"
   },
   {
     "date": "2008-07-31",
     "id": "328",
-    "key": "youaremusic",
+    "slug": "youaremusic",
     "title": "You are music"
   },
   {
     "date": "2008-07-31",
     "id": "327",
-    "key": "isitbrightwhereyouare",
+    "slug": "isitbrightwhereyouare",
     "title": "Is is bright where you are?"
   },
   {
     "date": "2008-07-18",
     "id": "326",
-    "key": "itdoesntexist",
+    "slug": "itdoesntexist",
     "title": "It doesn't exist"
   },
   {
     "date": "2008-07-18",
     "id": "325",
-    "key": "thisiswhywecanthavenicethings",
+    "slug": "thisiswhywecanthavenicethings",
     "title": "this is why we can't have nice things"
   },
   {
     "date": "2008-07-17",
     "id": "324",
-    "key": "itjustdidntfeelright",
+    "slug": "itjustdidntfeelright",
     "title": "It just didn't feel right"
   },
   {
     "date": "2008-07-17",
     "id": "323",
-    "key": "myheartgoesouttoyou",
+    "slug": "myheartgoesouttoyou",
     "title": "my heart goes out to you"
   },
   {
     "date": "2008-07-17",
     "id": "322",
-    "key": "whatarelief",
+    "slug": "whatarelief",
     "title": "What a relief!"
   },
   {
     "date": "2008-07-17",
     "id": "321",
-    "key": "stopmessingwithmyheadandkissme",
+    "slug": "stopmessingwithmyheadandkissme",
     "title": "stop messing with my head and kiss me"
   },
   {
     "date": "2008-07-16",
     "id": "320",
-    "key": "imalwayslate",
+    "slug": "imalwayslate",
     "title": "I'm always late"
   },
   {
     "date": "2008-07-16",
     "id": "319",
-    "key": "ineedtosleepbutidontwantit",
+    "slug": "ineedtosleepbutidontwantit",
     "title": "I need more sleep, but I don't want it"
   },
   {
     "date": "2008-07-16",
     "id": "318",
-    "key": "youhaveagrowth",
+    "slug": "youhaveagrowth",
     "title": "You have a growth"
   },
   {
     "date": "2008-07-16",
     "id": "317",
-    "key": "onlyifyourepureofheart",
+    "slug": "onlyifyourepureofheart",
     "title": "only if you're pure of heart"
   },
   {
     "date": "2008-07-16",
     "id": "316",
-    "key": "whatifimakethewrongchoice",
+    "slug": "whatifimakethewrongchoice",
     "title": "what if I make the wrong choice"
   },
   {
     "date": "2008-07-14",
     "id": "315",
-    "key": "weareempty",
+    "slug": "weareempty",
     "title": "We are empty"
   },
   {
     "date": "2008-07-14",
     "id": "314",
-    "key": "iwanttobetherewhenitends",
+    "slug": "iwanttobetherewhenitends",
     "title": "I want to be there when it ends"
   },
   {
     "date": "2008-07-14",
     "id": "313",
-    "key": "imstuck",
+    "slug": "imstuck",
     "title": "I'm stuck"
   },
   {
     "date": "2008-07-14",
     "id": "312",
-    "key": "whydoimakemistakes",
+    "slug": "whydoimakemistakes",
     "title": "why do I make mistakes?"
   },
   {
     "date": "2008-07-11",
     "id": "311",
-    "key": "youmakemelaughatthingsishouldntlaughat",
+    "slug": "youmakemelaughatthingsishouldntlaughat",
     "title": "You make me laugh at things I shouldn't laugh at"
   },
   {
     "date": "2008-07-11",
     "id": "310",
-    "key": "growingupisaggoodthingtodo",
+    "slug": "growingupisaggoodthingtodo",
     "title": "Growing up is a good thing to do"
   },
   {
     "date": "2008-07-10",
     "id": "309",
-    "key": "youwillbethedeathofme",
+    "slug": "youwillbethedeathofme",
     "title": "you will be the death of me"
   },
   {
     "date": "2008-07-10",
     "id": "308",
-    "key": "inevertriedhardenough",
+    "slug": "inevertriedhardenough",
     "title": "I never tried hard enough"
   },
   {
     "date": "2008-07-10",
     "id": "307",
-    "key": "whenigethome",
+    "slug": "whenigethome",
     "title": "when I get home..."
   },
   {
     "date": "2008-07-10",
     "id": "306",
-    "key": "imwishingforsomethingicanneverhave",
+    "slug": "imwishingforsomethingicanneverhave",
     "title": "I'm wishing for something I can never have"
   },
   {
     "date": "2008-07-10",
     "id": "305",
-    "key": "hesaidno",
+    "slug": "hesaidno",
     "title": "He said no"
   },
   {
     "date": "2008-07-09",
     "id": "304",
-    "key": "weusedtobegoodfriends",
+    "slug": "weusedtobegoodfriends",
     "title": "we used to be good friends"
   },
   {
     "date": "2008-07-09",
     "id": "303",
-    "key": "imafraidofflying",
+    "slug": "imafraidofflying",
     "title": "I'm afraid of flying"
   },
   {
     "date": "2008-07-09",
     "id": "302",
-    "key": "idideverythingwrong",
+    "slug": "idideverythingwrong",
     "title": "I did everything wrong"
   },
   {
     "date": "2008-07-09",
     "id": "301",
-    "key": "andthatsthewayitwas",
+    "slug": "andthatsthewayitwas",
     "title": "and that's the way it was"
   },
   {
     "date": "2008-07-08",
     "id": "300",
-    "key": "imlosingthegame",
+    "slug": "imlosingthegame",
     "title": "I'm losing the game"
   },
   {
     "date": "2008-07-08",
     "id": "299",
-    "key": "ithinkitstoolate",
+    "slug": "ithinkitstoolate",
     "title": "I think it's too late"
   },
   {
     "date": "2008-07-08",
     "id": "298",
-    "key": "thisoneismine",
+    "slug": "thisoneismine",
     "title": "this one is mine"
   },
   {
     "date": "2008-07-08",
     "id": "297",
-    "key": "thisismylastnightonearthandispenditwithyou",
+    "slug": "thisismylastnightonearthandispenditwithyou",
     "title": "This is my last night on earth and I spend it with you"
   },
   {
     "date": "2008-07-08",
     "id": "296",
-    "key": "tellmesomething",
+    "slug": "tellmesomething",
     "title": "tell me something"
   },
   {
     "date": "2008-07-08",
     "id": "295",
-    "key": "iloveyoutoomuch",
+    "slug": "iloveyoutoomuch",
     "title": "I love you too much"
   },
   {
     "date": "2008-07-08",
     "id": "294",
-    "key": "igotajob",
+    "slug": "igotajob",
     "title": "I got a job"
   },
   {
     "date": "2008-07-07",
     "id": "293",
-    "key": "arewehappynow",
+    "slug": "arewehappynow",
     "title": "are we happy now"
   },
   {
     "date": "2008-07-07",
     "id": "292",
-    "key": "sorrythatwewokeyouup",
+    "slug": "sorrythatwewokeyouup",
     "title": "sorry that we woke you up"
   },
   {
     "date": "2008-07-01",
     "id": "291",
-    "key": "iwanttobeanastronaut",
+    "slug": "iwanttobeanastronaut",
     "title": "I want to be an astronaut"
   },
   {
     "date": "2008-07-01",
     "id": "290",
-    "key": "ifimnotbackinanhourgoonwithoutme",
+    "slug": "ifimnotbackinanhourgoonwithoutme",
     "title": "if I'm not back in an hour, go on without me"
   },
   {
     "date": "2008-06-27",
     "id": "289",
-    "key": "noimeanbesidesthat",
+    "slug": "noimeanbesidesthat",
     "title": "No, I mean besides that"
   },
   {
     "date": "2008-06-27",
     "id": "288",
-    "key": "nothatisit",
+    "slug": "nothatisit",
     "title": "No, that is it"
   },
   {
     "date": "2008-06-27",
     "id": "287",
-    "key": "ileftitathome",
+    "slug": "ileftitathome",
     "title": "I left it at home"
   },
   {
     "date": "2008-06-27",
     "id": "286",
-    "key": "whentheworldends",
+    "slug": "whentheworldends",
     "title": "when the world ends"
   },
   {
     "date": "2008-06-27",
     "id": "285",
-    "key": "thatwasthefunpart",
+    "slug": "thatwasthefunpart",
     "title": "that was the fun part"
   },
   {
     "date": "2008-06-26",
     "id": "284",
-    "key": "wheneverybodyssleepingimstillawake",
+    "slug": "wheneverybodyssleepingimstillawake",
     "title": "when everybody's sleeping, I'm still awake"
   },
   {
     "date": "2008-06-26",
     "id": "283",
-    "key": "thecaketasteslikecardboard",
+    "slug": "thecaketasteslikecardboard",
     "title": "the cake tastes like cardboard"
   },
   {
     "date": "2008-06-26",
     "id": "282",
-    "key": "whyareyousocomlicated",
+    "slug": "whyareyousocomlicated",
     "title": "why are you so complicated"
   },
   {
     "date": "2008-06-26",
     "id": "281",
-    "key": "toobigtounderstand",
+    "slug": "toobigtounderstand",
     "title": "too big to understand"
   },
   {
     "date": "2008-06-26",
     "id": "280",
-    "key": "theressomuchstuffaround",
+    "slug": "theressomuchstuffaround",
     "title": "there's so much stuff around"
   },
   {
     "date": "2008-06-25",
     "id": "279",
-    "key": "robotsdonteat",
+    "slug": "robotsdonteat",
     "title": "robots don't eat"
   },
   {
     "date": "2008-06-25",
     "id": "278",
-    "key": "imsickofwriting",
+    "slug": "imsickofwriting",
     "title": "I'm sick of writing"
   },
   {
     "date": "2008-06-25",
     "id": "277",
-    "key": "scienceisscience",
+    "slug": "scienceisscience",
     "title": "science is science"
   },
   {
     "date": "2008-06-25",
     "id": "276",
-    "key": "onaplaneoverprague",
+    "slug": "onaplaneoverprague",
     "title": "on a plane over Prague"
   },
   {
     "date": "2008-06-25",
     "id": "275",
-    "key": "stopcomingaround",
+    "slug": "stopcomingaround",
     "title": "stop coming around"
   },
   {
     "date": "2008-06-24",
     "id": "274",
-    "key": "idontfeelanydifferent",
+    "slug": "idontfeelanydifferent",
     "title": "I don't feel any different"
   },
   {
     "date": "2008-06-24",
     "id": "273",
-    "key": "savethemoose",
+    "slug": "savethemoose",
     "title": "save the moose!"
   },
   {
     "date": "2008-06-24",
     "id": "272",
-    "key": "youmeltme",
+    "slug": "youmeltme",
     "title": "you melt me"
   },
   {
     "date": "2008-06-24",
     "id": "271",
-    "key": "youmadeamistake",
+    "slug": "youmadeamistake",
     "title": "you made a mistake"
   },
   {
     "date": "2008-06-24",
     "id": "270",
-    "key": "youfinallycanhearme",
+    "slug": "youfinallycanhearme",
     "title": "you finally can hear me"
   },
   {
     "date": "2008-06-24",
     "id": "269",
-    "key": "whyarewestillouthere",
+    "slug": "whyarewestillouthere",
     "title": "why are we still out here"
   },
   {
     "date": "2008-06-24",
     "id": "268",
-    "key": "safereturndoubtful",
+    "slug": "safereturndoubtful",
     "title": "safe return doubtful"
   },
   {
     "date": "2008-06-24",
     "id": "267",
-    "key": "wereliketwopeasinapod",
+    "slug": "wereliketwopeasinapod",
     "title": "we're like two peas in a pod"
   },
   {
     "date": "2008-06-23",
     "id": "266",
-    "key": "ididntmeantobreakit-c",
+    "slug": "ididntmeantobreakit-c",
     "title": "I didn't mean to break it"
   },
   {
     "date": "2008-06-23",
     "id": "265",
-    "key": "theworldisours-2",
+    "slug": "theworldisours-2",
     "title": "the world is ours"
   },
   {
     "date": "2008-06-20",
     "id": "264",
-    "key": "isitmadeoutofyarn",
+    "slug": "isitmadeoutofyarn",
     "title": "is it made out of yarn?"
   },
   {
     "date": "2008-06-20",
     "id": "263",
-    "key": "youreentirelytoofarawayfromme",
+    "slug": "youreentirelytoofarawayfromme",
     "title": "you're entirely too far away from me"
   },
   {
     "date": "2008-06-20",
     "id": "262",
-    "key": "ithurtsknowingiamonlyamemory",
+    "slug": "ithurtsknowingiamonlyamemory",
     "title": "it hurts knowing I am only a memory"
   },
   {
     "date": "2008-06-20",
     "id": "261",
-    "key": "imyours",
+    "slug": "imyours",
     "title": "I'm yours"
   },
   {
     "date": "2008-06-20",
     "id": "260",
-    "key": "icantsleep",
+    "slug": "icantsleep",
     "title": "I can't sleep"
   },
   {
     "date": "2008-06-19",
     "id": "259",
-    "key": "ifonlyiwasasuperhero",
+    "slug": "ifonlyiwasasuperhero",
     "title": "if only I was a super hero"
   },
   {
     "date": "2008-06-19",
     "id": "258",
-    "key": "illneverforgethim",
+    "slug": "illneverforgethim",
     "title": "I'll never forget him"
   },
   {
     "date": "2008-06-18",
     "id": "257",
-    "key": "iwasmistaken",
+    "slug": "iwasmistaken",
     "title": "I was mistaken"
   },
   {
     "date": "2008-06-18",
     "id": "256",
-    "key": "letsbringinaconsultant",
+    "slug": "letsbringinaconsultant",
     "title": "let's bring in a consultant"
   },
   {
     "date": "2008-06-16",
     "id": "255",
-    "key": "iwishtheywouldrecycle",
+    "slug": "iwishtheywouldrecycle",
     "title": "I wish they would recycle"
   },
   {
     "date": "2008-06-16",
     "id": "254",
-    "key": "ifeellikegoinghome",
+    "slug": "ifeellikegoinghome",
     "title": "I feel like going home"
   },
   {
     "date": "2008-06-13",
     "id": "253",
-    "key": "actuallyimaninsect",
+    "slug": "actuallyimaninsect",
     "title": "actually I'm an insect"
   },
   {
     "date": "2008-06-13",
     "id": "252",
-    "key": "ioverpaid",
+    "slug": "ioverpaid",
     "title": "I over paid"
   },
   {
     "date": "2008-06-13",
     "id": "251",
-    "key": "yourenotthere",
+    "slug": "yourenotthere",
     "title": "your're not there"
   },
   {
     "date": "2008-06-12",
     "id": "250",
-    "key": "thegoodnews",
+    "slug": "thegoodnews",
     "title": "the good news"
   },
   {
     "date": "2008-06-12",
     "id": "249",
-    "key": "thisneedstobefixed",
+    "slug": "thisneedstobefixed",
     "title": "this needs to be fixed"
   },
   {
     "date": "2008-06-12",
     "id": "248",
-    "key": "thisisstillyournightmare",
+    "slug": "thisisstillyournightmare",
     "title": "this is still your nightmare"
   },
   {
     "date": "2008-06-11",
     "id": "247",
-    "key": "treeliving",
+    "slug": "treeliving",
     "title": "tree living"
   },
   {
     "date": "2008-06-11",
     "id": "246",
-    "key": "imayhavefailedyoubutyoufailedmefirst",
+    "slug": "imayhavefailedyoubutyoufailedmefirst",
     "title": "I may have failed you, but you failed me first"
   },
   {
     "date": "2008-06-10",
     "id": "245",
-    "key": "howdidwelosesuchanamazingthing",
+    "slug": "howdidwelosesuchanamazingthing",
     "title": "how did we lose such an amazing thing"
   },
   {
     "date": "2008-06-10",
     "id": "244",
-    "key": "itreallydoesnthavetomakesense",
+    "slug": "itreallydoesnthavetomakesense",
     "title": "it really doesn't have to make sense"
   },
   {
     "date": "2008-06-09",
     "id": "243",
-    "key": "itsmybirthdaybutidontknowwhattodo",
+    "slug": "itsmybirthdaybutidontknowwhattodo",
     "title": "it's my birthday but I don't know what to do"
   },
   {
     "date": "2008-06-09",
     "id": "242",
-    "key": "allineedisaladder",
+    "slug": "allineedisaladder",
     "title": "all I need is a ladder"
   },
   {
     "date": "2008-06-06",
     "id": "241",
-    "key": "babyrobots",
+    "slug": "babyrobots",
     "title": "baby robots"
   },
   {
     "date": "2008-06-06",
     "id": "240",
-    "key": "notheydontaskme",
+    "slug": "notheydontaskme",
     "title": "no, they don't ask me"
   },
   {
     "date": "2008-06-06",
     "id": "239",
-    "key": "iwillmissyoualways",
+    "slug": "iwillmissyoualways",
     "title": "I will miss you always"
   },
   {
     "date": "2008-06-05",
     "id": "238",
-    "key": "iminloveithink",
+    "slug": "iminloveithink",
     "title": "I'm in love I think"
   },
   {
     "date": "2008-06-05",
     "id": "237",
-    "key": "ipromiseillnevertell",
+    "slug": "ipromiseillnevertell",
     "title": "I promise I'll never tell"
   },
   {
     "date": "2008-06-05",
     "id": "236",
-    "key": "imakeitrain",
+    "slug": "imakeitrain",
     "title": "I make it rain"
   },
   {
     "date": "2008-06-04",
     "id": "235",
-    "key": "iwishiwerehere",
+    "slug": "iwishiwerehere",
     "title": "I wish I were here"
   },
   {
     "date": "2008-06-04",
     "id": "234",
-    "key": "mycomputercrashedimuseless",
+    "slug": "mycomputercrashedimuseless",
     "title": "my computer crashed. I'm useless"
   },
   {
     "date": "2008-06-02",
     "id": "233",
-    "key": "ijustcantstop",
+    "slug": "ijustcantstop",
     "title": "I just can't stop"
   },
   {
     "date": "2008-06-02",
     "id": "232",
-    "key": "idontthinkyoumeanttodothat",
+    "slug": "idontthinkyoumeanttodothat",
     "title": "I don't think you meant to do that"
   },
   {
     "date": "2008-05-30",
     "id": "231",
-    "key": "youhavelearnednothing",
+    "slug": "youhavelearnednothing",
     "title": "you have learned nothing"
   },
   {
     "date": "2008-05-30",
     "id": "230",
-    "key": "itisjustenoughtoknowyoureoutthere",
+    "slug": "itisjustenoughtoknowyoureoutthere",
     "title": "it is enough to know you are out there"
   },
   {
     "date": "2008-05-30",
     "id": "229",
-    "key": "thatsawesome",
+    "slug": "thatsawesome",
     "title": "that's awesome"
   },
   {
     "date": "2008-05-29",
     "id": "228",
-    "key": "ultimatelyitsuptoyou",
+    "slug": "ultimatelyitsuptoyou",
     "title": "ultimately it is up to you"
   },
   {
     "date": "2008-05-29",
     "id": "227",
-    "key": "ihaventtoldyouyetbutiamactuallyarobot",
+    "slug": "ihaventtoldyouyetbutiamactuallyarobot",
     "title": "I haven't told you yet, but I am actually a robot"
   },
   {
     "date": "2008-05-29",
     "id": "226",
-    "key": "whatwerewethinking",
+    "slug": "whatwerewethinking",
     "title": "what were we thinking"
   },
   {
     "date": "2008-05-29",
     "id": "225",
-    "key": "letstalkaboutspaceships",
+    "slug": "letstalkaboutspaceships",
     "title": "lets talk about space ships"
   },
   {
     "date": "2008-05-28",
     "id": "224",
-    "key": "iloveheranyway",
+    "slug": "iloveheranyway",
     "title": "I love her anyway"
   },
   {
     "date": "2008-05-28",
     "id": "223",
-    "key": "afinehouse",
+    "slug": "afinehouse",
     "title": "a fine house"
   },
   {
     "date": "2008-05-27",
     "id": "222",
-    "key": "icandoanythingifitry",
+    "slug": "icandoanythingifitry",
     "title": "I can do anything if I try"
   },
   {
     "date": "2008-05-27",
     "id": "221",
-    "key": "ihopeicanfinishthisbeforeidie",
+    "slug": "ihopeicanfinishthisbeforeidie",
     "title": "I hope I can finish this before I die"
   },
   {
     "date": "2008-05-23",
     "id": "220",
-    "key": "intheendthesunismeaningless",
+    "slug": "intheendthesunismeaningless",
     "title": "in the end, the sun is meaningless"
   },
   {
     "date": "2008-05-23",
     "id": "219",
-    "key": "iregreteverything",
+    "slug": "iregreteverything",
     "title": "I regret everything"
   },
   {
     "date": "2008-05-23",
     "id": "218",
-    "key": "iamgoingtomissyou",
+    "slug": "iamgoingtomissyou",
     "title": "I am going to miss you"
   },
   {
     "date": "2008-05-23",
     "id": "217",
-    "key": "myarmsarelikesnakes",
+    "slug": "myarmsarelikesnakes",
     "title": "my arms are like snakes"
   },
   {
     "date": "2008-05-22",
     "id": "216",
-    "key": "itwasfun",
+    "slug": "itwasfun",
     "title": "it was fun"
   },
   {
     "date": "2008-05-22",
     "id": "215",
-    "key": "youaremyfavorite",
+    "slug": "youaremyfavorite",
     "title": "you are my favorite"
   },
   {
     "date": "2008-05-21",
     "id": "214",
-    "key": "everythingitouchturnstostone",
+    "slug": "everythingitouchturnstostone",
     "title": "everything I touch turns to stone"
   },
   {
     "date": "2008-05-21",
     "id": "213",
-    "key": "sleepingtodreamaboutyou",
+    "slug": "sleepingtodreamaboutyou",
     "title": "sleeping to dream about you"
   },
   {
     "date": "2008-05-20",
     "id": "212",
-    "key": "wellididntseethatcoming",
+    "slug": "wellididntseethatcoming",
     "title": "well I didn't see that coming"
   },
   {
     "date": "2008-05-20",
     "id": "211",
-    "key": "iamsohappyyourbeardisgone",
+    "slug": "iamsohappyyourbeardisgone",
     "title": "I am so happy your beard is gone"
   },
   {
     "date": "2008-05-19",
     "id": "210",
-    "key": "thatswhatshesaid",
+    "slug": "thatswhatshesaid",
     "title": "that's what she said"
   },
   {
     "date": "2008-05-19",
     "id": "209",
-    "key": "immeetingyourparentsandidontknowwhattowear",
+    "slug": "immeetingyourparentsandidontknowwhattowear",
     "title": "I'm meeting your parents and I don't know what to wear"
   },
   {
     "date": "2008-05-16",
     "id": "208",
-    "key": "icanttakeanothertest",
+    "slug": "icanttakeanothertest",
     "title": "I can't take another test"
   },
   {
     "date": "2008-05-16",
     "id": "207",
-    "key": "whatififail",
+    "slug": "whatififail",
     "title": "what if I fail"
   },
   {
     "date": "2008-05-16",
     "id": "206",
-    "key": "myarmsarekillingme",
+    "slug": "myarmsarekillingme",
     "title": "my arms are killing me"
   },
   {
     "date": "2008-05-16",
     "id": "205",
-    "key": "pickmepickme",
+    "slug": "pickmepickme",
     "title": "Pick me! Pick Me!"
   },
   {
     "date": "2008-05-15",
     "id": "204",
-    "key": "italkloudlytoimpressyou",
+    "slug": "italkloudlytoimpressyou",
     "title": "I talk loudly to impress you"
   },
   {
     "date": "2008-05-15",
     "id": "203",
-    "key": "lovesongsmakemecry",
+    "slug": "lovesongsmakemecry",
     "title": "love songs make me cry"
   },
   {
     "date": "2008-05-14",
     "id": "202",
-    "key": "timehasnomeaninghere",
+    "slug": "timehasnomeaninghere",
     "title": "time has no meaning here"
   },
   {
     "date": "2008-05-14",
     "id": "201",
-    "key": "thesedrugsarentasgoodaswewishwewere",
+    "slug": "thesedrugsarentasgoodaswewishwewere",
     "title": "these drugs aren't as good as we wish we were"
   },
   {
     "date": "2008-05-14",
     "id": "200",
-    "key": "iwanttobeabanana",
+    "slug": "iwanttobeabanana",
     "title": "I want a banana"
   },
   {
     "date": "2008-05-13",
     "id": "199",
-    "key": "youheardwhattheboysaid",
+    "slug": "youheardwhattheboysaid",
     "title": "you heard what the boy said"
   },
   {
     "date": "2008-05-13",
     "id": "198",
-    "key": "ihopeicanstartadanceparty",
+    "slug": "ihopeicanstartadanceparty",
     "title": "I hope I can start a dance party"
   },
   {
     "date": "2008-05-12",
     "id": "197",
-    "key": "ilikethemeiamwithyou",
+    "slug": "ilikethemeiamwithyou",
     "title": "I like the me I am with you"
   },
   {
     "date": "2008-05-12",
     "id": "196",
-    "key": "isentyousomany",
+    "slug": "isentyousomany",
     "title": "I sent you so many"
   },
   {
     "date": "2008-05-09",
     "id": "195",
-    "key": "icantmakeyouunstuck",
+    "slug": "icantmakeyouunstuck",
     "title": "I can't make you unstuck"
   },
   {
     "date": "2008-05-09",
     "id": "194",
-    "key": "thesestoriesarentboundtoreality",
+    "slug": "thesestoriesarentboundtoreality",
     "title": "these stories aren't bound to reality"
   },
   {
     "date": "2008-05-08",
     "id": "193",
-    "key": "imafraidilllosemyfaith",
+    "slug": "imafraidilllosemyfaith",
     "title": "I'm afraid I will lose my faith"
   },
   {
     "date": "2008-05-08",
     "id": "192",
-    "key": "ihopeyoumissmetoo",
+    "slug": "ihopeyoumissmetoo",
     "title": "I hope you miss me too"
   },
   {
     "date": "2008-05-07",
     "id": "191",
-    "key": "ifyoureadthiswriteback",
+    "slug": "ifyoureadthiswriteback",
     "title": "If you read this, write back"
   },
   {
     "date": "2008-05-07",
     "id": "190",
-    "key": "iwillfollowyouintothedark",
+    "slug": "iwillfollowyouintothedark",
     "title": "I will follow you into the dark"
   },
   {
     "date": "2008-05-06",
     "id": "189",
-    "key": "judgmentday",
+    "slug": "judgmentday",
     "title": "judgment day"
   },
   {
     "date": "2008-05-06",
     "id": "188",
-    "key": "youhurtme",
+    "slug": "youhurtme",
     "title": "you hurt me"
   },
   {
     "date": "2008-05-05",
     "id": "187",
-    "key": "youreawkwardbutitscute",
+    "slug": "youreawkwardbutitscute",
     "title": "you're awkward but it's cute"
   },
   {
     "date": "2008-05-05",
     "id": "186",
-    "key": "ilikehavingnightmares",
+    "slug": "ilikehavingnightmares",
     "title": "I like having nightmares"
   },
   {
     "date": "2008-05-02",
     "id": "185",
-    "key": "dinosaursarescary",
+    "slug": "dinosaursarescary",
     "title": "dinosaurs are scary"
   },
   {
     "date": "2008-05-02",
     "id": "184",
-    "key": "sleep",
+    "slug": "sleep",
     "title": "sleep"
   },
   {
     "date": "2008-05-02",
     "id": "183",
-    "key": "imlostandweirdwithoutyouhere",
+    "slug": "imlostandweirdwithoutyouhere",
     "title": "I'm lost and weird without you here"
   },
   {
     "date": "2008-05-01",
     "id": "182",
-    "key": "whyamistillsick",
+    "slug": "whyamistillsick",
     "title": "why am I still sick?"
   },
   {
     "date": "2008-05-01",
     "id": "181",
-    "key": "loveiseverywhere",
+    "slug": "loveiseverywhere",
     "title": "love is everywhere"
   },
   {
     "date": "2008-04-30",
     "id": "180",
-    "key": "ididit2",
+    "slug": "ididit2",
     "title": "I did it!"
   },
   {
     "date": "2008-04-30",
     "id": "179",
-    "key": "iamalwaystired",
+    "slug": "iamalwaystired",
     "title": "I am always tired"
   },
   {
     "date": "2008-04-28",
     "id": "178",
-    "key": "relationshipsneedtomoveforwardbutwecant",
+    "slug": "relationshipsneedtomoveforwardbutwecant",
     "title": "relationships need to move forward, but we can't"
   },
   {
     "date": "2008-04-28",
     "id": "177",
-    "key": "hydroelectricpowerrocksmysocks",
+    "slug": "hydroelectricpowerrocksmysocks",
     "title": "Hydroelectric power rocks my socks!"
   },
   {
     "date": "2008-04-22",
     "id": "176",
-    "key": "letitdieandgetoutofmymind",
+    "slug": "letitdieandgetoutofmymind",
     "title": "let it die and get out of my mind"
   },
   {
     "date": "2008-04-22",
     "id": "175",
-    "key": "imhungry",
+    "slug": "imhungry",
     "title": "I'm hungry"
   },
   {
     "date": "2008-04-21",
     "id": "174",
-    "key": "sowhatsnext",
+    "slug": "sowhatsnext",
     "title": "So, what's next?"
   },
   {
     "date": "2008-04-21",
     "id": "173",
-    "key": "ihatewaiting",
+    "slug": "ihatewaiting",
     "title": "I hate waiting"
   },
   {
     "date": "2008-04-18",
     "id": "172",
-    "key": "thiscanonlyendintears",
+    "slug": "thiscanonlyendintears",
     "title": "this can only end in tears"
   },
   {
     "date": "2008-04-18",
     "id": "171",
-    "key": "itslikeyouandihavethesamemind",
+    "slug": "itslikeyouandihavethesamemind",
     "title": "it's like you and I have the same mind"
   },
   {
     "date": "2008-04-18",
     "id": "170",
-    "key": "thedrugsdidntwork",
+    "slug": "thedrugsdidntwork",
     "title": "the drugs didn't work"
   },
   {
     "date": "2008-04-18",
     "id": "169",
-    "key": "pleasebenice2",
+    "slug": "pleasebenice2",
     "title": "please be nice"
   },
   {
     "date": "2008-04-17",
     "id": "168",
-    "key": "icantsayanythingtoyouwithoutsoundingstupidorinsane",
+    "slug": "icantsayanythingtoyouwithoutsoundingstupidorinsane",
     "title": "I can't say anything to you without sounding stupid or insane"
   },
   {
     "date": "2008-04-17",
     "id": "167",
-    "key": "becauseilovedyou",
+    "slug": "becauseilovedyou",
     "title": "because I loved you"
   },
   {
     "date": "2008-04-17",
     "id": "166",
-    "key": "ijustwantyoutoreadmywords",
+    "slug": "ijustwantyoutoreadmywords",
     "title": "I just want you to read my words"
   },
   {
     "date": "2008-04-16",
     "id": "165",
-    "key": "pleasebenice",
+    "slug": "pleasebenice",
     "title": "please be nice"
   },
   {
     "date": "2008-04-16",
     "id": "164",
-    "key": "youshouldbemine",
+    "slug": "youshouldbemine",
     "title": "you should be mine"
   },
   {
     "date": "2008-04-15",
     "id": "163",
-    "key": "wishithadbeenanearthquake",
+    "slug": "wishithadbeenanearthquake",
     "title": "wish it had been an earthquake"
   },
   {
     "date": "2008-04-15",
     "id": "162",
-    "key": "doyouremember2",
+    "slug": "doyouremember2",
     "title": "do you remember?"
   },
   {
     "date": "2008-04-14",
     "id": "161",
-    "key": "hewilltakeovertheworldoneday",
+    "slug": "hewilltakeovertheworldoneday",
     "title": "He will take over the world one day"
   },
   {
     "date": "2008-04-14",
     "id": "160",
-    "key": "idisagree",
+    "slug": "idisagree",
     "title": "I disagree"
   },
   {
     "date": "2008-04-14",
     "id": "159",
-    "key": "schoolruinedmylife",
+    "slug": "schoolruinedmylife",
     "title": "school ruined my life"
   },
   {
     "date": "2008-04-14",
     "id": "158",
-    "key": "imfinewithoutyou",
+    "slug": "imfinewithoutyou",
     "title": "I'm fine without you"
   },
   {
     "date": "2008-04-11",
     "id": "157",
-    "key": "turtlesarefun",
+    "slug": "turtlesarefun",
     "title": "turtles are fun"
   },
   {
     "date": "2008-04-11",
     "id": "156",
-    "key": "areyousurethisisok",
+    "slug": "areyousurethisisok",
     "title": "are you sure this is ok?"
   },
   {
     "date": "2008-04-11",
     "id": "155",
-    "key": "whenyouleftparisireplacedyouwithacatandnameditafteryou",
+    "slug": "whenyouleftparisireplacedyouwithacatandnameditafteryou",
     "title": "when you left to Paris I replaced you with a cat and named it after you"
   },
   {
     "date": "2008-04-10",
     "id": "154",
-    "key": "spacemonsterstaughtmehowtoread",
+    "slug": "spacemonsterstaughtmehowtoread",
     "title": "Space monsters taught me how to read"
   },
   {
     "date": "2008-04-10",
     "id": "153",
-    "key": "idliketorunmoretests",
+    "slug": "idliketorunmoretests",
     "title": "I'd like to run more tests"
   },
   {
     "date": "2008-04-09",
     "id": "152",
-    "key": "illnevergetit",
+    "slug": "illnevergetit",
     "title": "I'll never get it"
   },
   {
     "date": "2008-04-09",
     "id": "151",
-    "key": "mywifehatesmybeard",
+    "slug": "mywifehatesmybeard",
     "title": "my wife hates my beard"
   },
   {
     "date": "2008-04-08",
     "id": "150",
-    "key": "ihatepeoplewhohatepeople",
+    "slug": "ihatepeoplewhohatepeople",
     "title": "I hate people who hate people"
   },
   {
     "date": "2008-04-08",
     "id": "149",
-    "key": "justadmitthatyouareinlovewithme",
+    "slug": "justadmitthatyouareinlovewithme",
     "title": "just admit that you are in love with me!"
   },
   {
     "date": "2008-04-07",
     "id": "148",
-    "key": "didyoutakeanypictures",
+    "slug": "didyoutakeanypictures",
     "title": "did you take any pictures?"
   },
   {
     "date": "2008-04-07",
     "id": "147",
-    "key": "myfriend",
+    "slug": "myfriend",
     "title": "my friend"
   },
   {
     "date": "2008-04-07",
     "id": "146",
-    "key": "theenemyisme",
+    "slug": "theenemyisme",
     "title": "the enemy is me"
   },
   {
     "date": "2008-04-04",
     "id": "145",
-    "key": "itcomesinacan",
+    "slug": "itcomesinacan",
     "title": "it comes in a can"
   },
   {
     "date": "2008-04-04",
     "id": "144",
-    "key": "howdoigetthere2",
+    "slug": "howdoigetthere2",
     "title": "how do I get there?"
   },
   {
     "date": "2008-04-03",
     "id": "143",
-    "key": "itllkillyou",
+    "slug": "itllkillyou",
     "title": "it'll kill you"
   },
   {
     "date": "2008-04-03",
     "id": "142",
-    "key": "imreallybored",
+    "slug": "imreallybored",
     "title": "I'm really bored"
   },
   {
     "date": "2008-04-03",
     "id": "141",
-    "key": "allthatiamisnotenough",
+    "slug": "allthatiamisnotenough",
     "title": "all that I am is not enough..."
   },
   {
     "date": "2008-04-02",
     "id": "140",
-    "key": "iwanttostartmakingtherightdecisions",
+    "slug": "iwanttostartmakingtherightdecisions",
     "title": "I want to start making the right decisions"
   },
   {
     "date": "2008-04-02",
     "id": "139",
-    "key": "pooponyou",
+    "slug": "pooponyou",
     "title": "poop on you"
   },
   {
     "date": "2008-04-01",
     "id": "138",
-    "key": "iamgoingtoofast",
+    "slug": "iamgoingtoofast",
     "title": "I'm going to fast"
   },
   {
     "date": "2008-04-01",
     "id": "137",
-    "key": "idontwanttoknowyourplan",
+    "slug": "idontwanttoknowyourplan",
     "title": "I don't want to know your plan"
   },
   {
     "date": "2008-03-31",
     "id": "136",
-    "key": "thesunwillcomeouttomorrow",
+    "slug": "thesunwillcomeouttomorrow",
     "title": "the sun will come out tomorrow"
   },
   {
     "date": "2008-03-31",
     "id": "135",
-    "key": "imjustdreaming",
+    "slug": "imjustdreaming",
     "title": "I'm just dreaming"
   },
   {
     "date": "2008-03-31",
     "id": "134",
-    "key": "itkillsmethatyouarewithhim",
+    "slug": "itkillsmethatyouarewithhim",
     "title": "it kills me that you are with him"
   },
   {
     "date": "2008-03-31",
     "id": "133",
-    "key": "outofeveryoneiveneverthoughtofbeingthelastonestanding",
+    "slug": "outofeveryoneiveneverthoughtofbeingthelastonestanding",
     "title": "out of everyone I've never thought of being the last one standing"
   },
   {
     "date": "2008-03-26",
     "id": "132",
-    "key": "alittleloud",
+    "slug": "alittleloud",
     "title": "a little loud"
   },
   {
     "date": "2008-03-26",
     "id": "131",
-    "key": "thereisnothing",
+    "slug": "thereisnothing",
     "title": "there is nothing"
   },
   {
     "date": "2008-03-25",
     "id": "130",
-    "key": "ithinkyoutraveledtoofar",
+    "slug": "ithinkyoutraveledtoofar",
     "title": "I think you traveled too far"
   },
   {
     "date": "2008-03-25",
     "id": "129",
-    "key": "myhairshouldbelonger",
+    "slug": "myhairshouldbelonger",
     "title": "My hair should be longer"
   },
   {
     "date": "2008-03-25",
     "id": "128",
-    "key": "imadeyouamixtape",
+    "slug": "imadeyouamixtape",
     "title": "I made you a mix tape"
   },
   {
     "date": "2008-03-24",
     "id": "127",
-    "key": "ineedanewjob",
+    "slug": "ineedanewjob",
     "title": "I need a new job"
   },
   {
     "date": "2008-03-24",
     "id": "126",
-    "key": "ilovelongbaths",
+    "slug": "ilovelongbaths",
     "title": "I love long baths"
   },
   {
     "date": "2008-03-24",
     "id": "125",
-    "key": "wegottogo",
+    "slug": "wegottogo",
     "title": "We got to go"
   },
   {
     "date": "2008-03-21",
     "id": "124",
-    "key": "ihopethingswillbefine",
+    "slug": "ihopethingswillbefine",
     "title": "I hope things will be fine"
   },
   {
     "date": "2008-03-21",
     "id": "123",
-    "key": "everythingismyfault",
+    "slug": "everythingismyfault",
     "title": "every thing is my fault"
   },
   {
     "date": "2008-03-21",
     "id": "122",
-    "key": "hehascometotakeustoabetterplace2",
+    "slug": "hehascometotakeustoabetterplace2",
     "title": "He has come to take us to a better place"
   },
   {
     "date": "2008-03-20",
     "id": "121",
-    "key": "iwassowarm",
+    "slug": "iwassowarm",
     "title": "I was so warm"
   },
   {
     "date": "2008-03-20",
     "id": "120",
-    "key": "imustgoon",
+    "slug": "imustgoon",
     "title": "I must go on"
   },
   {
     "date": "2008-03-19",
     "id": "119",
-    "key": "justsomethingtodo",
+    "slug": "justsomethingtodo",
     "title": "Just something to do"
   },
   {
     "date": "2008-03-19",
     "id": "118",
-    "key": "dragonsarethefuture",
+    "slug": "dragonsarethefuture",
     "title": "Dragons are the future"
   },
   {
     "date": "2008-03-18",
     "id": "117",
-    "key": "onlywhenwearebored",
+    "slug": "onlywhenwearebored",
     "title": "only when we are bored"
   },
   {
     "date": "2008-03-18",
     "id": "116",
-    "key": "wheredidiparkmycar",
+    "slug": "wheredidiparkmycar",
     "title": "Where did I park my car?"
   },
   {
     "date": "2008-03-17",
     "id": "115",
-    "key": "allthingsgrow",
+    "slug": "allthingsgrow",
     "title": "all things grow"
   },
   {
     "date": "2008-03-17",
     "id": "114",
-    "key": "weareonthesamewavelength2",
+    "slug": "weareonthesamewavelength2",
     "title": "we are on the same wavelength"
   },
   {
     "date": "2008-03-13",
     "id": "113",
-    "key": "ithinkaboutyoualot",
+    "slug": "ithinkaboutyoualot",
     "title": "I think about you a lot"
   },
   {
     "date": "2008-03-13",
     "id": "112",
-    "key": "theworldsuddenlyseemssmall",
+    "slug": "theworldsuddenlyseemssmall",
     "title": "The world suddenly seems small"
   },
   {
     "date": "2008-03-12",
     "id": "111",
-    "key": "yourepathetic",
+    "slug": "yourepathetic",
     "title": "You're pathetic"
   },
   {
     "date": "2008-03-12",
     "id": "110",
-    "key": "imightmakeit2",
+    "slug": "imightmakeit2",
     "title": "I might make it!"
   },
   {
     "date": "2008-03-11",
     "id": "109",
-    "key": "ihatehistory",
+    "slug": "ihatehistory",
     "title": "I hate history"
   },
   {
     "date": "2008-03-11",
     "id": "108",
-    "key": "ineedmoretime",
+    "slug": "ineedmoretime",
     "title": "I need more time"
   },
   {
     "date": "2008-03-10",
     "id": "107",
-    "key": "hereiam",
+    "slug": "hereiam",
     "title": "here I am"
   },
   {
     "date": "2008-03-10",
     "id": "106",
-    "key": "atthebottomofeverything2",
+    "slug": "atthebottomofeverything2",
     "title": "At the bottom of everything"
   },
   {
     "date": "2008-03-07",
     "id": "105",
-    "key": "itsbeen12yearsandimstillhere",
+    "slug": "itsbeen12yearsandimstillhere",
     "title": "it's been 12 years and I'm still here"
   },
   {
     "date": "2008-03-07",
     "id": "104",
-    "key": "ihatestuff",
+    "slug": "ihatestuff",
     "title": "I HATE STUFF"
   },
   {
     "date": "2008-03-06",
     "id": "103",
-    "key": "idontlikered",
+    "slug": "idontlikered",
     "title": "I don't like red"
   },
   {
     "date": "2008-03-06",
     "id": "102",
-    "key": "imprettymuchlikeagenius",
+    "slug": "imprettymuchlikeagenius",
     "title": "I'm pretty much like a genius"
   },
   {
     "date": "2008-03-05",
     "id": "101",
-    "key": "imafraidtogobackhome",
+    "slug": "imafraidtogobackhome",
     "title": "I'm afraid to go back home"
   },
   {
     "date": "2008-03-05",
     "id": "100",
-    "key": "whyamialone",
+    "slug": "whyamialone",
     "title": "why am I alone?"
   },
   {
     "date": "2008-03-04",
     "id": "99",
-    "key": "yourebeautifulontheinside",
+    "slug": "yourebeautifulontheinside",
     "title": "You're beautiful on the inside"
   },
   {
     "date": "2008-03-04",
     "id": "98",
-    "key": "withoutyouimcompletelyincomplete",
+    "slug": "withoutyouimcompletelyincomplete",
     "title": "without you, I'm completely incomplete"
   },
   {
     "date": "2008-03-03",
     "id": "97",
-    "key": "wheredoifit",
+    "slug": "wheredoifit",
     "title": "where do I fit?"
   },
   {
     "date": "2008-03-03",
     "id": "96",
-    "key": "wewillgetthereoneday",
+    "slug": "wewillgetthereoneday",
     "title": "we will get there one day"
   },
   {
     "date": "2008-02-29",
     "id": "95",
-    "key": "idontunderstandyourlanguage",
+    "slug": "idontunderstandyourlanguage",
     "title": "I don't understand your language"
   },
   {
     "date": "2008-02-29",
     "id": "94",
-    "key": "saywhatyouwanttosay",
+    "slug": "saywhatyouwanttosay",
     "title": "say what you want to say"
   },
   {
     "date": "2008-02-28",
     "id": "93",
-    "key": "youlookstupid",
+    "slug": "youlookstupid",
     "title": "you look stupid"
   },
   {
     "date": "2008-02-28",
     "id": "92",
-    "key": "imnotsurewhatijustdid",
+    "slug": "imnotsurewhatijustdid",
     "title": "I'm not sure what I just did"
   },
   {
     "date": "2008-02-28",
     "id": "91",
-    "key": "thismusicmakesmybodymove",
+    "slug": "thismusicmakesmybodymove",
     "title": "this music makes my body move"
   },
   {
     "date": "2008-02-27",
     "id": "90",
-    "key": "youalreadyknow",
+    "slug": "youalreadyknow",
     "title": "you already know"
   },
   {
     "date": "2008-02-27",
     "id": "89",
-    "key": "almostthere",
+    "slug": "almostthere",
     "title": "almost there"
   },
   {
     "date": "2008-02-26",
     "id": "88",
-    "key": "amiarobot",
+    "slug": "amiarobot",
     "title": "Am I a robot?"
   },
   {
     "date": "2008-02-26",
     "id": "87",
-    "key": "thelonliestdog",
+    "slug": "thelonliestdog",
     "title": "the lonliest dog"
   },
   {
     "date": "2008-02-25",
     "id": "86",
-    "key": "noneofthismakessense",
+    "slug": "noneofthismakessense",
     "title": "none of this makes sense"
   },
   {
     "date": "2008-02-25",
     "id": "85",
-    "key": "noneofthisevermadesense",
+    "slug": "noneofthisevermadesense",
     "title": "none of this ever made sense"
   },
   {
     "date": "2008-02-25",
     "id": "84",
-    "key": "noneofthiswillevermakesense",
+    "slug": "noneofthiswillevermakesense",
     "title": "none of this will ever make sense"
   },
   {
     "date": "2008-02-22",
     "id": "83",
-    "key": "theyllneverreallyknow",
+    "slug": "theyllneverreallyknow",
     "title": "they'll never really know"
   },
   {
     "date": "2008-02-22",
     "id": "82",
-    "key": "ifyoucouldonlyhearwhatmyheartissaying",
+    "slug": "ifyoucouldonlyhearwhatmyheartissaying",
     "title": "If you could only hear what my heart is saying"
   },
   {
     "date": "2008-02-21",
     "id": "81",
-    "key": "imtiredofbeingalone",
+    "slug": "imtiredofbeingalone",
     "title": "I'm tired of being alone"
   },
   {
     "date": "2008-02-21",
     "id": "80",
-    "key": "icantbreathwhenhelooksatme",
+    "slug": "icantbreathwhenhelooksatme",
     "title": "I can't breathe when he looks at me"
   },
   {
     "date": "2008-02-20",
     "id": "79",
-    "key": "thisstuffismakebelieve",
+    "slug": "thisstuffismakebelieve",
     "title": "This stuff is make believe"
   },
   {
     "date": "2008-02-20",
     "id": "78",
-    "key": "wheredowego",
+    "slug": "wheredowego",
     "title": "Where do we go?"
   },
   {
     "date": "2008-02-19",
     "id": "77",
-    "key": "wedontneedanotherdog",
+    "slug": "wedontneedanotherdog",
     "title": "we don't need another dog"
   },
   {
     "date": "2008-02-19",
     "id": "76",
-    "key": "istayedupallnightmakingit",
+    "slug": "istayedupallnightmakingit",
     "title": "I stayed up all night making it"
   },
   {
     "date": "2008-02-18",
     "id": "75",
-    "key": "whenilookatyouigetmoreideas",
+    "slug": "whenilookatyouigetmoreideas",
     "title": "when I look at you, I get more ideas"
   },
   {
     "date": "2008-02-18",
     "id": "74",
-    "key": "everyoneisalwayswantingsomething",
+    "slug": "everyoneisalwayswantingsomething",
     "title": "everyone is always wanting something"
   },
   {
     "date": "2008-02-18",
     "id": "73",
-    "key": "areyouhomesicktoo",
+    "slug": "areyouhomesicktoo",
     "title": "are you homesick too?"
   },
   {
     "date": "2008-02-14",
     "id": "72",
-    "key": "youcouldhavebeenmyfirstmate",
+    "slug": "youcouldhavebeenmyfirstmate",
     "title": "you could have been my first mate"
   },
   {
     "date": "2008-02-14",
     "id": "71",
-    "key": "canyoudrawsomesheep",
+    "slug": "canyoudrawsomesheep",
     "title": "can you draw some sheep?"
   },
   {
     "date": "2008-02-13",
     "id": "70",
-    "key": "dontletschoolinterferewithyoureducation",
+    "slug": "dontletschoolinterferewithyoureducation",
     "title": "Don't let school interfere with your education"
   },
   {
     "date": "2008-02-13",
     "id": "69",
-    "key": "ijustcantstoplooking",
+    "slug": "ijustcantstoplooking",
     "title": "I just can't stop looking"
   },
   {
     "date": "2008-02-12",
     "id": "68",
-    "key": "iamnotqualified",
+    "slug": "iamnotqualified",
     "title": "I am not qualified"
   },
   {
     "date": "2008-02-12",
     "id": "67",
-    "key": "iquit",
+    "slug": "iquit",
     "title": "I quit"
   },
   {
     "date": "2008-02-11",
     "id": "66",
-    "key": "isitbecauseimugly",
+    "slug": "isitbecauseimugly",
     "title": "is it because I'm ugly"
   },
   {
     "date": "2008-02-11",
     "id": "65",
-    "key": "noteverythingrequiresdisscusion",
+    "slug": "noteverythingrequiresdisscusion",
     "title": "not everything requires discussion"
   },
   {
     "date": "2008-02-08",
     "id": "64",
-    "key": "theskyispurple",
+    "slug": "theskyispurple",
     "title": "the sky is purple"
   },
   {
     "date": "2008-02-08",
     "id": "63",
-    "key": "anotherawesomeday",
+    "slug": "anotherawesomeday",
     "title": "another awesome day"
   },
   {
     "date": "2008-02-07",
     "id": "62",
-    "key": "andwhenyouwakeupeverythingisgoingtobefine",
+    "slug": "andwhenyouwakeupeverythingisgoingtobefine",
     "title": "and when you wake up everything is going to be fine"
   },
   {
     "date": "2008-02-07",
     "id": "61",
-    "key": "itdbebetterupsidedown2",
+    "slug": "itdbebetterupsidedown2",
     "title": "it'd be better upside down"
   },
   {
     "date": "2008-02-06",
     "id": "60",
-    "key": "canyoumakesomethingaboutgivingzombiesquirrelsasagift",
+    "slug": "canyoumakesomethingaboutgivingzombiesquirrelsasagift",
     "title": "can you make something about giving a zombie squirrel as a gift?"
   },
   {
     "date": "2008-02-06",
     "id": "59",
-    "key": "itdbebetterupsidedown",
+    "slug": "itdbebetterupsidedown",
     "title": "it'd be better upside down"
   },
   {
     "date": "2008-02-05",
     "id": "58",
-    "key": "dontlaughiloveyou",
+    "slug": "dontlaughiloveyou",
     "title": "don't laugh I love you"
   },
   {
     "date": "2008-02-05",
     "id": "57",
-    "key": "soyouhaventseenit",
+    "slug": "soyouhaventseenit",
     "title": "so you haven't seen it?"
   },
   {
     "date": "2008-02-04",
     "id": "56",
-    "key": "ipickedthewrongfruit",
+    "slug": "ipickedthewrongfruit",
     "title": "I picked the wrong fruit"
   },
   {
     "date": "2008-02-04",
     "id": "55",
-    "key": "anybodyseenmyshoe",
+    "slug": "anybodyseenmyshoe",
     "title": "Anybody seen my shoe?"
   },
   {
     "date": "2008-02-04",
     "id": "54",
-    "key": "ilikeyoubutatthesametimeihateyou",
+    "slug": "ilikeyoubutatthesametimeihateyou",
     "title": "I like you, but at the same time I hate you"
   },
   {
     "date": "2008-02-01",
     "id": "53",
-    "key": "ithinkwetookawrongturnawhileback",
+    "slug": "ithinkwetookawrongturnawhileback",
     "title": "I think we took the wrong turn a while back"
   },
   {
     "date": "2008-02-01",
     "id": "52",
-    "key": "imcertainthatthisistimewellspentnomattertheoutcome",
+    "slug": "imcertainthatthisistimewellspentnomattertheoutcome",
     "title": "I'm certain that this is time well spent no matter the out come"
   },
   {
     "date": "2008-01-31",
     "id": "51",
-    "key": "iguessishouldhavebeenmorecareful",
+    "slug": "iguessishouldhavebeenmorecareful",
     "title": "I guess I should have been more careful"
   },
   {
     "date": "2008-01-31",
     "id": "50",
-    "key": "imaforwardthinker",
+    "slug": "imaforwardthinker",
     "title": "I'm a forward thinker"
   },
   {
     "date": "2008-01-31",
     "id": "49",
-    "key": "sincewhendidyouhavelazereyes13",
+    "slug": "sincewhendidyouhavelazereyes13",
     "title": "since when did you have lazer eyes?"
   },
   {
     "date": "2008-01-30",
     "id": "48",
-    "key": "lazeriswithans",
+    "slug": "lazeriswithans",
     "title": "Lazer\" is with an \"S"
   },
   {
     "date": "2008-01-30",
     "id": "47",
-    "key": "sincewhendidyouhavelazereyes12",
+    "slug": "sincewhendidyouhavelazereyes12",
     "title": "since when did you have lazer eyes?"
   },
   {
     "date": "2008-01-30",
     "id": "46",
-    "key": "sincewhendidyouhavelazereyes11",
+    "slug": "sincewhendidyouhavelazereyes11",
     "title": "since when did you have lazer eyes?"
   },
   {
     "date": "2008-01-29",
     "id": "45",
-    "key": "sincewhendidyouhavelazereyes10",
+    "slug": "sincewhendidyouhavelazereyes10",
     "title": "since when did you have lazer eyes?"
   },
   {
     "date": "2008-01-29",
     "id": "44",
-    "key": "sincewhendidyouhavelazereyes9",
+    "slug": "sincewhendidyouhavelazereyes9",
     "title": "since when did you have lazer eyes?"
   },
   {
     "date": "2008-01-29",
     "id": "43",
-    "key": "sincewhendidyouhavelazereyes8",
+    "slug": "sincewhendidyouhavelazereyes8",
     "title": "since when did you have lazer eyes?"
   },
   {
     "date": "2008-01-29",
     "id": "42",
-    "key": "sincewhendidyouhavelazereyes7",
+    "slug": "sincewhendidyouhavelazereyes7",
     "title": "since when did you have lazer eyes?"
   },
   {
     "date": "2008-01-28",
     "id": "41",
-    "key": "sincewhendidyouhavelazereyes6",
+    "slug": "sincewhendidyouhavelazereyes6",
     "title": "since when did you have lazer eyes?"
   },
   {
     "date": "2008-01-28",
     "id": "40",
-    "key": "sincewhendidyouhavelazereyes5",
+    "slug": "sincewhendidyouhavelazereyes5",
     "title": "since when did you have lazer eyes?"
   },
   {
     "date": "2008-01-28",
     "id": "39",
-    "key": "sincewhendidyouhavelazereyes4",
+    "slug": "sincewhendidyouhavelazereyes4",
     "title": "since when did you have lazer eyes?"
   },
   {
     "date": "2008-01-28",
     "id": "38",
-    "key": "sincewhendidyouhavelazereyes3",
+    "slug": "sincewhendidyouhavelazereyes3",
     "title": "since when did you have lazer eyes?"
   },
   {
     "date": "2008-01-28",
     "id": "37",
-    "key": "sincewhendidyouhavelazereyes2",
+    "slug": "sincewhendidyouhavelazereyes2",
     "title": "since when did you have lazer eyes?"
   },
   {
     "date": "2008-01-25",
     "id": "36",
-    "key": "sincewhendidyouhavelazereyes",
+    "slug": "sincewhendidyouhavelazereyes",
     "title": "since when did you have lazer eyes?"
   },
   {
     "date": "2008-01-25",
     "id": "35",
-    "key": "itllonlytakfiveminutes",
+    "slug": "itllonlytakfiveminutes",
     "title": "it'll only take five minutes"
   },
   {
     "date": "2008-01-24",
     "id": "34",
-    "key": "itsalwaysyummy",
+    "slug": "itsalwaysyummy",
     "title": "it's always yummy"
   },
   {
     "date": "2008-01-24",
     "id": "33",
-    "key": "stopplayinggamesplease2",
+    "slug": "stopplayinggamesplease2",
     "title": "stop playing games, please."
   },
   {
     "date": "2008-01-23",
     "id": "32",
-    "key": "whywonttheyjustlook",
+    "slug": "whywonttheyjustlook",
     "title": "Why won't they just look"
   },
   {
     "date": "2008-01-23",
     "id": "31",
-    "key": "iamsuprisinglyfondofyourcowboyhat",
+    "slug": "iamsuprisinglyfondofyourcowboyhat",
     "title": "I am surprisingly fond of your cowboy hat"
   },
   {
     "date": "2008-01-22",
     "id": "30",
-    "key": "imissyoubeingatmyside",
+    "slug": "imissyoubeingatmyside",
     "title": "I miss you being at my side"
   },
   {
     "date": "2008-01-22",
     "id": "29",
-    "key": "lastchance",
+    "slug": "lastchance",
     "title": "last chance"
   },
   {
     "date": "2008-01-21",
     "id": "28",
-    "key": "idroppedmycellphone",
+    "slug": "idroppedmycellphone",
     "title": "I dropped my cell phone"
   },
   {
     "date": "2008-01-21",
     "id": "27",
-    "key": "thesegogglesareprettycool",
+    "slug": "thesegogglesareprettycool",
     "title": "these goggles are pretty cool"
   },
   {
     "date": "2008-01-15",
     "id": "26",
-    "key": "sometimesieatgrass",
+    "slug": "sometimesieatgrass",
     "title": "sometimes I eat grass"
   },
   {
     "date": "2008-01-15",
     "id": "25",
-    "key": "ilosttheonlythingthatmadesensetome",
+    "slug": "ilosttheonlythingthatmadesensetome",
     "title": "I lost the only thing that made sense to me"
   },
   {
     "date": "2008-01-14",
     "id": "24",
-    "key": "ithinkideserveanotherchance",
+    "slug": "ithinkideserveanotherchance",
     "title": "I think I deserve another chance"
   },
   {
     "date": "2008-01-14",
     "id": "23",
-    "key": "welliamusedtoit",
+    "slug": "welliamusedtoit",
     "title": "well, I am used to it"
   },
   {
     "date": "2008-01-11",
     "id": "22",
-    "key": "happinessisastateofmind",
+    "slug": "happinessisastateofmind",
     "title": "Happiness is a state of mind"
   },
   {
     "date": "2008-01-11",
     "id": "21",
-    "key": "youwillsurelyregretthis",
+    "slug": "youwillsurelyregretthis",
     "title": "you will surely regret this"
   },
   {
     "date": "2008-01-10",
     "id": "20",
-    "key": "metaldreams",
+    "slug": "metaldreams",
     "title": "metal dreams"
   },
   {
     "date": "2008-01-10",
     "id": "19",
-    "key": "areyouok",
+    "slug": "areyouok",
     "title": "are you OK?"
   },
   {
     "date": "2008-01-09",
     "id": "18",
-    "key": "supermassiveblackholes",
+    "slug": "supermassiveblackholes",
     "title": "super massive black holes"
   },
   {
     "date": "2008-01-09",
     "id": "17",
-    "key": "anditwasallgoingsowell",
+    "slug": "anditwasallgoingsowell",
     "title": "and it was all going so well"
   },
   {
     "date": "2008-01-08",
     "id": "16",
-    "key": "perfectday",
+    "slug": "perfectday",
     "title": "perfect day"
   },
   {
     "date": "2008-01-08",
     "id": "15",
-    "key": "nowyourpartofthis",
+    "slug": "nowyourpartofthis",
     "title": "Now you're part of this"
   },
   {
     "date": "2008-01-08",
     "id": "14",
-    "key": "idslayadragonforyou",
+    "slug": "idslayadragonforyou",
     "title": "I'd slay a dragon for you"
   },
   {
     "date": "2008-01-07",
     "id": "13",
-    "key": "iwanttoleavethisplaceforgood",
+    "slug": "iwanttoleavethisplaceforgood",
     "title": "I want to leave this place for good"
   },
   {
     "date": "2008-01-07",
     "id": "12",
-    "key": "thisisnotwhatido",
+    "slug": "thisisnotwhatido",
     "title": "this is not what I do"
   },
   {
     "date": "2008-01-04",
     "id": "11",
-    "key": "justplayingthegame",
+    "slug": "justplayingthegame",
     "title": "just playing the game"
   },
   {
     "date": "2008-01-04",
     "id": "10",
-    "key": "why-2",
+    "slug": "why-2",
     "title": "why?"
   },
   {
     "date": "2008-01-03",
     "id": "9",
-    "key": "idontmindthatyouareholdingmyhand",
+    "slug": "idontmindthatyouareholdingmyhand",
     "title": "I don't mind that you are holding my hand"
   },
   {
     "date": "2008-01-03",
     "id": "8",
-    "key": "youarethereasonigetupeveryday",
+    "slug": "youarethereasonigetupeveryday",
     "title": "you are the reason I get up every day"
   },
   {
     "date": "2008-01-03",
     "id": "7",
-    "key": "sothisishowitends",
+    "slug": "sothisishowitends",
     "title": "so this is how it ends"
   },
   {
     "date": "2008-01-02",
     "id": "6",
-    "key": "twoyearsclean",
+    "slug": "twoyearsclean",
     "title": "two years clean"
   },
   {
     "date": "2008-01-02",
     "id": "5",
-    "key": "iknewitwasalie",
+    "slug": "iknewitwasalie",
     "title": "I knew it was a lie"
   },
   {
     "date": "2008-01-02",
     "id": "4",
-    "key": "nothinghaschanged",
+    "slug": "nothinghaschanged",
     "title": "nothing has changed"
   },
   {
     "date": "2008-01-01",
     "id": "3",
-    "key": "yesterdayifoundoutmydadisarobot",
+    "slug": "yesterdayifoundoutmydadisarobot",
     "title": "yesterday I found out my dad is a robot"
   },
   {
     "date": "2008-01-01",
     "id": "2",
-    "key": "zombieforthehellofit",
+    "slug": "zombieforthehellofit",
     "title": "zombie for the hell of it"
   },
   {
     "date": "2008-01-01",
     "id": "1",
-    "key": "iwilltakecareofyouwhenyougrowold",
+    "slug": "iwilltakecareofyouwhenyougrowold",
     "title": "I will take care of you when you grow old"
   }
 ];

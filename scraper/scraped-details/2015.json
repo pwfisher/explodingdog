@@ -4,350 +4,350 @@
     "id": "2015.50",
     "date": "2015-12-10",
     "image": "ipromisedragonsexist.jpg",
-    "key": "ipromisedragonsexist",
+    "slug": "ipromisedragonsexist",
     "title": "I promise dragons exist"
   },
   {
     "id": "2015.49",
     "date": "2015-12-04",
     "image": "youchooseyourchoices.jpg",
-    "key": "youchooseyourchoices",
+    "slug": "youchooseyourchoices",
     "title": "you choose your choices"
   },
   {
     "id": "2015.48",
     "date": "2015-11-13",
     "image": "iliedagain.jpg",
-    "key": "iliedagain",
+    "slug": "iliedagain",
     "title": "I lied again."
   },
   {
     "id": "2015.47",
     "date": "2015-10-07",
     "image": "ihatethismachine.jpg",
-    "key": "ihatethismachine",
+    "slug": "ihatethismachine",
     "title": "I hate this machine"
   },
   {
     "id": "2015.46",
     "date": "2015-10-02",
     "image": "itcantmeannothingcanit.jpg",
-    "key": "itcantmeannothingcanit",
+    "slug": "itcantmeannothingcanit",
     "title": "It can't mean nothing. Can it?"
   },
   {
     "id": "2015.45",
     "date": "2015-09-13",
     "image": "andthenyoulaughed.jpg",
-    "key": "andthenyoulaughed",
+    "slug": "andthenyoulaughed",
     "title": "And then you laughed"
   },
   {
     "id": "2015.44",
     "date": "2015-09-11",
     "image": "ididntknowhecouldtalk.jpg",
-    "key": "ididntknowhecouldtalk",
+    "slug": "ididntknowhecouldtalk",
     "title": "I didn't know he could talk"
   },
   {
     "id": "2015.43",
     "date": "2015-09-10",
     "image": "iwanttoscream.jpg",
-    "key": "iwanttoscream",
+    "slug": "iwanttoscream",
     "title": "I want to scream"
   },
   {
     "id": "2015.42",
     "date": "2015-09-09",
     "image": "imfarbeyondthecliffsofnoreturn.jpg",
-    "key": "imfarbeyondthecliffsofnoreturn",
+    "slug": "imfarbeyondthecliffsofnoreturn",
     "title": "I'm far beyond the Cliffs of No return"
   },
   {
     "id": "2015.41",
     "date": "2015-09-04",
     "image": "mytherapistknowsallaboutyou.jpg",
-    "key": "mytherapistknowsallaboutyou",
+    "slug": "mytherapistknowsallaboutyou",
     "title": "my therapist knows all about you"
   },
   {
     "id": "2015.40",
     "date": "2015-09-02",
     "image": "youdontknowthehumanivebecome.jpg",
-    "key": "youdontknowthehumanivebecome",
+    "slug": "youdontknowthehumanivebecome",
     "title": "you don't know the human I've become"
   },
   {
     "id": "2015.39",
     "date": "2015-06-15",
     "image": "ijustneedtojumpthecliff.png",
-    "key": "ijustneedtojumpthecliff",
+    "slug": "ijustneedtojumpthecliff",
     "title": "I just need to jump the cliff"
   },
   {
     "id": "2015.38",
     "date": "2015-06-15",
     "image": "theawakeningofthesoul.png",
-    "key": "theawakeningofthesoul",
+    "slug": "theawakeningofthesoul",
     "title": "The awakening of the soul"
   },
   {
     "id": "2015.37",
     "date": "2015-06-03",
     "image": "sheisaconstantmiracle.png",
-    "key": "sheisaconstantmiracle",
+    "slug": "sheisaconstantmiracle",
     "title": "she is a constant miracle"
   },
   {
     "id": "2015.36",
     "date": "2015-06-03",
     "image": "abirdandabear.png",
-    "key": "abirdandabear",
+    "slug": "abirdandabear",
     "title": "a bird and a bear"
   },
   {
     "id": "2015.35",
     "date": "2015-06-03",
     "image": "iwontdoitunlessyouhelpme.png",
-    "key": "iwontdoitunlessyouhelpme",
+    "slug": "iwontdoitunlessyouhelpme",
     "title": "I won't do it unless you help me"
   },
   {
     "id": "2015.34",
     "date": "2015-05-13",
     "image": "dearfreckles.png",
-    "key": "dearfreckles",
+    "slug": "dearfreckles",
     "title": "Dear Freckles, If you want to stay you have to pay the rent."
   },
   {
     "id": "2015.33",
     "date": "2015-05-13",
     "image": "iamyourelephant.png",
-    "key": "iamyourelephant",
+    "slug": "iamyourelephant",
     "title": "I am your elephant"
   },
   {
     "id": "2015.32",
     "date": "2015-05-05",
     "image": "icantkeeptime.png",
-    "key": "icantkeeptime",
+    "slug": "icantkeeptime",
     "title": "I can't keep time"
   },
   {
     "id": "2015.31",
     "date": "2015-05-05",
     "image": "othersideoftheworld.png",
-    "key": "othersideoftheworld",
+    "slug": "othersideoftheworld",
     "title": "other side of the world"
   },
   {
     "id": "2015.30",
     "date": "2015-04-01",
     "image": "herehavethiskeyifounditontheground.png",
-    "key": "herehavethiskeyifounditontheground",
+    "slug": "herehavethiskeyifounditontheground",
     "title": "Here, have this key. I found it on the ground."
   },
   {
     "id": "2015.29",
     "date": "2015-04-01",
     "image": "myideaithoughtthiswasyouridea.png",
-    "key": "myideaithoughtthiswasyouridea",
+    "slug": "myideaithoughtthiswasyouridea",
     "title": "My idea? I thought this was your idea."
   },
   {
     "id": "2015.28",
     "date": "2015-03-27",
     "image": "ihopeyouwerentcold.png",
-    "key": "ihopeyouwerentcold",
+    "slug": "ihopeyouwerentcold",
     "title": "I hope you weren't cold"
   },
   {
     "id": "2015.27",
     "date": "2015-03-27",
     "image": "qualitycontrolsaysthisoneisgood.png",
-    "key": "qualitycontrolsaysthisoneisgood",
+    "slug": "qualitycontrolsaysthisoneisgood",
     "title": "Quality control says this one is good"
   },
   {
     "id": "2015.26",
     "date": "2015-03-17",
     "image": "pleaseremembermewhenyougetthere.png",
-    "key": "pleaseremembermewhenyougetthere",
+    "slug": "pleaseremembermewhenyougetthere",
     "title": "Please remember me when you get there."
   },
   {
     "id": "2015.25",
     "date": "2015-03-17",
     "image": "itsgettinglatebutidontmind.png",
-    "key": "itsgettinglatebutidontmind",
+    "slug": "itsgettinglatebutidontmind",
     "title": "It's getting late but I don't mind"
   },
   {
     "id": "2015.24",
     "date": "2015-03-06",
     "image": "iwastoldtherewouldbenomath.png",
-    "key": "iwastoldtherewouldbenomath",
+    "slug": "iwastoldtherewouldbenomath",
     "title": "I was told there would be no math"
   },
   {
     "id": "2015.23",
     "date": "2015-03-06",
     "image": "thisismypieceofdirt.png",
-    "key": "thisismypieceofdirt",
+    "slug": "thisismypieceofdirt",
     "title": "This is my piece of dirt"
   },
   {
     "id": "2015.22",
     "date": "2015-03-04",
     "image": "therobotsarelearning.png",
-    "key": "therobotsarelearning",
+    "slug": "therobotsarelearning",
     "title": "The Robots are Learning"
   },
   {
     "id": "2015.21",
     "date": "2015-03-04",
     "image": "whatshouldisay.png",
-    "key": "whatshouldisay",
+    "slug": "whatshouldisay",
     "title": "What Should I Say?"
   },
   {
     "id": "2015.20",
     "date": "2015-03-02",
     "image": "iamnotthesameasiwasindecember.png",
-    "key": "iamnotthesameasiwasindecember",
+    "slug": "iamnotthesameasiwasindecember",
     "title": "I am not the same as I was in December"
   },
   {
     "id": "2015.19",
     "date": "2015-03-02",
     "image": "togetherforever.png",
-    "key": "togetherforever",
+    "slug": "togetherforever",
     "title": "Together Forever"
   },
   {
     "id": "2015.18",
     "date": "2015-02-27",
     "image": "wejustcouldntanymore.png",
-    "key": "wejustcouldntanymore",
+    "slug": "wejustcouldntanymore",
     "title": "we just couldn't anymore"
   },
   {
     "id": "2015.17",
     "date": "2015-02-27",
     "image": "whatamieating.png",
-    "key": "whatamieating",
+    "slug": "whatamieating",
     "title": "What am I eating?"
   },
   {
     "id": "2015.16",
     "date": "2015-02-09",
     "image": "alwaysonrepeat.png",
-    "key": "alwaysonrepeat",
+    "slug": "alwaysonrepeat",
     "title": "Always on Repeat"
   },
   {
     "id": "2015.15",
     "date": "2015-02-09",
     "image": "itsthattimeofyearagain.png",
-    "key": "itsthattimeofyearagain",
+    "slug": "itsthattimeofyearagain",
     "title": "It's that time of year again"
   },
   {
     "id": "2015.14",
     "date": "2015-01-28",
     "image": "youcantbeidealisticallyourlife.png",
-    "key": "youcantbeidealisticallyourlife",
+    "slug": "youcantbeidealisticallyourlife",
     "title": "You can't be idealistic all your life"
   },
   {
     "id": "2015.13",
     "date": "2015-01-28",
     "image": "everythingsbetterthesecondtimearound.png",
-    "key": "everythingsbetterthesecondtimearound",
+    "slug": "everythingsbetterthesecondtimearound",
     "title": "Everything's better the second time around"
   },
   {
     "id": "2015.12",
     "date": "2015-01-27",
     "image": "youaremyfavoritesnowflake.png",
-    "key": "youaremyfavoritesnowflake",
+    "slug": "youaremyfavoritesnowflake",
     "title": "You are my favorite snowflake"
   },
   {
     "id": "2015.11",
     "date": "2015-01-27",
     "image": "ithoughtwednevermeet.png",
-    "key": "ithoughtwednevermeet",
+    "slug": "ithoughtwednevermeet",
     "title": "I thought we'd never meet"
   },
   {
     "id": "2015.9",
     "date": "2015-01-15",
     "image": "icantlookthatfarback.png",
-    "key": "icantlookthatfarback",
+    "slug": "icantlookthatfarback",
     "title": "I can't look that far back"
   },
   {
     "id": "2015.10",
     "date": "2015-01-15",
     "image": "hesawkwardashellbutilovehim.png",
-    "key": "hesawkwardashellbutilovehim",
+    "slug": "hesawkwardashellbutilovehim",
     "title": "He's awkward as hell, but I love him"
   },
   {
     "id": "2015.8",
     "date": "2015-01-14",
     "image": "ifeelmuchbetternow.png",
-    "key": "ifeelmuchbetternow",
+    "slug": "ifeelmuchbetternow",
     "title": "I feel much better now"
   },
   {
     "id": "2015.7",
     "date": "2015-01-14",
     "image": "illgobutiwontgetoutofthecar.png",
-    "key": "illgobutiwontgetoutofthecar",
+    "slug": "illgobutiwontgetoutofthecar",
     "title": "I'll go but I won't get out of the car"
   },
   {
     "id": "2015.6",
     "date": "2015-01-09",
     "image": "sometimesisitinmyclosetandthinkofalltheterriblethingsivedone.png",
-    "key": "sometimesisitinmyclosetandthinkofalltheterriblethingsivedone",
+    "slug": "sometimesisitinmyclosetandthinkofalltheterriblethingsivedone",
     "title": "sometimes I sit in my closet and think of all the terrible things I've done"
   },
   {
     "id": "2015.5",
     "date": "2015-01-09",
     "image": "whatdoyouthink.png",
-    "key": "whatdoyouthink",
+    "slug": "whatdoyouthink",
     "title": "What do you think?"
   },
   {
     "id": "2015.4",
     "date": "2015-01-08",
     "image": "thankyouforsavingmylife.png",
-    "key": "thankyouforsavingmylife",
+    "slug": "thankyouforsavingmylife",
     "title": "Thank you for saving my life"
   },
   {
     "id": "2015.3",
     "date": "2015-01-08",
     "image": "maybeyoullnevercryagain.png",
-    "key": "maybeyoullnevercryagain",
+    "slug": "maybeyoullnevercryagain",
     "title": "Maybe you'll never cry again"
   },
   {
     "id": "2015.2",
     "date": "2015-01-06",
     "image": "leavingtheoldbehind.png",
-    "key": "leavingtheoldbehind",
+    "slug": "leavingtheoldbehind",
     "title": "Leaving the Old Behind"
   },
   {
     "id": "2015.1",
     "date": "2015-01-06",
     "image": "myresolutionistoquiteating.png",
-    "key": "myresolutionistoquiteating",
+    "slug": "myresolutionistoquiteating",
     "title": "My resolution is to quit eating"
   }
 ]

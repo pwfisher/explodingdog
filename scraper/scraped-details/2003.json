@@ -4,1197 +4,1197 @@
     "id": "2003.171",
     "date": "2003-12-10",
     "image": "awesome.png",
-    "key": "awesome",
+    "slug": "awesome",
     "title": "awesome"
   },
   {
     "id": "2003.170",
     "date": "2003-12-10",
     "image": "whyareyousosad.png",
-    "key": "whyareyousosad",
+    "slug": "whyareyousosad",
     "title": "why are you so sad?"
   },
   {
     "id": "2003.169",
     "date": "2003-12-09",
     "image": "ihatetime2.png",
-    "key": "ihatetime",
+    "slug": "ihatetime",
     "title": "i hate time"
   },
   {
     "id": "2003.168",
     "date": "2003-12-09",
     "image": "themoonisyellingatme.png",
-    "key": "themoonisyellingatme",
+    "slug": "themoonisyellingatme",
     "title": "the moon is yelling at me"
   },
   {
     "id": "2003.167",
     "date": "2003-12-09",
     "image": "bemyspecialone.png",
-    "key": "bemyspecialone",
+    "slug": "bemyspecialone",
     "title": "be my special one"
   },
   {
     "id": "2003.166",
     "date": "2003-12-05",
     "image": "myhandshurt.png",
-    "key": "myhandshurt",
+    "slug": "myhandshurt",
     "title": "my hands hurt"
   },
   {
     "id": "2003.165",
     "date": "2003-12-05",
     "image": "areyouhappynow.png",
-    "key": "areyouhappynow",
+    "slug": "areyouhappynow",
     "title": "are you happy now?"
   },
   {
     "id": "2003.164",
     "date": "2003-12-05",
     "image": "thankyouforfeedingme.png",
-    "key": "thankyouforfeedingme",
+    "slug": "thankyouforfeedingme",
     "title": "thank you for feeding me"
   },
   {
     "id": "2003.163",
     "date": "2003-12-04",
     "image": "allonmyown.png",
-    "key": "allonmyown",
+    "slug": "allonmyown",
     "title": "all on my own"
   },
   {
     "id": "2003.162",
     "date": "2003-12-04",
     "image": "sometimesimnotsureicare.png",
-    "key": "sometimesimnotsureicare",
+    "slug": "sometimesimnotsureicare",
     "title": "sometimes, i'm not sure i care"
   },
   {
     "id": "2003.161",
     "date": "2003-12-04",
     "image": "theywillneverknowwhoireally.png",
-    "key": "theywillneverknowwhoireally",
+    "slug": "theywillneverknowwhoireally",
     "title": "they will never know who i really am"
   },
   {
     "id": "2003.160",
     "date": "2003-12-03",
     "image": "byebyelittleone.png",
-    "key": "byebyelittleone",
+    "slug": "byebyelittleone",
     "title": "bye, bye, little one"
   },
   {
     "id": "2003.159",
     "date": "2003-12-03",
     "image": "heyoops.png",
-    "key": "heyoops",
+    "slug": "heyoops",
     "title": "hey, oops..."
   },
   {
     "id": "2003.158",
     "date": "2003-12-03",
     "image": "wheredidigo.png",
-    "key": "wheredidigo",
+    "slug": "wheredidigo",
     "title": "where did i go?"
   },
   {
     "id": "2003.157",
     "date": "2003-11-07",
     "image": "onetimeireallyletgo.png",
-    "key": "onetimeireallyletgo",
+    "slug": "onetimeireallyletgo",
     "title": "one time i really let go"
   },
   {
     "id": "2003.156",
     "date": "2003-11-07",
     "image": "whereareyou.png",
-    "key": "whereareyou",
+    "slug": "whereareyou",
     "title": "where are you"
   },
   {
     "id": "2003.155",
     "date": "2003-11-07",
     "image": "yourtimewillcome.png",
-    "key": "yourtimewillcome",
+    "slug": "yourtimewillcome",
     "title": "your time will come"
   },
   {
     "id": "2003.154",
     "date": "2003-11-07",
     "image": "iwokeuptoanightmare.png",
-    "key": "iwokeuptoanightmare",
+    "slug": "iwokeuptoanightmare",
     "title": "i woke up to a nightmare"
   },
   {
     "id": "2003.153",
     "date": "2003-11-04",
     "image": "whereiendyoubegin.png",
-    "key": "whereiendyoubegin",
+    "slug": "whereiendyoubegin",
     "title": "where i end, you begin"
   },
   {
     "id": "2003.152",
     "date": "2003-11-04",
     "image": "youknowineverusedtocry.png",
-    "key": "youknowineverusedtocry",
+    "slug": "youknowineverusedtocry",
     "title": "you know, i never used to cry"
   },
   {
     "id": "2003.151",
     "date": "2003-10-31",
     "image": "iwishicouldfly.png",
-    "key": "iwishicouldfly",
+    "slug": "iwishicouldfly",
     "title": "i wish i could fly"
   },
   {
     "id": "2003.150",
     "date": "2003-10-31",
     "image": "itdidnthavetoendthisway.png",
-    "key": "itdidnthavetoendthisway",
+    "slug": "itdidnthavetoendthisway",
     "title": "it didn't have to end this way"
   },
   {
     "id": "2003.149",
     "date": "2003-10-30",
     "image": "whatiswrongwithme2.png",
-    "key": "whatiswrongwithme2",
+    "slug": "whatiswrongwithme2",
     "title": "what is wrong with me?"
   },
   {
     "id": "2003.148",
     "date": "2003-10-30",
     "image": "dontbescared.png",
-    "key": "dontbescared",
+    "slug": "dontbescared",
     "title": "don't be scared"
   },
   {
     "id": "2003.147",
     "date": "2003-10-30",
     "image": "pleasedontdothat.png",
-    "key": "pleasedontdothat",
+    "slug": "pleasedontdothat",
     "title": "please don't do that"
   },
   {
     "id": "2003.146",
     "date": "2003-10-24",
     "image": "itsjustanillusion.png",
-    "key": "itsjustanillusion",
+    "slug": "itsjustanillusion",
     "title": "it's just an illusion"
   },
   {
     "id": "2003.145",
     "date": "2003-10-24",
     "image": "wereallgonnadie.png",
-    "key": "wereallgonnadie",
+    "slug": "wereallgonnadie",
     "title": "were all gonna die"
   },
   {
     "id": "2003.144",
     "date": "2003-10-03",
     "image": "ihaveloveforyou.png",
-    "key": "ihaveloveforyou",
+    "slug": "ihaveloveforyou",
     "title": "i have love for you"
   },
   {
     "id": "2003.143",
     "date": "2003-10-03",
     "image": "imlisteningtosadsongs.png",
-    "key": "imlisteningtosadsongs",
+    "slug": "imlisteningtosadsongs",
     "title": "i'm listening to sad songs"
   },
   {
     "id": "2003.142",
     "date": "2003-10-02",
     "image": "ihatehowyouvechanged.png",
-    "key": "ihatehowyouvechanged",
+    "slug": "ihatehowyouvechanged",
     "title": "i hate how you've changed"
   },
   {
     "id": "2003.141",
     "date": "2003-10-02",
     "image": "icantseeanybetter.png",
-    "key": "icantseeanybetter",
+    "slug": "icantseeanybetter",
     "title": "i can't see any better"
   },
   {
     "id": "2003.140",
     "date": "2003-10-02",
     "image": "happyvalentinesday.png",
-    "key": "happyvalentinesday",
+    "slug": "happyvalentinesday",
     "title": "happy valentine's day"
   },
   {
     "id": "2003.139",
     "date": "2003-10-01",
     "image": "lazypeopplewillstarve.png",
-    "key": "lazypeopplewillstarve",
+    "slug": "lazypeopplewillstarve",
     "title": "lazy people will starve"
   },
   {
     "id": "2003.138",
     "date": "2003-10-01",
     "image": "iusedtolikethingslikethat.png",
-    "key": "iusedtolikethingslikethat",
+    "slug": "iusedtolikethingslikethat",
     "title": "i used to like things like that"
   },
   {
     "id": "2003.137",
     "date": "2003-09-22",
     "image": "neverreallygottoholdontoyou.png",
-    "key": "neverreallygottohold",
+    "slug": "neverreallygottohold",
     "title": "never really got to hold on to you"
   },
   {
     "id": "2003.136",
     "date": "2003-09-22",
     "image": "imsogladyoulikemybirds.png",
-    "key": "imsogladyoulikemybirds",
+    "slug": "imsogladyoulikemybirds",
     "title": "i'm so glad you like my birds"
   },
   {
     "id": "2003.135",
     "date": "2003-09-22",
     "image": "ilikethismusic.png",
-    "key": "ilikethismusic",
+    "slug": "ilikethismusic",
     "title": "i like this music"
   },
   {
     "id": "2003.134",
     "date": "2003-09-22",
     "image": "icomputeredit2.png",
-    "key": "icomputeredit2",
+    "slug": "icomputeredit2",
     "title": "i computered it"
   },
   {
     "id": "2003.133",
     "date": "2003-09-10",
     "image": "howdidthisgetinmyeye.png",
-    "key": "howdidthisgetinmyeye",
+    "slug": "howdidthisgetinmyeye",
     "title": "how did this get my eye"
   },
   {
     "id": "2003.132",
     "date": "2003-09-10",
     "image": "iusedtobeangry.png",
-    "key": "iusedtobeangry",
+    "slug": "iusedtobeangry",
     "title": "i used to be angry"
   },
   {
     "id": "2003.131",
     "date": "2003-09-10",
     "image": "thestuffdreamsaremadeof.png",
-    "key": "thestuffdreamsaremadeof",
+    "slug": "thestuffdreamsaremadeof",
     "title": "the stuff dreams are made of"
   },
   {
     "id": "2003.130",
     "date": "2003-09-10",
     "image": "theantknowstoomuch.png",
-    "key": "theantknowstoomuch",
+    "slug": "theantknowstoomuch",
     "title": "the ant knows too much"
   },
   {
     "id": "2003.129",
     "date": "2003-09-10",
     "image": "itisonlyastring.png",
-    "key": "itisonlyastring",
+    "slug": "itisonlyastring",
     "title": "it is only a string"
   },
   {
     "id": "2003.128",
     "date": "2003-08-06",
     "image": "whycantisitinthechair.png",
-    "key": "whycantisitinthechair",
+    "slug": "whycantisitinthechair",
     "title": "why can't i sit in the chair"
   },
   {
     "id": "2003.127",
     "date": "2003-08-06",
     "image": "ohmanihatethatmountain2.png",
-    "key": "ohmanihatethatmountain2",
+    "slug": "ohmanihatethatmountain2",
     "title": "oh man, i hate that mountain"
   },
   {
     "id": "2003.126",
     "date": "2003-08-06",
     "image": "noonewilleverkno.png",
-    "key": "noonewilleverkno",
+    "slug": "noonewilleverkno",
     "title": "no one will ever know what i am up to"
   },
   {
     "id": "2003.125",
     "date": "2003-08-06",
     "image": "dontinterruptmew.png",
-    "key": "dontinterruptmew",
+    "slug": "dontinterruptmew",
     "title": "don't interrupt me when i am at the machine!"
   },
   {
     "id": "2003.124",
     "date": "2003-08-05",
     "image": "heyyouoffmycloud.png",
-    "key": "heyyouoffmycloud",
+    "slug": "heyyouoffmycloud",
     "title": "hey you, off my cloud"
   },
   {
     "id": "2003.123",
     "date": "2003-08-05",
     "image": "isthisreallyallthereis.png",
-    "key": "isthisreallyallthereis",
+    "slug": "isthisreallyallthereis",
     "title": "is this really all there is?"
   },
   {
     "id": "2003.122",
     "date": "2003-08-05",
     "image": "myelectricheart.png",
-    "key": "myelectricheart",
+    "slug": "myelectricheart",
     "title": "my electric heart"
   },
   {
     "id": "2003.121",
     "date": "2003-08-05",
     "image": "wouldyouliketobuythis.png",
-    "key": "wouldyouliketobuythis",
+    "slug": "wouldyouliketobuythis",
     "title": "would you like to buy this?"
   },
   {
     "id": "2003.120",
     "date": "2003-08-05",
     "image": "donteatthatbanana.png",
-    "key": "donteatthatbanana",
+    "slug": "donteatthatbanana",
     "title": "don't eat that banana"
   },
   {
     "id": "2003.119",
     "date": "2003-08-05",
     "image": "ihatemyself.png",
-    "key": "ihatemyself",
+    "slug": "ihatemyself",
     "title": "i hate myself"
   },
   {
     "id": "2003.118",
     "date": "2003-08-04",
     "image": "andwhatifido.png",
-    "key": "andwhatifido",
+    "slug": "andwhatifido",
     "title": "an what if i do?"
   },
   {
     "id": "2003.117",
     "date": "2003-08-04",
     "image": "hedecidednottogobac.png",
-    "key": "hedecidednottogobac",
+    "slug": "hedecidednottogobac",
     "title": "he decided not to go back there anymore"
   },
   {
     "id": "2003.116",
     "date": "2003-08-04",
     "image": "bugsinajar.png",
-    "key": "bugsinajar",
+    "slug": "bugsinajar",
     "title": "bugs in a jar"
   },
   {
     "id": "2003.115",
     "date": "2003-08-01",
     "image": "welcometomyworld2.png",
-    "key": "welcometomyworld2",
+    "slug": "welcometomyworld2",
     "title": "welcome to my world"
   },
   {
     "id": "2003.114",
     "date": "2003-08-01",
     "image": "yourenotfunnyanymore.png",
-    "key": "yourenotfunnyanymore",
+    "slug": "yourenotfunnyanymore",
     "title": "you're not funny any more"
   },
   {
     "id": "2003.113",
     "date": "2003-08-01",
     "image": "hedidworry.png",
-    "key": "hedidworry",
+    "slug": "hedidworry",
     "title": "he did worry"
   },
   {
     "id": "2003.112",
     "date": "2003-07-30",
     "image": "letsdance.png",
-    "key": "letsdance",
+    "slug": "letsdance",
     "title": "let's dance"
   },
   {
     "id": "2003.111",
     "date": "2003-07-30",
     "image": "imanicecube.png",
-    "key": "iamanicecube",
+    "slug": "iamanicecube",
     "title": "i'm an ice cube"
   },
   {
     "id": "2003.110",
     "date": "2003-07-30",
     "image": "theysaidiwasbrilliant.png",
-    "key": "theysaidiwasbrilliant",
+    "slug": "theysaidiwasbrilliant",
     "title": "they said i was brilliant"
   },
   {
     "id": "2003.109",
     "date": "2003-07-17",
     "image": "thatisit_b.png",
-    "key": "thatisit_b",
+    "slug": "thatisit_b",
     "title": "that is it"
   },
   {
     "id": "2003.108",
     "date": "2003-07-17",
     "image": "justtouchmeonce.png",
-    "key": "justtouchmeonce",
+    "slug": "justtouchmeonce",
     "title": "just touch me once"
   },
   {
     "id": "2003.107",
     "date": "2003-07-17",
     "image": "illbegoneforthreedays.png",
-    "key": "illbegoneforthreedays",
+    "slug": "illbegoneforthreedays",
     "title": "i'll be gone for three days"
   },
   {
     "id": "2003.106",
     "date": "2003-07-10",
     "image": "iwishicouldforget.png",
-    "key": "iwishicouldforget",
+    "slug": "iwishicouldforget",
     "title": "i wish i could forget"
   },
   {
     "id": "2003.105",
     "date": "2003-07-10",
     "image": "thehungryghost_b.png",
-    "key": "thehungryghost_b",
+    "slug": "thehungryghost_b",
     "title": "the hungry ghost"
   },
   {
     "id": "2003.104",
     "date": "2003-07-10",
     "image": "someooneisgivingmethe.png",
-    "key": "someoneisgivingmethe",
+    "slug": "someoneisgivingmethe",
     "title": "someone is giving me the evil eye"
   },
   {
     "id": "2003.103",
     "date": "2003-07-09",
     "image": "ifonlyicouldreachthem.png",
-    "key": "ifonlyicouldreachthem",
+    "slug": "ifonlyicouldreachthem",
     "title": "if only i could reach them"
   },
   {
     "id": "2003.102",
     "date": "2003-07-09",
     "image": "andthenitcametome.png",
-    "key": "andthenitcametome",
+    "slug": "andthenitcametome",
     "title": "and then it came to me"
   },
   {
     "id": "2003.101",
     "date": "2003-07-09",
     "image": "isthatreallyme.png",
-    "key": "isthatreallyme",
+    "slug": "isthatreallyme",
     "title": "is that really me?"
   },
   {
     "id": "2003.100",
     "date": "2003-07-09",
     "image": "ineverexpectedthis_2.png",
-    "key": "ineverexpectedthis_2",
+    "slug": "ineverexpectedthis_2",
     "title": "i never expected THIS!"
   },
   {
     "id": "2003.99",
     "date": "2003-06-11",
     "image": "allyouneedislove.png",
-    "key": "allyouneedislove",
+    "slug": "allyouneedislove",
     "title": "all you need is love"
   },
   {
     "id": "2003.98",
     "date": "2003-06-11",
     "image": "heneverwastoosmart.png",
-    "key": "heneverwastoosmart",
+    "slug": "heneverwastoosmart",
     "title": "he never was too smart"
   },
   {
     "id": "2003.97",
     "date": "2003-05-23",
     "image": "maybeitwasneverhere2.png",
-    "key": "maybeitwasneverhere2",
+    "slug": "maybeitwasneverhere2",
     "title": "maybe it was never here"
   },
   {
     "id": "2003.96",
     "date": "2003-05-23",
     "image": "itsdifferentthaniexpected.png",
-    "key": "itsdifferentthaniexpected",
+    "slug": "itsdifferentthaniexpected",
     "title": "its different than i expected..."
   },
   {
     "id": "2003.95",
     "date": "2003-05-23",
     "image": "whatthehellareyoudoing.png",
-    "key": "whatthehellareyoudoing",
+    "slug": "whatthehellareyoudoing",
     "title": "what the hell are you doing!!"
   },
   {
     "id": "2003.94",
     "date": "2003-05-23",
     "image": "itwasastrangeplacetobe2.png",
-    "key": "itwasastrangeplacetobe2",
+    "slug": "itwasastrangeplacetobe2",
     "title": "it was a strange place to be"
   },
   {
     "id": "2003.93",
     "date": "2003-05-23",
     "image": "dontbescaredyoucantrustme.png",
-    "key": "dontbescaredyoucantrustme",
+    "slug": "dontbescaredyoucantrustme",
     "title": "don't be scared, you can trust me"
   },
   {
     "id": "2003.92",
     "date": "2003-05-22",
     "image": "nothingthere.png",
-    "key": "nothingthere",
+    "slug": "nothingthere",
     "title": "nothing there"
   },
   {
     "id": "2003.91",
     "date": "2003-05-22",
     "image": "howdoialwayswakeuphere.png",
-    "key": "howdoialwayswakeuphere",
+    "slug": "howdoialwayswakeuphere",
     "title": "how do i always wake up here?"
   },
   {
     "id": "2003.90",
     "date": "2003-05-22",
     "image": "therewereshapesintheclouds.png",
-    "key": "therewereshapesintheclouds",
+    "slug": "therewereshapesintheclouds",
     "title": "there were shapes in the clouds"
   },
   {
     "id": "2003.89",
     "date": "2003-05-21",
     "image": "redsweater.png",
-    "key": "redsweater",
+    "slug": "redsweater",
     "title": "red sweater"
   },
   {
     "id": "2003.88",
     "date": "2003-05-21",
     "image": "youdontwanttoseethis.png",
-    "key": "youdontwanttoseethis",
+    "slug": "youdontwanttoseethis",
     "title": "you don't want to see this"
   },
   {
     "id": "2003.87",
     "date": "2003-05-21",
     "image": "allweareisdustinthewind.png",
-    "key": "allweareisdustinthewind",
+    "slug": "allweareisdustinthewind",
     "title": "all we are, is dust in the wind"
   },
   {
     "id": "2003.86",
     "date": "2003-05-08",
     "image": "goodbye.png",
-    "key": "goodbye",
+    "slug": "goodbye",
     "title": "goodbye"
   },
   {
     "id": "2003.85",
     "date": "2003-05-08",
     "image": "itsbeensolongsinceilastsawy.png",
-    "key": "itsbeensolongsincei",
+    "slug": "itsbeensolongsincei",
     "title": "it's been so long since i last saw you"
   },
   {
     "id": "2003.84",
     "date": "2003-05-08",
     "image": "goforward.png",
-    "key": "goforward",
+    "slug": "goforward",
     "title": "go forward"
   },
   {
     "id": "2003.83",
     "date": "2003-05-08",
     "image": "whatareyodoinghere.png",
-    "key": "whatareyoudoinghere",
+    "slug": "whatareyoudoinghere",
     "title": "what are you doing here?"
   },
   {
     "id": "2003.82",
     "date": "2003-04-24",
     "image": "hetouchedme.png",
-    "key": "hetouchedme",
+    "slug": "hetouchedme",
     "title": "he touched me, and i was never the same again"
   },
   {
     "id": "2003.81",
     "date": "2003-04-24",
     "image": "itsbetterwhenwecooperate.png",
-    "key": "itsbetterwhenwecooperate",
+    "slug": "itsbetterwhenwecooperate",
     "title": "it is better when we cooperate"
   },
   {
     "id": "2003.80",
     "date": "2003-04-24",
     "image": "shakeitdontbreakit.png",
-    "key": "shakeitdontbreakit",
+    "slug": "shakeitdontbreakit",
     "title": "shake it don't break it"
   },
   {
     "id": "2003.79",
     "date": "2003-04-24",
     "image": "ilovewhen.png",
-    "key": "ilovewhen",
+    "slug": "ilovewhen",
     "title": "i love when i wake up and you are beside me"
   },
   {
     "id": "2003.78",
     "date": "2003-04-14",
     "image": "goodmorning.png",
-    "key": "goodmorning",
+    "slug": "goodmorning",
     "title": "good morning"
   },
   {
     "id": "2003.77",
     "date": "2003-04-14",
     "image": "yourecute.png",
-    "key": "yourecute",
+    "slug": "yourecute",
     "title": "you're cute"
   },
   {
     "id": "2003.76",
     "date": "2003-04-10",
     "image": "coulditryabiteofthat.png",
-    "key": "coulditryabiteofthat",
+    "slug": "coulditryabiteofthat",
     "title": "could i try a bite of that?"
   },
   {
     "id": "2003.75",
     "date": "2003-04-10",
     "image": "ineedtoknowificantrustyou.png",
-    "key": "ineedtoknowificantrustyou",
+    "slug": "ineedtoknowificantrustyou",
     "title": "i need to know if i can trust you"
   },
   {
     "id": "2003.74",
     "date": "2003-04-10",
     "image": "ilovedyouatallthewrongtimes.png",
-    "key": "ilovedyouatthewrongtimes",
+    "slug": "ilovedyouatthewrongtimes",
     "title": "i loved you at all the wrong times"
   },
   {
     "id": "2003.73",
     "date": "2003-04-10",
     "image": "spacetothink.png",
-    "key": "spacetothink",
+    "slug": "spacetothink",
     "title": "i think i need some space to think"
   },
   {
     "id": "2003.72",
     "date": "2003-04-09",
     "image": "ithinkitistimeformeto.png",
-    "key": "ithinkitistimeformeto",
+    "slug": "ithinkitistimeformeto",
     "title": "i think it is time for me to forget about you"
   },
   {
     "id": "2003.71",
     "date": "2003-04-09",
     "image": "icameheretofindoutwho.png",
-    "key": "icameheretofindoutwho",
+    "slug": "icameheretofindoutwho",
     "title": "i came here to find out who you are"
   },
   {
     "id": "2003.70",
     "date": "2003-04-09",
     "image": "ifyoubeliveinsomething.png",
-    "key": "ifyoubeliveinsomething",
+    "slug": "ifyoubeliveinsomething",
     "title": "if you believe in something long enough you will ruin it"
   },
   {
     "id": "2003.69",
     "date": "2003-04-09",
     "image": "nottoday.png",
-    "key": "nottoday",
+    "slug": "nottoday",
     "title": "not today"
   },
   {
     "id": "2003.68",
     "date": "2003-04-09",
     "image": "ilostthestuff.png",
-    "key": "ilostthestuff",
+    "slug": "ilostthestuff",
     "title": "i lost the stuff"
   },
   {
     "id": "2003.67",
     "date": "2003-04-08",
     "image": "ihavenoideawhatiamdoing.png",
-    "key": "ihavenoideawhatiamdoing",
+    "slug": "ihavenoideawhatiamdoing",
     "title": "i have no idea what i am doing"
   },
   {
     "id": "2003.66",
     "date": "2003-04-08",
     "image": "haveyouseenmytwin.png",
-    "key": "haveyouseenmytwin",
+    "slug": "haveyouseenmytwin",
     "title": "have you seen my twin?"
   },
   {
     "id": "2003.65",
     "date": "2003-04-08",
     "image": "theflowerisattackingme.png",
-    "key": "theflowerisattackingme",
+    "slug": "theflowerisattackingme",
     "title": "the flower is attacking me!"
   },
   {
     "id": "2003.64",
     "date": "2003-04-08",
     "image": "itisodd.png",
-    "key": "itisodd",
+    "slug": "itisodd",
     "title": "it is odd"
   },
   {
     "id": "2003.63",
     "date": "2003-04-08",
     "image": "shutupiamworkingonthefuture.png",
-    "key": "shutupiamworkingon",
+    "slug": "shutupiamworkingon",
     "title": "shut up! i am working on the future"
   },
   {
     "id": "2003.62",
     "date": "2003-04-01",
     "image": "maybenexttime.png",
-    "key": "maybenexttime",
+    "slug": "maybenexttime",
     "title": "maybe next time"
   },
   {
     "id": "2003.61",
     "date": "2003-04-01",
     "image": "whatdoesthisbuttondo.png",
-    "key": "whatdoesthisbuttondo",
+    "slug": "whatdoesthisbuttondo",
     "title": "what does this button do?"
   },
   {
     "id": "2003.60",
     "date": "2003-04-01",
     "image": "iwantyoutogetoutofmydreams.png",
-    "key": "iwantyoutogetoutofmydreams",
+    "slug": "iwantyoutogetoutofmydreams",
     "title": "i want you to get out of my dreams"
   },
   {
     "id": "2003.59",
     "date": "2003-04-01",
     "image": "onedaygodlookeddownandsaid.png",
-    "key": "onedaygodlookeddownandsaid",
+    "slug": "onedaygodlookeddownandsaid",
     "title": "one day god looked down and said"
   },
   {
     "id": "2003.58",
     "date": "2003-03-13",
     "image": "iwillmakemyown.png",
-    "key": "iwillmakemyown",
+    "slug": "iwillmakemyown",
     "title": "i will make my own"
   },
   {
     "id": "2003.57",
     "date": "2003-03-13",
     "image": "ithinkiamlost.png",
-    "key": "ithinkiamlost",
+    "slug": "ithinkiamlost",
     "title": "i think i am lost"
   },
   {
     "id": "2003.56",
     "date": "2003-03-13",
     "image": "andyouarenext.png",
-    "key": "andyouarenext",
+    "slug": "andyouarenext",
     "title": "and you are next"
   },
   {
     "id": "2003.55",
     "date": "2003-03-13",
     "image": "theantthatwilltakeovert.png",
-    "key": "theantthatwilltakeovert",
+    "slug": "theantthatwilltakeovert",
     "title": "the ant that will take over the world"
   },
   {
     "id": "2003.54",
     "date": "2003-03-04",
     "image": "notassmallasyouthink.png",
-    "key": "notassmallasyouthink",
+    "slug": "notassmallasyouthink",
     "title": "not as small as you think"
   },
   {
     "id": "2003.53",
     "date": "2003-03-04",
     "image": "thatsallthereis.png",
-    "key": "thatsallthereis",
+    "slug": "thatsallthereis",
     "title": "that's all there is"
   },
   {
     "id": "2003.52",
     "date": "2003-03-04",
     "image": "nowitisourturntoplay.png",
-    "key": "nowitisourturntoplay",
+    "slug": "nowitisourturntoplay",
     "title": "now it is our turn to play"
   },
   {
     "id": "2003.51",
     "date": "2003-03-04",
     "image": "whatswithyourleg.png",
-    "key": "whatswithyourleg",
+    "slug": "whatswithyourleg",
     "title": "whats with your leg?"
   },
   {
     "id": "2003.50",
     "date": "2003-03-04",
     "image": "allineedisforyoutotellmeit.png",
-    "key": "allineedisforyoutotellmeit",
+    "slug": "allineedisforyoutotellmeit",
     "title": "all i need is for you to tell me it is ok"
   },
   {
     "id": "2003.49",
     "date": "2003-03-04",
     "image": "iamtoogoodforyourworld.png",
-    "key": "iamtoogoodforyourworld",
+    "slug": "iamtoogoodforyourworld",
     "title": "i am too good for your world"
   },
   {
     "id": "2003.48",
     "date": "2003-03-04",
     "image": "thestarsareawake.png",
-    "key": "thestarsareawake",
+    "slug": "thestarsareawake",
     "title": "the stars are awake"
   },
   {
     "id": "2003.47",
     "date": "2003-03-04",
     "image": "itmightmakeyoufeelbetter.png",
-    "key": "itmightmakeyoufeelbetter",
+    "slug": "itmightmakeyoufeelbetter",
     "title": "it might make you feel better"
   },
   {
     "id": "2003.46",
     "date": "2003-03-04",
     "image": "heyyou3.png",
-    "key": "heyyou3",
+    "slug": "heyyou3",
     "title": "HEY YOU!!!"
   },
   {
     "id": "2003.45",
     "date": "2003-03-04",
     "image": "areyoubroken.png",
-    "key": "areyoubroken",
+    "slug": "areyoubroken",
     "title": "are you broken?"
   },
   {
     "id": "2003.44",
     "date": "2003-03-04",
     "image": "itisawonderfulworld.png",
-    "key": "itisawonderfulworld",
+    "slug": "itisawonderfulworld",
     "title": "it is a wonderful world"
   },
   {
     "id": "2003.43",
     "date": "2003-02-21",
     "image": "cantletgo.png",
-    "key": "cantletgo",
+    "slug": "cantletgo",
     "title": "can't let go"
   },
   {
     "id": "2003.42",
     "date": "2003-02-21",
     "image": "getoutofmyhead.png",
-    "key": "getoutofmyhead",
+    "slug": "getoutofmyhead",
     "title": "get out of my head"
   },
   {
     "id": "2003.41",
     "date": "2003-02-20",
     "image": "wherethepartyat.png",
-    "key": "wherethepartyat",
+    "slug": "wherethepartyat",
     "title": "where the party at?"
   },
   {
     "id": "2003.40",
     "date": "2003-02-20",
     "image": "ohnothelaundryisdone.png",
-    "key": "ohnothelaundryisdone",
+    "slug": "ohnothelaundryisdone",
     "title": "oh no. the laundry is done!!"
   },
   {
     "id": "2003.39",
     "date": "2003-02-20",
     "image": "ithinkijustlostmybestfriend.png",
-    "key": "ithinkijustlostmybest",
+    "slug": "ithinkijustlostmybest",
     "title": "i think i just lost my best friend"
   },
   {
     "id": "2003.38",
     "date": "2003-02-20",
     "image": "igotgas.png",
-    "key": "igotgas",
+    "slug": "igotgas",
     "title": "i got gas"
   },
   {
     "id": "2003.37",
     "date": "2003-02-18",
     "image": "thatssomethingnew.png",
-    "key": "thatssomethingnew",
+    "slug": "thatssomethingnew",
     "title": "that's something new"
   },
   {
     "id": "2003.36",
     "date": "2003-02-18",
     "image": "iheardthatthegreenstuffwas.png",
-    "key": "iheardthatthegreenstuffwas",
+    "slug": "iheardthatthegreenstuffwas",
     "title": "i heard that the green stuff was evil"
   },
   {
     "id": "2003.35",
     "date": "2003-02-17",
     "image": "itsawarbot.png",
-    "key": "itsawarbot",
+    "slug": "itsawarbot",
     "title": "it's a warbot?"
   },
   {
     "id": "2003.34",
     "date": "2003-02-17",
     "image": "neversleepwalkalone.png",
-    "key": "neversleepwalkalone",
+    "slug": "neversleepwalkalone",
     "title": "we never sleepwalk alone"
   },
   {
     "id": "2003.33",
     "date": "2003-02-17",
     "image": "iwillchangeyou.png",
-    "key": "iwillchangeyou",
+    "slug": "iwillchangeyou",
     "title": "i will change you"
   },
   {
     "id": "2003.32",
     "date": "2003-02-06",
     "image": "nowiamoneofthem1.png",
-    "key": "nowiamoneofthem1",
+    "slug": "nowiamoneofthem1",
     "title": "now i am one of them"
   },
   {
     "id": "2003.31",
     "date": "2003-02-06",
     "image": "reachforthesky.png",
-    "key": "reachforthesky",
+    "slug": "reachforthesky",
     "title": "reach for the sky"
   },
   {
     "id": "2003.30",
     "date": "2003-02-06",
     "image": "therewasnothingicoulddo.png",
-    "key": "therewasnothingicoulddo",
+    "slug": "therewasnothingicoulddo",
     "title": "there was nothing i could do"
   },
   {
     "id": "2003.29",
     "date": "2003-02-06",
     "image": "wrongturn.png",
-    "key": "wrongturn",
+    "slug": "wrongturn",
     "title": "wrong turn"
   },
   {
     "id": "2003.28",
     "date": "2003-02-06",
     "image": "afishinwater.png",
-    "key": "afishinwater",
+    "slug": "afishinwater",
     "title": "a fish in water"
   },
   {
     "id": "2003.27",
     "date": "2003-02-06",
     "image": "ithoughtsomedaisies.png",
-    "key": "thoughtsomedaisies",
+    "slug": "thoughtsomedaisies",
     "title": "i thought some daisies would cheer you up"
   },
   {
     "id": "2003.26",
     "date": "2003-02-03",
     "image": "thedaytheworldwentaway.png",
-    "key": "thedaytheworldwentaway",
+    "slug": "thedaytheworldwentaway",
     "title": "the day the world went away"
   },
   {
     "id": "2003.25",
     "date": "2003-02-03",
     "image": "paintingarainbow.png",
-    "key": "paintingarainbow",
+    "slug": "paintingarainbow",
     "title": "painting a rainbow"
   },
   {
     "id": "2003.24",
     "date": "2003-02-03",
     "image": "igiveup.png",
-    "key": "igiveup",
+    "slug": "igiveup",
     "title": "i give up"
   },
   {
     "id": "2003.23",
     "date": "2003-02-03",
     "image": "ididntseethecar.png",
-    "key": "ididntseethecar",
+    "slug": "ididntseethecar",
     "title": "i didn't see the car"
   },
   {
     "id": "2003.22",
     "date": "2003-01-29",
     "image": "idontthinkgodlikesmevery.png",
-    "key": "idonthinkgodlikesmevery",
+    "slug": "idonthinkgodlikesmevery",
     "title": "i don't think god likes me very much today"
   },
   {
     "id": "2003.21",
     "date": "2003-01-29",
     "image": "couldyoudrawapictureofbrit.png",
-    "key": "couldyoudrawapictureofbrit",
+    "slug": "couldyoudrawapictureofbrit",
     "title": "could you draw a picture of britney spears picking her nose"
   },
   {
     "id": "2003.20",
     "date": "2003-01-29",
     "image": "ithinkwedranktoomuch.png",
-    "key": "ithinkwedranktoomuch",
+    "slug": "ithinkwedranktoomuch",
     "title": "i think we drank too much"
   },
   {
     "id": "2003.19",
     "date": "2003-01-23",
     "image": "letsbuildamountain.png",
-    "key": "letsbuildamountain",
+    "slug": "letsbuildamountain",
     "title": "lets build a mountain"
   },
   {
     "id": "2003.18",
     "date": "2003-01-23",
     "image": "maybeifyouturnitthisway.png",
-    "key": "maybeifyouturnitthisway",
+    "slug": "maybeifyouturnitthisway",
     "title": "maybe if you turn it this way"
   },
   {
     "id": "2003.17",
     "date": "2003-01-23",
     "image": "whycantiseeyou.png",
-    "key": "whycantiseeyou",
+    "slug": "whycantiseeyou",
     "title": "why can't i see you?"
   },
   {
     "id": "2003.16",
     "date": "2003-01-23",
     "image": "todayisbetterthanyesterday.png",
-    "key": "todayisbetterthanyesterday",
+    "slug": "todayisbetterthanyesterday",
     "title": "today is better than yesterday"
   },
   {
     "id": "2003.15",
     "date": "2003-01-17",
     "image": "illkillyouwithmyknife.png",
-    "key": "illkillyouwithmyknife",
+    "slug": "illkillyouwithmyknife",
     "title": "i'll kill you with my knife!"
   },
   {
     "id": "2003.14",
     "date": "2003-01-17",
     "image": "wellthatdidntwork.png",
-    "key": "wellthatdidntwork",
+    "slug": "wellthatdidntwork",
     "title": "well, that didn't work"
   },
   {
     "id": "2003.13",
     "date": "2003-01-16",
     "image": "itmademesick.png",
-    "key": "itmademesick",
+    "slug": "itmademesick",
     "title": "it made me sick"
   },
   {
     "id": "2003.12",
     "date": "2003-01-16",
     "image": "sciencedidnotfailme.png",
-    "key": "sciencedidnotfailme",
+    "slug": "sciencedidnotfailme",
     "title": "science did not fail me"
   },
   {
     "id": "2003.11",
     "date": "2003-01-16",
     "image": "findinggod.png",
-    "key": "findinggod",
+    "slug": "findinggod",
     "title": "i thought that this is where i would find god"
   },
   {
     "id": "2003.10",
     "date": "2003-01-16",
     "image": "theonlywayisup2.png",
-    "key": "theonlywayisup2",
+    "slug": "theonlywayisup2",
     "title": "the only way is up"
   },
   {
     "id": "2003.9",
     "date": "2003-01-14",
     "image": "sometimesijustwanttokill.png",
-    "key": "sometimesijustwanttokill",
+    "slug": "sometimesijustwanttokill",
     "title": "sometimes i just want to kill everyone"
   },
   {
     "id": "2003.8",
     "date": "2003-01-14",
     "image": "returntosender2.png",
-    "key": "returntosender2",
+    "slug": "returntosender2",
     "title": "return to sender"
   },
   {
     "id": "2003.7",
     "date": "2003-01-10",
     "image": "iwanttoknowyoumore.png",
-    "key": "iwanttoknowyoumore",
+    "slug": "iwanttoknowyoumore",
     "title": "i want to know you more"
   },
   {
     "id": "2003.6",
     "date": "2003-01-10",
     "image": "ididnotknow.png",
-    "key": "ididnotknow",
+    "slug": "ididnotknow",
     "title": "i did not know that you were going to meet me here"
   },
   {
     "id": "2003.5",
     "date": "2003-01-02",
     "image": "whycantirememberyourname.png",
-    "key": "whycantirememberyourname",
+    "slug": "whycantirememberyourname",
     "title": "why can't i remember your name?"
   },
   {
     "id": "2003.4",
     "date": "2003-01-02",
     "image": "imsorryiwasntpayingatt.png",
-    "key": "imsorryiwasntpayingatt",
+    "slug": "imsorryiwasntpayingatt",
     "title": "i am sorry i wasn't paying attention"
   },
   {
     "id": "2003.3",
     "date": "2003-01-02",
     "image": "watchmoretv.png",
-    "key": "watchmoretv",
+    "slug": "watchmoretv",
     "title": "watch more tv"
   },
   {
     "id": "2003.2",
     "date": "2003-01-02",
     "image": "sometimesisatyupreallylate.png",
-    "key": "sometimesisatyupreallylate",
+    "slug": "sometimesisatyupreallylate",
     "title": "sometimes i stay up really late being bored"
   },
   {
     "id": "2003.1",
     "date": "2003-01-02",
     "image": "neverasbadasitseems.png",
-    "key": "neverasbadasitseems",
+    "slug": "neverasbadasitseems",
     "title": "it is not as bad as it seems"
   }
 ]
