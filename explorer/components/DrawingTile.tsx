@@ -17,14 +17,16 @@ export const DrawingTile: React.FC<Drawing> = ({ date, title, slug, image }) => 
 const Container = styled.div.attrs({ className: 'Explorer__DrawingTile__Container'})`
   display: inline-block;
   padding: 24px 12px;
+  position: relative;
   width: 250px;
 `
 
 const Date = styled.div.attrs({ className: 'Explorer__DrawingTile__Date'})`
+  bottom: 8px;
   font-size: 12px;
-  margin-bottom: -4px;
   opacity: 0.1;
-  text-align: right;
+  position: absolute;
+  right: 12px;
 `
 
 const Title = styled.h3.attrs({ className: 'Explorer__DrawingTile__Title'})`
