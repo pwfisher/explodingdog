@@ -40,7 +40,7 @@ export const HomePage = () => (
   </PageLayout>
 )
 
-const Section = styled.section.attrs({ className: 'Explorer__HomePage__Section'})`
+const Section = styled.section`
   padding: 16px 32px;
 
   > h2 {
