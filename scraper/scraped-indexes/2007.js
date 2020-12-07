@@ -559,12 +559,6 @@ module.exports = [
   },
   {
     "date": "2007-10-23",
-    "id": "220",
-    "slug": "iwillfightyou",
-    "title": "I will fight you"
-  },
-  {
-    "date": "2007-10-23",
     "id": "219",
     "slug": "icantkeeppretendingthateverythingisalright",
     "title": "I can't keep pretending that everything is alright"
