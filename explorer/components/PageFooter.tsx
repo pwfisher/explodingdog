@@ -46,7 +46,7 @@ const ListItem = styled.li.attrs({ className: 'Explorer__PageFooter__ListItem'})
   display: inline-block;
   font-size: 32px;
   font-weight: bold;
-  margin: 2px 12px;
+  margin: 8px 12px;
 `
 
 const Copyright = styled.div.attrs({ className: 'Explorer__PageFooter__Copyright'})`

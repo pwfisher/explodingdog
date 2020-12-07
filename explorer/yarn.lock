@@ -646,7 +646,7 @@ atob@^2.1.2:
   resolved "https://registry.yarnpkg.com/atob/-/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
   integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
 
-"babel-plugin-styled-components@>= 1":
+"babel-plugin-styled-components@>= 1", babel-plugin-styled-components@latest:
   version "1.12.0"
   resolved "https://registry.yarnpkg.com/babel-plugin-styled-components/-/babel-plugin-styled-components-1.12.0.tgz#1dec1676512177de6b827211e9eda5a30db4f9b9"
   integrity sha512-FEiD7l5ZABdJPpLssKXjBUJMYqzbcNzBowfXDCdJhOpbhWiewapUaY+LZGT8R4Jg2TwOjGjG4RKeyrO5p9sBkA==
@@ -2649,7 +2649,7 @@ next-tick@~1.0.0:
   resolved "https://registry.yarnpkg.com/next-tick/-/next-tick-1.0.0.tgz#ca86d1fe8828169b0120208e3dc8424b9db8342c"
   integrity sha1-yobR/ogoFpsBICCOPchCS524NCw=
 
-next@*:
+next@latest:
   version "10.0.3"
   resolved "https://registry.yarnpkg.com/next/-/next-10.0.3.tgz#2bf9a1625dcd0afc8c31be19fc5516af68d99e80"
   integrity sha512-QYCfjZgowjaLUFvyV8959SmkUZU/edFgHeiXNtWDv7kffo/oTm891p0KZAkk5cMIHcsDX3g3UuQdw/zmui783g==

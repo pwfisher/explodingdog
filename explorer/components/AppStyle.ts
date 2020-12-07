@@ -9,8 +9,6 @@ export const AppStyle = createGlobalStyle`
 
   html {
     font-family: 'Helvetica Neue', sans-serif;
-    font-size: 19px;
-    line-height: 1.5;
   }
 
   a {
@@ -36,7 +34,7 @@ export const AppStyle = createGlobalStyle`
     }
 
     &:hover {
-      background: rgba(128,128,128,0.1);
+      background: rgba(128,128,128,0.07);
     }
   }
 `
