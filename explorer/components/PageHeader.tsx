@@ -13,15 +13,9 @@ export const PageHeader: React.FC = () => {
 }
 
 const Container = styled.header.attrs({ className: 'Explorer__PageHeader__Container'})`
-  background: #f8f8f8;
-  border-bottom: 1px solid #e5e5e5;
   font-size: 48px;
   font-weight: bold;
   padding: 24px;
-
-  a:visited {
-    color: currentColor;
-  }
 `
 
 const Explorer = styled.span.attrs({ className: 'Explorer__PageHeader__Explorer'})`

@@ -27,8 +27,6 @@ export const PageFooter: React.FC = () => {
 }
 
 const Container = styled.footer.attrs({ className: 'Explorer__PageFooter__Container'})`
-  background: #f8f8f8;
-  border-top: 1px solid #e5e5e5;
   margin-top: 24px;
   padding: 24px;
 `
