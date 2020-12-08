@@ -1,4 +1,6 @@
-export const drawingYears = [
+import { Drawing, YearDrawingSets } from '../types'
+
+export const drawingYears: number[] = [
   2000,
   2001,
   2002,
@@ -16,3 +18,12 @@ export const drawingYears = [
   2014,
   2015,
 ]
+
+export const yearDrawingSets: YearDrawingSets = drawingYears.reduce((accumulator, year) => {
+  accumulator[year] = require(`./drawings/${year}.json`)
+  return accumulator
+}, {} as Partial<YearDrawingSets>) as YearDrawingSets
+
+export const drawings: Drawing[] = drawingYears.reduce((accumulator, year) => {
+  return [...accumulator, ...yearDrawingSets[year]] as Drawing[]
+}, [] as Drawing[])

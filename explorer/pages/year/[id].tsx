@@ -1,7 +1,6 @@
 import { YearPage } from '../../components/YearPage'
 import { GetStaticProps, GetStaticPaths } from 'next'
-import { drawingYears } from '../../__fixtures__/drawings'
-import { getYearDrawingSet } from '../../lib/drawings'
+import { drawingYears, yearDrawingSets } from '../../__fixtures__/drawings'
 
 export default YearPage
 
@@ -12,5 +11,5 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
   const year = Number(params?.id)
-  return { props: { year, drawings: getYearDrawingSet(year) } }
+  return { props: { year, drawings: yearDrawingSets[year] } }
 }

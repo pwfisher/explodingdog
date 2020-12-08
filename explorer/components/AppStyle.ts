@@ -1,7 +1,7 @@
 import { createGlobalStyle } from 'styled-components'
 
 export const AppStyle = createGlobalStyle`
-  body, ul, ol {
+  body, ul, ol, figure, h1 {
     list-style: none;
     margin: 0;
     padding: 0;

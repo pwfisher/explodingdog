@@ -1,13 +1,26 @@
-import { YearDrawingSets, Drawing } from '../types'
-import { drawingYears } from '../__fixtures__/drawings'
+import { Drawing } from '../types'
+import { drawings } from '../__fixtures__/drawings'
 
-export const getYearDrawingSets = (): YearDrawingSets => {
-  return drawingYears.reduce((accumulator, year) => {
-    accumulator[year] = require(`../__fixtures__/drawings/${year}.json`)
-    return accumulator
-  }, {} as Partial<YearDrawingSets>) as YearDrawingSets
+export const getDrawingBySlug = (slug: string): Drawing | undefined => {
+  return drawings.find(o => o.slug === slug)
 }
 
-export const getYearDrawingSet = (year: number): Drawing[] => {
-  return require(`../__fixtures__/drawings/${year}.json`)
+export const getDrawingYear = (drawing: Drawing): number => {
+  return parseInt(drawing.date.slice(0, 4), 10)
+}
+
+export const getPreviousSlug = (slug: string): string => {
+  const drawing = getDrawingBySlug(slug)
+  if (!drawing) return 'something'
+  const index = drawings.indexOf(drawing)
+  const previousDrawing = drawings[index - 1] || drawings.slice(-1)[0]
+  return previousDrawing.slug
+}
+
+export const getNextSlug = (slug: string): string => {
+  const drawing = getDrawingBySlug(slug)
+  if (!drawing) return 'something'
+  const index = drawings.indexOf(drawing)
+  const nextDrawing = drawings[index + 1] || drawings[0]
+  return nextDrawing.slug
 }
