@@ -15,7 +15,7 @@ export const HomePage = () => (
 
     <DrawingsByYearSection>
       <h2>drawings by year:</h2>
-      <ol className="years">
+      <ol>
         {drawingYears.sort().reverse().map(year => (
           <li key={year}>
             <Link href="/year/[id]" as={`/year/${year}`}>

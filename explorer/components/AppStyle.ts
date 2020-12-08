@@ -17,24 +17,7 @@ export const AppStyle = createGlobalStyle`
     text-decoration: none;
 
     &:visited {
-      color: lightgrey;
-    }
-
-    &::after {
-      background: currentColor;
-      bottom: -2px;
-      display: block;
-      content: '';
-      height: 1px;
-      left: 0;
-      opacity: 0.2;
-      position: absolute;
-      right: 0;
-
-    }
-
-    &:hover {
-      background: rgba(128,128,128,0.07);
+      color: #BBB;
     }
   }
 `

@@ -2,6 +2,7 @@ import { Drawing } from '../types/drawing-models'
 import { PageLayout } from './PageLayout'
 import { DrawingTile } from './DrawingTile'
 import styled from 'styled-components'
+import { YearBar } from './YearBar'
 
 export const YearPage = ({ year, drawings }: {
   year: number
@@ -9,7 +10,8 @@ export const YearPage = ({ year, drawings }: {
 }) => {
   return (
     <PageLayout title={`explodingdog ${year}`}>
-      <Heading>{year}</Heading>
+      <YearBar activeYear={year} />
+      <YearHeading>{year}</YearHeading>
       <DrawingSection>
         {drawings && drawings.map(drawing => (
           <DrawingTile key={drawing.slug} {...drawing} />
@@ -19,7 +21,7 @@ export const YearPage = ({ year, drawings }: {
   )
 }
 
-const Heading = styled.h1.attrs({ className: 'Explorer__YearPage__Heading'})`
+const YearHeading = styled.h1.attrs({ className: 'Explorer__YearPage__YearHeading'})`
   font-size: 64px;
   text-indent: 48px;
 `
