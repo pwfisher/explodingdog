@@ -1,6 +1,7 @@
 import React from 'react'
 import { Drawing } from '../types/drawing-models'
 import styled from 'styled-components'
+import { assetPrefix } from '../lib/assetPrefix'
 
 export const DrawingTile: React.FC<Drawing> = ({ date, title, slug, image }) => {
   return (
@@ -8,7 +9,7 @@ export const DrawingTile: React.FC<Drawing> = ({ date, title, slug, image }) => 
       <Date>{date}</Date>
       <Title>{title}</Title>
       <a href={`http://explodingdog.com/title/${slug}.html`} target='_blank'>
-        <Image src={`/images/${image}`} alt={title} />
+        <Image src={`${assetPrefix}/images/${image}`} alt={title} />
       </a>
     </Container>
   )
