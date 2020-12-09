@@ -1,11 +1,13 @@
-# explodingdog-explorer
+# explorer
 
 explodingdog explorer. An alternate explodingdog experience.
 
-v1 is still live, but the images are broken: [explodingdog.herokuapp.com](https://explodingdog.herokuapp.com).
+Online at [pwfisher.github.io/explodingdog/](https://pwfisher.github.io/explodingdog/).
 
-v2 is under `/explorer` and online at [pwfisher.github.io/explodingdog/](https://pwfisher.github.io/explodingdog/)
+`/explorer` powers this static site using React, TypeScript, Next.js and GitHub Pages.
 
-# explodingdog-scraper
+All content is copyright Sam Brown (@explodingdog).
+
+# scraper
 
 `/scraper` is a separate package for collecting data from [explodingdog.com](http://explodingdog.com).
