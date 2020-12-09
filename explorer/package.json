@@ -9,7 +9,7 @@
     "build": "next build && next export",
     "start": "next start",
     "clean": "rm -rf node_module/.cache && rm -rf out",
-    "deploy": "yarn clean && yarn build && touch out/.nojekyll && gh-pages -d out",
+    "deploy": "yarn clean && yarn build && touch out/.nojekyll && gh-pages -t -d out",
     "type-check": "tsc"
   },
   "dependencies": {
