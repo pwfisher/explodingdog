@@ -4,10 +4,25 @@ import Link from 'next/link'
 import { assetPrefix } from '../lib/assetPrefix'
 import styled from 'styled-components'
 import { getPreviousSlug, getNextSlug } from '../lib/drawings'
+import { useRouter } from 'next/router'
 
 export const DrawingPage: React.FC<{ drawing: Drawing, year: number }> = ({ drawing, year }) => {
+  const router = useRouter()
+  const goToPrevious = () => router.push(`/drawing/${getPreviousSlug(drawing.slug)}`)
+  const goToNext = () => router.push(`/drawing/${getNextSlug(drawing.slug)}`)
+
+  const onKeyDown = (event: React.KeyboardEvent<HTMLDivElement>) => {
+    const handler = ({
+      ArrowUp: goToPrevious,
+      ArrowDown: goToNext,
+      ArrowLeft: goToPrevious,
+      ArrowRight: goToNext,
+    } as Record<string, Function>)[event.key]
+    handler?.()
+  }
+
   return (
-    <Container>
+    <Container onKeyDown={onKeyDown} tabIndex={-1}>
       <Title>{drawing.title}</Title>
       <ImageWrap>
         <Image src={`${assetPrefix}/images/${drawing.image}`} alt={drawing.title} />
