@@ -62,6 +62,7 @@ const Container = styled.main.attrs({ className: 'Explorer__DrawingPage__Contain
 `
 
 const Title = styled.h1.attrs({ className: 'Explorer__DrawingPage__Title'})`
+  flex: 0 0 auto;
   font-size: 32px;
   font-weight: bold;
   padding: 16px 24px;
@@ -69,7 +70,7 @@ const Title = styled.h1.attrs({ className: 'Explorer__DrawingPage__Title'})`
 `
 
 const ImageWrap = styled.figure.attrs({ className: 'Explorer__DrawingPage__ImageWrap'})`
-  flex-grow: 1;
+  flex: 1 1 0;
   position: relative;
 `
 
@@ -84,6 +85,7 @@ const Image = styled.img.attrs({ className: 'Explorer__DrawingPage__Image'})`
 const NavBar = styled.nav.attrs({ className: 'Explorer__DrawingPage__Header'})`
   color: #BBB;
   display: flex;
+  flex: 0 0 auto;
   justify-content: space-between;
   font-size: 18px;
   font-weight: bold;

@@ -61,12 +61,14 @@ const Container = styled.main.attrs({ className: 'Explorer__DrawingPage__Contain
 `
 
 const DayHeading = styled.h1.attrs({ className: 'Explorer__DayPage__DayHeading'})`
+  flex: 0 0 auto;
   font-size: 32px;
   padding: 12px 16px;
   text-align: center;
 `
 
 const DrawingSection = styled.section.attrs({ className: 'Explorer__DayPage__DrawingSection'})`
+  flex: 1 1 0;
   overflow: scroll;
   text-align: center;
 `
@@ -74,6 +76,7 @@ const DrawingSection = styled.section.attrs({ className: 'Explorer__DayPage__Dra
 const NavBar = styled.nav.attrs({ className: 'Explorer__DrawingPage__Header'})`
   color: #BBB;
   display: flex;
+  flex: 0 0 auto;
   justify-content: space-between;
   font-size: 18px;
   font-weight: bold;
