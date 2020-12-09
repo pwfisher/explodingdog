@@ -5,6 +5,7 @@ import { assetPrefix } from '../lib/assetPrefix'
 import styled from 'styled-components'
 import { getPreviousSlug, getNextSlug } from '../lib/drawings'
 import { useRouter } from 'next/router'
+import Div100vh from 'react-div-100vh'
 
 export const DrawingPage: React.FC<{ drawing: Drawing, year: number }> = ({ drawing, year }) => {
   const router = useRouter()
@@ -22,27 +23,29 @@ export const DrawingPage: React.FC<{ drawing: Drawing, year: number }> = ({ draw
   }
 
   return (
-    <Container onKeyDown={onKeyDown} tabIndex={-1}>
-      <Title>{drawing.title}</Title>
-      <ImageWrap>
-        <Image src={`${assetPrefix}/images/${drawing.image}`} alt={drawing.title} />
-      </ImageWrap>
-      <NavBar>
-        <Link href="/drawing/[id]" as={`/drawing/${getPreviousSlug(drawing.slug)}`}>
-          <Arrow>&lt;</Arrow>
-        </Link>
-        <Link href="/year/[id]" as={`/year/${year}`}>
-          <YearLink>{year}</YearLink>
-        </Link>
-        <a href={`http://explodingdog.com/title/${drawing.slug}.html`}>
-          <DrawingId>#{drawing.id.split('.').slice(-1)}</DrawingId>
-        </a>
-        <Date>{drawing.date}</Date>
-        <Link href="/drawing/[id]" as={`/drawing/${getNextSlug(drawing.slug)}`}>
-          <Arrow>&gt;</Arrow>
-        </Link>
-      </NavBar>
-    </Container>
+    <Div100vh>
+      <Container onKeyDown={onKeyDown} tabIndex={-1}>
+        <Title>{drawing.title}</Title>
+        <ImageWrap>
+          <Image src={`${assetPrefix}/images/${drawing.image}`} alt={drawing.title} />
+        </ImageWrap>
+        <NavBar>
+          <Link href="/drawing/[id]" as={`/drawing/${getPreviousSlug(drawing.slug)}`}>
+            <Arrow>&lt;</Arrow>
+          </Link>
+          <Link href="/year/[id]" as={`/year/${year}`}>
+            <YearLink>{year}</YearLink>
+          </Link>
+          <a href={`http://explodingdog.com/title/${drawing.slug}.html`}>
+            <DrawingId>#{drawing.id.split('.').slice(-1)}</DrawingId>
+          </a>
+          <Date>{drawing.date}</Date>
+          <Link href="/drawing/[id]" as={`/drawing/${getNextSlug(drawing.slug)}`}>
+            <Arrow>&gt;</Arrow>
+          </Link>
+        </NavBar>
+      </Container>
+    </Div100vh>
   )
 }
 
@@ -50,8 +53,7 @@ const Container = styled.main.attrs({ className: 'Explorer__DrawingPage__Contain
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  min-height: 100vh;
-  max-height: 100vh;
+  height: 100%;
 `
 
 const Title = styled.h1.attrs({ className: 'Explorer__DrawingPage__Title'})`
@@ -78,17 +80,18 @@ const NavBar = styled.nav.attrs({ className: 'Explorer__DrawingPage__Header'})`
   color: #BBB;
   display: flex;
   justify-content: space-between;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: bold;
-  height: 40px;
-  line-height: 40px;
+  height: 80px;
+  line-height: 80px;
 `
 
 const Arrow = styled.div.attrs({ className: 'Explorer__DrawingPage__Arrow'})`
   color: black;
   cursor: pointer;
-  font-size: 24px;
-  padding: 0 32px;
+  font-size: 36px;
+  line-height: 74px;
+  padding: 0 5%;
   user-select: none;
 
   &:hover {
