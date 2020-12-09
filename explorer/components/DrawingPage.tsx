@@ -6,6 +6,7 @@ import styled from 'styled-components'
 import { getPreviousSlug, getNextSlug } from '../lib/drawings'
 import { useRouter } from 'next/router'
 import Div100vh from 'react-div-100vh'
+import { PageLayout } from './PageLayout'
 
 export const DrawingPage: React.FC<{ drawing: Drawing, year: number }> = ({ drawing, year }) => {
   const router = useRouter()
@@ -23,29 +24,33 @@ export const DrawingPage: React.FC<{ drawing: Drawing, year: number }> = ({ draw
   }
 
   return (
-    <Div100vh>
-      <Container onKeyDown={onKeyDown} tabIndex={-1}>
-        <Title>{drawing.title}</Title>
-        <ImageWrap>
-          <Image src={`${assetPrefix}/images/${drawing.image}`} alt={drawing.title} />
-        </ImageWrap>
-        <NavBar>
-          <Link href="/drawing/[id]" as={`/drawing/${getPreviousSlug(drawing.slug)}`}>
-            <Arrow>&lt;</Arrow>
-          </Link>
-          <Link href="/year/[id]" as={`/year/${year}`}>
-            <YearLink>{year}</YearLink>
-          </Link>
-          <a href={`http://explodingdog.com/title/${drawing.slug}.html`}>
-            <DrawingId>#{drawing.number}</DrawingId>
-          </a>
-          <Date>{drawing.date}</Date>
-          <Link href="/drawing/[id]" as={`/drawing/${getNextSlug(drawing.slug)}`}>
-            <Arrow>&gt;</Arrow>
-          </Link>
-        </NavBar>
-      </Container>
-    </Div100vh>
+    <PageLayout title={`explodingdog ${year}`} showHeader={false} showFooter={false}>
+      <Div100vh>
+        <Container onKeyDown={onKeyDown} tabIndex={-1}>
+          <Title>{drawing.title}</Title>
+          <ImageWrap>
+            <Image src={`${assetPrefix}/images/${drawing.image}`} alt={drawing.title} />
+          </ImageWrap>
+          <NavBar>
+            <Link href="/drawing/[id]" as={`/drawing/${getPreviousSlug(drawing.slug)}`}>
+              <Arrow>&lt;</Arrow>
+            </Link>
+            <Link href="/year/[id]" as={`/year/${year}`}>
+              <YearLink>{year}</YearLink>
+            </Link>
+            <a href={`http://explodingdog.com/title/${drawing.slug}.html`}>
+              <DrawingId>#{drawing.number}</DrawingId>
+            </a>
+            <Link href="/day/[id]" as={`/day/${drawing.date}`}>
+              <Date>{drawing.date}</Date>
+            </Link>
+            <Link href="/drawing/[id]" as={`/drawing/${getNextSlug(drawing.slug)}`}>
+              <Arrow>&gt;</Arrow>
+            </Link>
+          </NavBar>
+        </Container>
+      </Div100vh>
+    </PageLayout>
   )
 }
 
@@ -106,4 +111,6 @@ const YearLink = styled.a.attrs({ className: 'Explorer__DrawingPage__YearLink'})
 
 const DrawingId = styled.span.attrs({ className: 'Explorer__DrawingPage__DrawingId'})``
 
-const Date = styled.span.attrs({ classNamne: 'Explorer__DrawingPage__Date'})``
+const Date = styled.span.attrs({ classNamne: 'Explorer__DrawingPage__Date'})`
+  cursor: pointer;
+`

@@ -1,4 +1,4 @@
-import { Drawing, YearDrawingSets } from '../types'
+import { Drawing, YearDrawingSets, DayDrawingSets } from '../types'
 
 export const drawingYears: number[] = [
   2000,
@@ -35,3 +35,11 @@ export const yearDrawingSets: YearDrawingSets = drawingYears
 export const drawings: Drawing[] = drawingYears.reduce((accumulator, year) => {
   return [...accumulator, ...yearDrawingSets[year]] as Drawing[]
 }, [] as Drawing[])
+
+export const dayDrawingSets: DayDrawingSets = drawings.reduce((accumulator, drawing) => {
+  if (!accumulator[drawing.date]) accumulator[drawing.date] = []
+  accumulator[drawing.date]!.push(drawing)
+  return accumulator
+}, {} as Partial<DayDrawingSets>) as DayDrawingSets
+
+export const drawingDays: string[] = Object.keys(dayDrawingSets).sort().reverse()

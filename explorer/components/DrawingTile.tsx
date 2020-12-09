@@ -7,12 +7,14 @@ import Link from 'next/link'
 export const DrawingTile: React.FC<Drawing> = ({ date, title, slug, image }) => {
   return (
     <Container>
-      <Date>{date}</Date>
       <Title>{title}</Title>
       <Link href="/drawing/[id]" as={`/drawing/${slug}`}>
         <a>
           <Image src={`${assetPrefix}/images/${image}`} alt={title} />
         </a>
+      </Link>
+      <Link href="/day/[id]" as={`/day/${date}`}>
+        <Date>{date}</Date>
       </Link>
     </Container>
   )
@@ -27,6 +29,7 @@ const Container = styled.div.attrs({ className: 'Explorer__DrawingTile__Containe
 
 const Date = styled.div.attrs({ className: 'Explorer__DrawingTile__Date'})`
   bottom: 8px;
+  cursor: pointer;
   font-size: 12px;
   opacity: 0.1;
   position: absolute;

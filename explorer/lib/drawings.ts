@@ -1,5 +1,5 @@
 import { Drawing } from '../types'
-import { drawings } from '../__fixtures__/drawings'
+import { drawings, drawingDays } from '../__fixtures__/drawings'
 
 export const getDrawingBySlug = (slug: string): Drawing | undefined => {
   return drawings.find(o => o.slug === slug)
@@ -19,4 +19,14 @@ export const getNextSlug = (slug: string): string => {
   const index = drawings.indexOf(drawing)
   const nextDrawing = drawings[index + 1] || drawings[0]
   return nextDrawing.slug
+}
+
+export const getPreviousDay = (day: string): string => {
+  const index = drawingDays.indexOf(day)
+  return drawingDays[index - 1] || drawingDays.slice(-1)[0]
+}
+
+export const getNextDay = (day: string): string => {
+  const index = drawingDays.indexOf(day)
+  return drawingDays[index + 1] || drawingDays[0]
 }

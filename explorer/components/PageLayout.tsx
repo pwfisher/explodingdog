@@ -8,13 +8,17 @@ type Props = {
   children?: ReactNode
   title?: string
   description?: string
+  showHeader?: boolean
+  showFooter?: boolean
 }
 
-export const PageLayout = ({
+export const PageLayout: React.FC<Props> = ({
   children,
   title = 'explodingdog explorer',
-  description = 'explodingdog explorer. An alternate explodingdog experience.'
-}: Props) => (
+  description = 'explodingdog explorer. An alternate explodingdog experience.',
+  showHeader = true,
+  showFooter = true
+}) => (
   <>
     <Head>
       <title>{title}</title>
@@ -26,8 +30,8 @@ export const PageLayout = ({
       <meta name="description" content={description} />
       <link rel="manifest" href={`${assetPrefix}/manifest.json`} />
     </Head>
-    <PageHeader />
+    {showHeader && <PageHeader />}
     {children}
-    <PageFooter />
+    {showFooter && <PageFooter />}
   </>
 )

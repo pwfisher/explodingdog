@@ -4,10 +4,7 @@ import { DrawingTile } from './DrawingTile'
 import styled from 'styled-components'
 import { YearBar } from './YearBar'
 
-export const YearPage = ({ year, drawings }: {
-  year: number
-  drawings?: Drawing[]
-}) => {
+export const YearPage: React.FC<{ drawings: Drawing[], year: number }> = ({ drawings, year }) => {
   return (
     <PageLayout title={`explodingdog ${year}`}>
       <YearBar activeYear={year} />
