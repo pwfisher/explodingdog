@@ -5,10 +5,6 @@ export const getDrawingBySlug = (slug: string): Drawing | undefined => {
   return drawings.find(o => o.slug === slug)
 }
 
-export const getDrawingYear = (drawing: Drawing): number => {
-  return parseInt(drawing.date.slice(0, 4), 10)
-}
-
 export const getPreviousSlug = (slug: string): string => {
   const drawing = getDrawingBySlug(slug)
   if (!drawing) return 'something'

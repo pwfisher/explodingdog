@@ -1,7 +1,7 @@
 import { DrawingPage } from '../../components/DrawingPage'
 import { GetStaticProps, GetStaticPaths } from 'next'
 import { drawings } from '../../__fixtures__/drawings'
-import { getDrawingBySlug, getDrawingYear } from '../../lib/drawings'
+import { getDrawingBySlug } from '../../lib/drawings'
 import { singleQueryParamValue } from '../../lib/next'
 
 export default DrawingPage
@@ -14,6 +14,6 @@ export const getStaticPaths: GetStaticPaths = async () => {
 export const getStaticProps: GetStaticProps = async ({ params }) => {
   const slug = singleQueryParamValue(params?.id)
   const drawing = getDrawingBySlug(slug) || getDrawingBySlug('something')
-  const year = getDrawingYear(drawing!)
+  const year = drawing!.year
   return { props: { year, drawing } }
 }

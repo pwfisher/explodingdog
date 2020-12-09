@@ -19,10 +19,18 @@ export const drawingYears: number[] = [
   2015,
 ]
 
-export const yearDrawingSets: YearDrawingSets = drawingYears.reduce((accumulator, year) => {
-  accumulator[year] = require(`./drawings/${year}.json`)
-  return accumulator
-}, {} as Partial<YearDrawingSets>) as YearDrawingSets
+export const yearDrawingSets: YearDrawingSets = drawingYears
+  .sort()
+  .reverse()
+  .reduce((accumulator, year) => {
+    const rawYearSet = require(`./drawings/${year}.json`)
+    const processedYearSet = rawYearSet.map((drawing: any) => {
+      const [year, number] = drawing.id.split('.')
+      return { ...drawing, year, number }
+    })
+    accumulator[year] = (processedYearSet as Drawing[]).sort((a, b) => b.number - a.number)
+    return accumulator
+  }, {} as Partial<YearDrawingSets>) as YearDrawingSets
 
 export const drawings: Drawing[] = drawingYears.reduce((accumulator, year) => {
   return [...accumulator, ...yearDrawingSets[year]] as Drawing[]

@@ -37,7 +37,7 @@ export const DrawingPage: React.FC<{ drawing: Drawing, year: number }> = ({ draw
             <YearLink>{year}</YearLink>
           </Link>
           <a href={`http://explodingdog.com/title/${drawing.slug}.html`}>
-            <DrawingId>#{drawing.id.split('.').slice(-1)}</DrawingId>
+            <DrawingId>#{drawing.number}</DrawingId>
           </a>
           <Date>{drawing.date}</Date>
           <Link href="/drawing/[id]" as={`/drawing/${getNextSlug(drawing.slug)}`}>
