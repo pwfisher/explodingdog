@@ -1,15 +1,16 @@
 import React from 'react'
 import { PageLayout } from './PageLayout'
-import { Drawing } from '../types'
 import { DrawingTile } from './DrawingTile'
 import Link from 'next/link'
 import styled from 'styled-components'
 import { getPreviousDay, getNextDay } from '../lib/drawings'
 import { useRouter } from 'next/router'
 import Div100vh from 'react-div-100vh'
+import { dayDrawingSets } from '../__fixtures__/drawings'
 
-export const DayPage: React.FC<{ drawings: Drawing[], day: string }> = ({ drawings, day }) => {
-  const year = parseInt(day.slice(0, 4), 10)
+export const DayPage: React.FC<{ day: string }> = ({ day }) => {
+  const drawings = dayDrawingSets[day]
+  const year = drawings[0].year
   const router = useRouter()
   const goToPrevious = () => router.push(`/day/${getPreviousDay(day)}`)
   const goToNext = () => router.push(`/day/${getNextDay(day)}`)

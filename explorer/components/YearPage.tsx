@@ -3,8 +3,10 @@ import { PageLayout } from './PageLayout'
 import { DrawingTile } from './DrawingTile'
 import styled from 'styled-components'
 import { YearBar } from './YearBar'
+import { yearDrawingSets } from '../__fixtures__/drawings'
 
-export const YearPage: React.FC<{ drawings: Drawing[], year: number }> = ({ drawings, year }) => {
+export const YearPage: React.FC<{ year: number }> = ({ year }) => {
+  const drawings = yearDrawingSets[year]
   return (
     <PageLayout title={`explodingdog ${year}`}>
       <YearBar activeYear={year} />
