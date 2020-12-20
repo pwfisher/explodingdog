@@ -1,6 +1,6 @@
 import { DayPage } from '../../components/DayPage'
 import { GetStaticProps, GetStaticPaths } from 'next'
-import { drawingDays } from '../../__fixtures__/drawings'
+import { drawingDays } from '../../__fixtures__'
 import { singleQueryParamValue } from '../../lib/next'
 
 export default DayPage

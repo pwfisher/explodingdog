@@ -1,6 +1,6 @@
 import { YearPage } from '../../components/YearPage'
 import { GetStaticProps, GetStaticPaths } from 'next'
-import { drawingYears } from '../../__fixtures__/drawings'
+import { drawingYears } from '../../__fixtures__'
 
 export default YearPage
 

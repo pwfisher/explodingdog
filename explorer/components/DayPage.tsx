@@ -6,7 +6,7 @@ import styled from 'styled-components'
 import { getPreviousDay, getNextDay } from '../lib/drawings'
 import { useRouter } from 'next/router'
 import Div100vh from 'react-div-100vh'
-import { dayDrawingSets } from '../__fixtures__/drawings'
+import { dayDrawingSets } from '../__fixtures__'
 
 export const DayPage: React.FC<{ day: string }> = ({ day }) => {
   const drawings = dayDrawingSets[day]

@@ -1,5 +1,5 @@
 import { Drawing } from '../types'
-import { drawings, drawingDays } from '../__fixtures__/drawings'
+import { drawings, drawingDays } from '../__fixtures__'
 
 export const getDrawingBySlug = (slug: string): Drawing | undefined => {
   return drawings.find(o => o.slug === slug)

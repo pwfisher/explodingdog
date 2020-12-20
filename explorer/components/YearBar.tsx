@@ -1,5 +1,5 @@
 import React from 'react'
-import { drawingYears } from '../__fixtures__/drawings'
+import { drawingYears } from '../__fixtures__'
 import styled from 'styled-components'
 import Link from 'next/link'
 

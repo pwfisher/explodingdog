@@ -1,6 +1,6 @@
 import { DrawingPage } from '../../components/DrawingPage'
 import { GetStaticProps, GetStaticPaths } from 'next'
-import { drawings } from '../../__fixtures__/drawings'
+import { drawings } from '../../__fixtures__'
 import { getDrawingBySlug } from '../../lib/drawings'
 import { singleQueryParamValue } from '../../lib/next'
 

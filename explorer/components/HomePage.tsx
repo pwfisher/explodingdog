@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import { PageLayout } from './PageLayout'
-import { drawingYears } from '../__fixtures__/drawings'
+import { drawingYears } from '../__fixtures__'
 import styled from 'styled-components'
 
 export const HomePage = () => (
