@@ -1,4 +1,4 @@
-import { Drawing, YearDrawingSets, DayDrawingSets } from '../types'
+import { Drawing, YearDrawingSets, DayDrawingSets, DayDrawingSetsByYear } from '../types'
 
 export const drawingYears: number[] = [
   2000,
@@ -24,13 +24,13 @@ export const yearDrawingSets: YearDrawingSets = drawingYears
   .reverse()
   .reduce((accumulator, year) => {
     const rawYearSet = require(`./drawings/${year}.json`)
-    const processedYearSet = rawYearSet.map((drawing: any) => {
+    const processedYearSet: Drawing[] = rawYearSet.map((drawing: any) => {
       const [year, number] = drawing.id.split('.')
       return { ...drawing, year, number }
     })
-    accumulator[year] = (processedYearSet as Drawing[]).sort((a, b) => b.number - a.number)
+    accumulator[year] = processedYearSet.sort((a, b) => b.number - a.number)
     return accumulator
-  }, {} as Partial<YearDrawingSets>) as YearDrawingSets
+  }, {} as any) as YearDrawingSets
 
 export const drawings: Drawing[] = drawingYears.reduce((accumulator, year) => {
   return [...accumulator, ...yearDrawingSets[year]] as Drawing[]
@@ -38,8 +38,15 @@ export const drawings: Drawing[] = drawingYears.reduce((accumulator, year) => {
 
 export const dayDrawingSets: DayDrawingSets = drawings.reduce((accumulator, drawing) => {
   if (!accumulator[drawing.date]) accumulator[drawing.date] = []
-  accumulator[drawing.date]!.push(drawing)
+  accumulator[drawing.date].push(drawing)
   return accumulator
-}, {} as Partial<DayDrawingSets>) as DayDrawingSets
+}, {} as any) as DayDrawingSets
 
 export const drawingDays: string[] = Object.keys(dayDrawingSets).sort().reverse()
+
+export const dayDrawingSetsByYear: DayDrawingSetsByYear = drawingDays.reduce((accumulator, date) => {
+  const year = parseInt(date.slice(0, 4), 10)
+  if (!accumulator[year]) accumulator[year] = {}
+  accumulator[year][date] = dayDrawingSets[date]
+  return accumulator
+}, {} as any) as DayDrawingSetsByYear

@@ -18,3 +18,8 @@ export interface DayDrawingSets
   extends Readonly<{
     [day: string]: Drawing[]
   }> {}
+
+export interface DayDrawingSetsByYear
+  extends Readonly<{
+    [year: number]: DayDrawingSets
+  }> {}
