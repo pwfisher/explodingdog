@@ -6,7 +6,11 @@ export function loadTagDrawingSets(): TagDrawingSets {
 }
 
 export function saveTagDrawingSets(tagDrawingSets: TagDrawingSets) {
-  localStorage.setItem('tagDrawingSets', JSON.stringify(tagDrawingSets))
+  saveTagDrawingSetsString(JSON.stringify(tagDrawingSets || {}))
+}
+
+export function saveTagDrawingSetsString(value: string) {
+  localStorage.setItem('tagDrawingSets', value)
 }
 
 export function drawingHasTag(drawing: Drawing, tag: string) {

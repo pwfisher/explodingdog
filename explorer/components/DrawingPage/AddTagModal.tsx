@@ -10,7 +10,9 @@ export const AddTagModal: React.FC<{ drawing: Drawing; isOpen: boolean; closeMod
   closeModal,
 }) => {
   const [newTag, setNewTag] = React.useState('')
-  const [tagDrawingSets, setTagDrawingSets] = React.useState<TagDrawingSets>(loadTagDrawingSets())
+  const [tagDrawingSets, setTagDrawingSets] = React.useState<TagDrawingSets>({})
+
+  React.useEffect(() => setTagDrawingSets(loadTagDrawingSets()), [isOpen])
 
   function onNewTagSubmit(e: React.FormEvent<HTMLFormElement>) {
     addTagToDrawing(newTag, drawing)
@@ -74,12 +76,29 @@ const Code = styled.code.attrs({ classNames: 'Explorer__AddTagModal__Code' })`
 `
 
 const TagList = styled.ul.attrs({ classNames: 'Explorer__AddTagModal__TagList' })`
-  margin: 0 -8px;
+  margin: 0 -12px;
 `
 
 const Tag = styled.li.attrs({ classNames: 'Explorer__AddTagModal__Tag' })`
-  border-right: 1px solid #DDD;
   display: inline-block;
-  margin: 6px 0;
-  padding: 0 8px;
+
+  &::after {
+    content: '·';
+    display: inline-block;
+    opacity: 0.3;
+  }
+
+  label {
+    cursor: pointer;
+    display: inline-block;
+    padding: 4px 6px 4px 2px;
+
+    &:hover {
+      box-shadow: inset 0 0 8px rgba(15, 100, 242, 0.15);
+
+      input[type="checkbox"]{
+        box-shadow: inset 0 0 4px rgba(15, 100, 242, 0.5);
+      }
+    }
+  }
 `
