@@ -4,6 +4,7 @@ import { navBarItemStyles } from './styles'
 import { useCookies } from 'react-cookie'
 import { Drawing } from '../../types'
 import { AddTagModal } from './AddTagModal'
+import { ExportTagsModal } from './ExportTagsModal'
 
 type Action = {
   title: string
@@ -15,13 +16,17 @@ export const ActionsMenu: React.FC<{ drawing: Drawing }> = ({ drawing }) => {
   const [cookies] = useCookies(['feature__myTags'])
   const [actions, setActions] = React.useState<Action[]>([])
   const [isAddTagModalOpen, setIsAddTagModalOpen] = React.useState(false)
+  const [isExportTagsModalOpen, setIsExportTagsModalOpen] = React.useState(false)
 
   const toggleAddTagModal = () => setIsAddTagModalOpen(!isAddTagModalOpen)
-  const addNewTag = { title: 'Add hashtags', onClick: toggleAddTagModal }
+  const toggleExportTagsModal = () => setIsExportTagsModalOpen(!isExportTagsModalOpen)
 
   React.useEffect(() => {
     const newActions = []
-    if (cookies.feature__myTags === 'on') newActions.push(addNewTag)
+    if (cookies.feature__myTags === 'on') {
+      newActions.push({ title: 'Export hashtags', onClick: toggleExportTagsModal })
+      newActions.push({ title: 'Add hashtags', onClick: toggleAddTagModal })
+    }
     setActions(newActions)
   }, [cookies])
 
@@ -35,11 +40,12 @@ export const ActionsMenu: React.FC<{ drawing: Drawing }> = ({ drawing }) => {
         </svg>
         <Popup isActive={isActive}>
           {actions.map(action => (
-            <Item key={action.title}><a onClick={action.onClick}>{action.title}</a></Item>
+            <Item key={action.title} onClick={action.onClick}>{action.title}</Item>
           ))}
         </Popup>
       </Container>
       <AddTagModal drawing={drawing} isOpen={isAddTagModalOpen} closeModal={toggleAddTagModal} />
+      <ExportTagsModal isOpen={isExportTagsModalOpen} closeModal={toggleExportTagsModal} />
     </>
   )
 }
@@ -68,6 +74,12 @@ const Popup = styled.div.attrs({ className: 'Explorer__ActionsMenu__Popup'})<{ i
   width: 200px;
 `
 
-const Item = styled.div.attrs({ className: 'Explorer__ActionsMenu__Item'})`
+const Item = styled.a.attrs({ className: 'Explorer__ActionsMenu__Item'})`
+  display: block;
   font-size: 24px;
+  padding: 8px;
+
+  &:hover {
+    background: #e5e5e5;
+  }
 `

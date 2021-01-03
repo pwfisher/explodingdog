@@ -28,12 +28,12 @@ export const AddTagModal: React.FC<{ drawing: Drawing; isOpen: boolean; closeMod
       <div onKeyDown={e => e.stopPropagation()}>
         <CloseButton onClick={closeModal}>close</CloseButton>
         <Title>Add Hashtags</Title>
-        <pre style={{ fontSize: '9px' }}>{JSON.stringify(drawing, null, 2)}</pre>
+        <Code>{JSON.stringify(drawing, null, 2)}</Code>
         <form onSubmit={onNewTagSubmit}>
           New: <input value={newTag} onChange={e => setNewTag(e.currentTarget.value)} /> <input type='submit' />
         </form>
         <br />
-        <ul>
+        <TagList>
           {tags.sort().map(tag => (
             <Tag key={tag}>
               <label>
@@ -48,7 +48,7 @@ export const AddTagModal: React.FC<{ drawing: Drawing; isOpen: boolean; closeMod
               </label>
             </Tag>
           ))}
-        </ul>
+        </TagList>
       </div>
     </Modal>
   )
@@ -65,9 +65,21 @@ const Title = styled.h1.attrs({ classNames: 'Explorer__AddTagModal__Title' })`
   text-align: center;
 `
 
+const Code = styled.code.attrs({ classNames: 'Explorer__AddTagModal__Code' })`
+  color: #999;
+  display: block;
+  font-size: 9px;
+  line-height: 12px;
+  margin: 8px 0 16px;
+`
+
+const TagList = styled.ul.attrs({ classNames: 'Explorer__AddTagModal__TagList' })`
+  margin: 0 -8px;
+`
+
 const Tag = styled.li.attrs({ classNames: 'Explorer__AddTagModal__Tag' })`
   border-right: 1px solid #DDD;
   display: inline-block;
-  margin: 8px 0;
+  margin: 6px 0;
   padding: 0 8px;
 `

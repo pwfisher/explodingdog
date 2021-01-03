@@ -1,0 +1,2414 @@
+{
+  "Pun": [
+    {
+      "id": "2004.18",
+      "date": "2004-02-26",
+      "image": "warning2.png",
+      "slug": "warning2",
+      "title": "WARNING: there is a trojan on your computer.",
+      "year": "2004",
+      "number": "18"
+    },
+    {
+      "id": "2003.73",
+      "date": "2003-04-10",
+      "image": "spacetothink.png",
+      "slug": "spacetothink",
+      "title": "i think i need some space to think",
+      "year": "2003",
+      "number": "73"
+    }
+  ],
+  "Grey": [
+    {
+      "id": "2004.18",
+      "date": "2004-02-26",
+      "image": "warning2.png",
+      "slug": "warning2",
+      "title": "WARNING: there is a trojan on your computer.",
+      "year": "2004",
+      "number": "18"
+    },
+    {
+      "id": "2003.74",
+      "date": "2003-04-10",
+      "image": "ilovedyouatallthewrongtimes.png",
+      "slug": "ilovedyouatthewrongtimes",
+      "title": "i loved you at all the wrong times",
+      "year": "2003",
+      "number": "74"
+    },
+    {
+      "id": "2003.67",
+      "date": "2003-04-08",
+      "image": "ihavenoideawhatiamdoing.png",
+      "slug": "ihavenoideawhatiamdoing",
+      "title": "i have no idea what i am doing",
+      "year": "2003",
+      "number": "67"
+    },
+    {
+      "id": "2003.53",
+      "date": "2003-03-04",
+      "image": "thatsallthereis.png",
+      "slug": "thatsallthereis",
+      "title": "that's all there is",
+      "year": "2003",
+      "number": "53"
+    },
+    {
+      "id": "2003.23",
+      "date": "2003-02-03",
+      "image": "ididntseethecar.png",
+      "slug": "ididntseethecar",
+      "title": "i didn't see the car",
+      "year": "2003",
+      "number": "23"
+    },
+    {
+      "id": "2003.4",
+      "date": "2003-01-02",
+      "image": "imsorryiwasntpayingatt.png",
+      "slug": "imsorryiwasntpayingatt",
+      "title": "i am sorry i wasn't paying attention",
+      "year": "2003",
+      "number": "4"
+    },
+    {
+      "id": "2002.210",
+      "date": "2002-12-19",
+      "image": "ifitwereworthfixingitwould.png",
+      "slug": "ifitwereworthfixingitwould",
+      "title": "if it were worth fixing, it wouldn't break",
+      "year": "2002",
+      "number": "210"
+    },
+    {
+      "id": "2002.209",
+      "date": "2002-12-19",
+      "image": "amiinvisibleyet.png",
+      "slug": "amiinvisibleyet",
+      "title": "am i invisible yet?",
+      "year": "2002",
+      "number": "209"
+    },
+    {
+      "id": "2002.174",
+      "date": "2002-10-24",
+      "image": "ireallyneedtolearnhowtodraw.png",
+      "slug": "ireallyneedtolearn",
+      "title": "i really need to learn how to draw, i am the worst ever",
+      "year": "2002",
+      "number": "174"
+    },
+    {
+      "id": "2002.148",
+      "date": "2002-08-21",
+      "image": "haveawonderfulday.png",
+      "slug": "haveawonderfulday",
+      "title": "have a wonderful day!",
+      "year": "2002",
+      "number": "148"
+    }
+  ],
+  "Knife": [
+    {
+      "id": "2004.18",
+      "date": "2004-02-26",
+      "image": "warning2.png",
+      "slug": "warning2",
+      "title": "WARNING: there is a trojan on your computer.",
+      "year": "2004",
+      "number": "18"
+    },
+    {
+      "id": "2003.56",
+      "date": "2003-03-13",
+      "image": "andyouarenext.png",
+      "slug": "andyouarenext",
+      "title": "and you are next",
+      "year": "2003",
+      "number": "56"
+    },
+    {
+      "id": "2003.15",
+      "date": "2003-01-17",
+      "image": "illkillyouwithmyknife.png",
+      "slug": "illkillyouwithmyknife",
+      "title": "i'll kill you with my knife!",
+      "year": "2003",
+      "number": "15"
+    },
+    {
+      "id": "2002.181",
+      "date": "2002-10-27",
+      "image": "ohthatswhy5.png",
+      "slug": "ohthatswhy5",
+      "title": "oh, that's why",
+      "year": "2002",
+      "number": "181"
+    }
+  ],
+  "Computer": [
+    {
+      "id": "2004.18",
+      "date": "2004-02-26",
+      "image": "warning2.png",
+      "slug": "warning2",
+      "title": "WARNING: there is a trojan on your computer.",
+      "year": "2004",
+      "number": "18"
+    }
+  ],
+  "Trojan": [
+    {
+      "id": "2004.18",
+      "date": "2004-02-26",
+      "image": "warning2.png",
+      "slug": "warning2",
+      "title": "WARNING: there is a trojan on your computer.",
+      "year": "2004",
+      "number": "18"
+    }
+  ],
+  "Favorite": [
+    {
+      "id": "2003.74",
+      "date": "2003-04-10",
+      "image": "ilovedyouatallthewrongtimes.png",
+      "slug": "ilovedyouatthewrongtimes",
+      "title": "i loved you at all the wrong times",
+      "year": "2003",
+      "number": "74"
+    },
+    {
+      "id": "2003.44",
+      "date": "2003-03-04",
+      "image": "itisawonderfulworld.png",
+      "slug": "itisawonderfulworld",
+      "title": "it is a wonderful world",
+      "year": "2003",
+      "number": "44"
+    },
+    {
+      "id": "2003.39",
+      "date": "2003-02-20",
+      "image": "ithinkijustlostmybestfriend.png",
+      "slug": "ithinkijustlostmybest",
+      "title": "i think i just lost my best friend",
+      "year": "2003",
+      "number": "39"
+    },
+    {
+      "id": "2003.43",
+      "date": "2003-02-21",
+      "image": "cantletgo.png",
+      "slug": "cantletgo",
+      "title": "can't let go",
+      "year": "2003",
+      "number": "43"
+    },
+    {
+      "id": "2003.20",
+      "date": "2003-01-29",
+      "image": "ithinkwedranktoomuch.png",
+      "slug": "ithinkwedranktoomuch",
+      "title": "i think we drank too much",
+      "year": "2003",
+      "number": "20"
+    },
+    {
+      "id": "2003.11",
+      "date": "2003-01-16",
+      "image": "findinggod.png",
+      "slug": "findinggod",
+      "title": "i thought that this is where i would find god",
+      "year": "2003",
+      "number": "11"
+    },
+    {
+      "id": "2003.10",
+      "date": "2003-01-16",
+      "image": "theonlywayisup2.png",
+      "slug": "theonlywayisup2",
+      "title": "the only way is up",
+      "year": "2003",
+      "number": "10"
+    },
+    {
+      "id": "2003.9",
+      "date": "2003-01-14",
+      "image": "sometimesijustwanttokill.png",
+      "slug": "sometimesijustwanttokill",
+      "title": "sometimes i just want to kill everyone",
+      "year": "2003",
+      "number": "9"
+    },
+    {
+      "id": "2002.221",
+      "date": "2002-12-31",
+      "image": "whywasilefthere.png",
+      "slug": "whywasilefthere",
+      "title": "why was i left here?",
+      "year": "2002",
+      "number": "221"
+    },
+    {
+      "id": "2002.219",
+      "date": "2002-12-27",
+      "image": "youllloveittrustme2.png",
+      "slug": "youllloveittrustme2",
+      "title": "you'll love it, trust me",
+      "year": "2002",
+      "number": "219"
+    },
+    {
+      "id": "2002.218",
+      "date": "2002-12-27",
+      "image": "somethingsiforgot.png",
+      "slug": "somethingsiforgot",
+      "title": "somethings i forgot",
+      "year": "2002",
+      "number": "218"
+    },
+    {
+      "id": "2002.217",
+      "date": "2002-12-27",
+      "image": "neverminditwasntimportant.png",
+      "slug": "neverminditwasntimportant",
+      "title": "nevermind, it wasn't important",
+      "year": "2002",
+      "number": "217"
+    },
+    {
+      "id": "2002.188",
+      "date": "2002-10-29",
+      "image": "youwillneverknowthetruth.png",
+      "slug": "youwillneverknowthetruth",
+      "title": "you will never know the truth",
+      "year": "2002",
+      "number": "188"
+    },
+    {
+      "id": "2002.181",
+      "date": "2002-10-27",
+      "image": "ohthatswhy5.png",
+      "slug": "ohthatswhy5",
+      "title": "oh, that's why",
+      "year": "2002",
+      "number": "181"
+    },
+    {
+      "id": "2002.148",
+      "date": "2002-08-21",
+      "image": "haveawonderfulday.png",
+      "slug": "haveawonderfulday",
+      "title": "have a wonderful day!",
+      "year": "2002",
+      "number": "148"
+    }
+  ],
+  "Expansive": [
+    {
+      "id": "2003.74",
+      "date": "2003-04-10",
+      "image": "ilovedyouatallthewrongtimes.png",
+      "slug": "ilovedyouatthewrongtimes",
+      "title": "i loved you at all the wrong times",
+      "year": "2003",
+      "number": "74"
+    },
+    {
+      "id": "2003.39",
+      "date": "2003-02-20",
+      "image": "ithinkijustlostmybestfriend.png",
+      "slug": "ithinkijustlostmybest",
+      "title": "i think i just lost my best friend",
+      "year": "2003",
+      "number": "39"
+    },
+    {
+      "id": "2003.71",
+      "date": "2003-04-09",
+      "image": "icameheretofindoutwho.png",
+      "slug": "icameheretofindoutwho",
+      "title": "i came here to find out who you are",
+      "year": "2003",
+      "number": "71"
+    },
+    {
+      "id": "2003.68",
+      "date": "2003-04-09",
+      "image": "ilostthestuff.png",
+      "slug": "ilostthestuff",
+      "title": "i lost the stuff",
+      "year": "2003",
+      "number": "68"
+    },
+    {
+      "id": "2003.61",
+      "date": "2003-04-01",
+      "image": "whatdoesthisbuttondo.png",
+      "slug": "whatdoesthisbuttondo",
+      "title": "what does this button do?",
+      "year": "2003",
+      "number": "61"
+    },
+    {
+      "id": "2003.57",
+      "date": "2003-03-13",
+      "image": "ithinkiamlost.png",
+      "slug": "ithinkiamlost",
+      "title": "i think i am lost",
+      "year": "2003",
+      "number": "57"
+    },
+    {
+      "id": "2003.54",
+      "date": "2003-03-04",
+      "image": "notassmallasyouthink.png",
+      "slug": "notassmallasyouthink",
+      "title": "not as small as you think",
+      "year": "2003",
+      "number": "54"
+    },
+    {
+      "id": "2003.47",
+      "date": "2003-03-04",
+      "image": "itmightmakeyoufeelbetter.png",
+      "slug": "itmightmakeyoufeelbetter",
+      "title": "it might make you feel better",
+      "year": "2003",
+      "number": "47"
+    },
+    {
+      "id": "2003.43",
+      "date": "2003-02-21",
+      "image": "cantletgo.png",
+      "slug": "cantletgo",
+      "title": "can't let go",
+      "year": "2003",
+      "number": "43"
+    },
+    {
+      "id": "2003.37",
+      "date": "2003-02-18",
+      "image": "thatssomethingnew.png",
+      "slug": "thatssomethingnew",
+      "title": "that's something new",
+      "year": "2003",
+      "number": "37"
+    },
+    {
+      "id": "2003.30",
+      "date": "2003-02-06",
+      "image": "therewasnothingicoulddo.png",
+      "slug": "therewasnothingicoulddo",
+      "title": "there was nothing i could do",
+      "year": "2003",
+      "number": "30"
+    },
+    {
+      "id": "2003.20",
+      "date": "2003-01-29",
+      "image": "ithinkwedranktoomuch.png",
+      "slug": "ithinkwedranktoomuch",
+      "title": "i think we drank too much",
+      "year": "2003",
+      "number": "20"
+    },
+    {
+      "id": "2003.11",
+      "date": "2003-01-16",
+      "image": "findinggod.png",
+      "slug": "findinggod",
+      "title": "i thought that this is where i would find god",
+      "year": "2003",
+      "number": "11"
+    },
+    {
+      "id": "2003.10",
+      "date": "2003-01-16",
+      "image": "theonlywayisup2.png",
+      "slug": "theonlywayisup2",
+      "title": "the only way is up",
+      "year": "2003",
+      "number": "10"
+    },
+    {
+      "id": "2003.5",
+      "date": "2003-01-02",
+      "image": "whycantirememberyourname.png",
+      "slug": "whycantirememberyourname",
+      "title": "why can't i remember your name?",
+      "year": "2003",
+      "number": "5"
+    },
+    {
+      "id": "2002.221",
+      "date": "2002-12-31",
+      "image": "whywasilefthere.png",
+      "slug": "whywasilefthere",
+      "title": "why was i left here?",
+      "year": "2002",
+      "number": "221"
+    },
+    {
+      "id": "2002.219",
+      "date": "2002-12-27",
+      "image": "youllloveittrustme2.png",
+      "slug": "youllloveittrustme2",
+      "title": "you'll love it, trust me",
+      "year": "2002",
+      "number": "219"
+    },
+    {
+      "id": "2002.218",
+      "date": "2002-12-27",
+      "image": "somethingsiforgot.png",
+      "slug": "somethingsiforgot",
+      "title": "somethings i forgot",
+      "year": "2002",
+      "number": "218"
+    },
+    {
+      "id": "2002.213",
+      "date": "2002-12-20",
+      "image": "doyouevergetthefeelingthatitisover.png",
+      "slug": "doyouevergetthefeelingth",
+      "title": "Do you ever get the feeling that it is over?",
+      "year": "2002",
+      "number": "213"
+    },
+    {
+      "id": "2002.212",
+      "date": "2002-12-20",
+      "image": "thatshighschoolphysics.png",
+      "slug": "thatshighschoolphysics",
+      "title": "that's high school physics",
+      "year": "2002",
+      "number": "212"
+    },
+    {
+      "id": "2002.206",
+      "date": "2002-12-18",
+      "image": "ithoughtyoulovedmemorethan.png",
+      "slug": "ithoughtyoulovedmemoretha",
+      "title": "i thought you loved me more than any thing, and i thought you would come back to me",
+      "year": "2002",
+      "number": "206"
+    },
+    {
+      "id": "2002.190",
+      "date": "2002-10-29",
+      "image": "iamthemasterevilgenius.png",
+      "slug": "iamthemasterevilgenius",
+      "title": "I am the master evil genius",
+      "year": "2002",
+      "number": "190"
+    },
+    {
+      "id": "2002.188",
+      "date": "2002-10-29",
+      "image": "youwillneverknowthetruth.png",
+      "slug": "youwillneverknowthetruth",
+      "title": "you will never know the truth",
+      "year": "2002",
+      "number": "188"
+    },
+    {
+      "id": "2002.181",
+      "date": "2002-10-27",
+      "image": "ohthatswhy5.png",
+      "slug": "ohthatswhy5",
+      "title": "oh, that's why",
+      "year": "2002",
+      "number": "181"
+    },
+    {
+      "id": "2002.152",
+      "date": "2002-09-02",
+      "image": "ontopofthehill.png",
+      "slug": "ontopofthehill",
+      "title": "on top of the hill",
+      "year": "2002",
+      "number": "152"
+    }
+  ],
+  "Robot": [
+    {
+      "id": "2003.74",
+      "date": "2003-04-10",
+      "image": "ilovedyouatallthewrongtimes.png",
+      "slug": "ilovedyouatthewrongtimes",
+      "title": "i loved you at all the wrong times",
+      "year": "2003",
+      "number": "74"
+    },
+    {
+      "id": "2003.39",
+      "date": "2003-02-20",
+      "image": "ithinkijustlostmybestfriend.png",
+      "slug": "ithinkijustlostmybest",
+      "title": "i think i just lost my best friend",
+      "year": "2003",
+      "number": "39"
+    },
+    {
+      "id": "2003.62",
+      "date": "2003-04-01",
+      "image": "maybenexttime.png",
+      "slug": "maybenexttime",
+      "title": "maybe next time",
+      "year": "2003",
+      "number": "62"
+    },
+    {
+      "id": "2003.52",
+      "date": "2003-03-04",
+      "image": "nowitisourturntoplay.png",
+      "slug": "nowitisourturntoplay",
+      "title": "now it is our turn to play",
+      "year": "2003",
+      "number": "52"
+    },
+    {
+      "id": "2003.42",
+      "date": "2003-02-21",
+      "image": "getoutofmyhead.png",
+      "slug": "getoutofmyhead",
+      "title": "get out of my head",
+      "year": "2003",
+      "number": "42"
+    },
+    {
+      "id": "2003.37",
+      "date": "2003-02-18",
+      "image": "thatssomethingnew.png",
+      "slug": "thatssomethingnew",
+      "title": "that's something new",
+      "year": "2003",
+      "number": "37"
+    },
+    {
+      "id": "2003.27",
+      "date": "2003-02-06",
+      "image": "ithoughtsomedaisies.png",
+      "slug": "thoughtsomedaisies",
+      "title": "i thought some daisies would cheer you up",
+      "year": "2003",
+      "number": "27"
+    },
+    {
+      "id": "2003.25",
+      "date": "2003-02-03",
+      "image": "paintingarainbow.png",
+      "slug": "paintingarainbow",
+      "title": "painting a rainbow",
+      "year": "2003",
+      "number": "25"
+    },
+    {
+      "id": "2003.20",
+      "date": "2003-01-29",
+      "image": "ithinkwedranktoomuch.png",
+      "slug": "ithinkwedranktoomuch",
+      "title": "i think we drank too much",
+      "year": "2003",
+      "number": "20"
+    },
+    {
+      "id": "2003.9",
+      "date": "2003-01-14",
+      "image": "sometimesijustwanttokill.png",
+      "slug": "sometimesijustwanttokill",
+      "title": "sometimes i just want to kill everyone",
+      "year": "2003",
+      "number": "9"
+    },
+    {
+      "id": "2002.188",
+      "date": "2002-10-29",
+      "image": "youwillneverknowthetruth.png",
+      "slug": "youwillneverknowthetruth",
+      "title": "you will never know the truth",
+      "year": "2002",
+      "number": "188"
+    },
+    {
+      "id": "2002.180",
+      "date": "2002-10-25",
+      "image": "ihatetechnology.png",
+      "slug": "ihatetechnology",
+      "title": "i hate technology",
+      "year": "2002",
+      "number": "180"
+    },
+    {
+      "id": "2002.177",
+      "date": "2002-10-24",
+      "image": "whatiswrongwithme.png",
+      "slug": "whatiswrongwithme",
+      "title": "what is wrong with me?",
+      "year": "2002",
+      "number": "177"
+    }
+  ],
+  "Rocket": [
+    {
+      "id": "2003.73",
+      "date": "2003-04-10",
+      "image": "spacetothink.png",
+      "slug": "spacetothink",
+      "title": "i think i need some space to think",
+      "year": "2003",
+      "number": "73"
+    },
+    {
+      "id": "2003.39",
+      "date": "2003-02-20",
+      "image": "ithinkijustlostmybestfriend.png",
+      "slug": "ithinkijustlostmybest",
+      "title": "i think i just lost my best friend",
+      "year": "2003",
+      "number": "39"
+    },
+    {
+      "id": "2003.44",
+      "date": "2003-03-04",
+      "image": "itisawonderfulworld.png",
+      "slug": "itisawonderfulworld",
+      "title": "it is a wonderful world",
+      "year": "2003",
+      "number": "44"
+    },
+    {
+      "id": "2002.204",
+      "date": "2002-12-17",
+      "image": "heknows.png",
+      "slug": "heknows",
+      "title": "he knows",
+      "year": "2002",
+      "number": "204"
+    },
+    {
+      "id": "2002.181",
+      "date": "2002-10-27",
+      "image": "ohthatswhy5.png",
+      "slug": "ohthatswhy5",
+      "title": "oh, that's why",
+      "year": "2002",
+      "number": "181"
+    },
+    {
+      "id": "2002.148",
+      "date": "2002-08-21",
+      "image": "haveawonderfulday.png",
+      "slug": "haveawonderfulday",
+      "title": "have a wonderful day!",
+      "year": "2002",
+      "number": "148"
+    }
+  ],
+  "Friend": [
+    {
+      "id": "2003.39",
+      "date": "2003-02-20",
+      "image": "ithinkijustlostmybestfriend.png",
+      "slug": "ithinkijustlostmybest",
+      "title": "i think i just lost my best friend",
+      "year": "2003",
+      "number": "39"
+    },
+    {
+      "id": "2003.74",
+      "date": "2003-04-10",
+      "image": "ilovedyouatallthewrongtimes.png",
+      "slug": "ilovedyouatthewrongtimes",
+      "title": "i loved you at all the wrong times",
+      "year": "2003",
+      "number": "74"
+    },
+    {
+      "id": "2003.47",
+      "date": "2003-03-04",
+      "image": "itmightmakeyoufeelbetter.png",
+      "slug": "itmightmakeyoufeelbetter",
+      "title": "it might make you feel better",
+      "year": "2003",
+      "number": "47"
+    },
+    {
+      "id": "2003.45",
+      "date": "2003-03-04",
+      "image": "areyoubroken.png",
+      "slug": "areyoubroken",
+      "title": "are you broken?",
+      "year": "2003",
+      "number": "45"
+    },
+    {
+      "id": "2003.9",
+      "date": "2003-01-14",
+      "image": "sometimesijustwanttokill.png",
+      "slug": "sometimesijustwanttokill",
+      "title": "sometimes i just want to kill everyone",
+      "year": "2003",
+      "number": "9"
+    },
+    {
+      "id": "2003.5",
+      "date": "2003-01-02",
+      "image": "whycantirememberyourname.png",
+      "slug": "whycantirememberyourname",
+      "title": "why can't i remember your name?",
+      "year": "2003",
+      "number": "5"
+    },
+    {
+      "id": "2002.219",
+      "date": "2002-12-27",
+      "image": "youllloveittrustme2.png",
+      "slug": "youllloveittrustme2",
+      "title": "you'll love it, trust me",
+      "year": "2002",
+      "number": "219"
+    },
+    {
+      "id": "2002.207",
+      "date": "2002-12-18",
+      "image": "standbyyourside.png",
+      "slug": "standbyyourside",
+      "title": "stand by your side",
+      "year": "2002",
+      "number": "207"
+    },
+    {
+      "id": "2002.179",
+      "date": "2002-10-25",
+      "image": "imgladyouremyfriend.png",
+      "slug": "imgladyouremyfriend",
+      "title": "i'm glad you're my friend",
+      "year": "2002",
+      "number": "179"
+    },
+    {
+      "id": "2002.168",
+      "date": "2002-10-08",
+      "image": "nothingbettertodo.png",
+      "slug": "nothingbettertodo",
+      "title": "nothing better to do",
+      "year": "2002",
+      "number": "168"
+    },
+    {
+      "id": "2002.167",
+      "date": "2002-10-08",
+      "image": "itspoopagain.png",
+      "slug": "itspoopagain",
+      "title": "it's poop again",
+      "year": "2002",
+      "number": "167"
+    },
+    {
+      "id": "2002.157",
+      "date": "2002-09-12",
+      "image": "ihavemagicpowers.png",
+      "slug": "ihavemagicpowers",
+      "title": "I have magic powers!",
+      "year": "2002",
+      "number": "157"
+    },
+    {
+      "id": "2002.152",
+      "date": "2002-09-02",
+      "image": "ontopofthehill.png",
+      "slug": "ontopofthehill",
+      "title": "on top of the hill",
+      "year": "2002",
+      "number": "152"
+    }
+  ],
+  "HomePage": [
+    {
+      "id": "2003.74",
+      "date": "2003-04-10",
+      "image": "ilovedyouatallthewrongtimes.png",
+      "slug": "ilovedyouatthewrongtimes",
+      "title": "i loved you at all the wrong times",
+      "year": "2003",
+      "number": "74"
+    },
+    {
+      "id": "2002.218",
+      "date": "2002-12-27",
+      "image": "somethingsiforgot.png",
+      "slug": "somethingsiforgot",
+      "title": "somethings i forgot",
+      "year": "2002",
+      "number": "218"
+    },
+    {
+      "id": "2002.219",
+      "date": "2002-12-27",
+      "image": "youllloveittrustme2.png",
+      "slug": "youllloveittrustme2",
+      "title": "you'll love it, trust me",
+      "year": "2002",
+      "number": "219"
+    },
+    {
+      "id": "2002.217",
+      "date": "2002-12-27",
+      "image": "neverminditwasntimportant.png",
+      "slug": "neverminditwasntimportant",
+      "title": "nevermind, it wasn't important",
+      "year": "2002",
+      "number": "217"
+    },
+    {
+      "id": "2002.148",
+      "date": "2002-08-21",
+      "image": "haveawonderfulday.png",
+      "slug": "haveawonderfulday",
+      "title": "have a wonderful day!",
+      "year": "2002",
+      "number": "148"
+    }
+  ],
+  "Machine": [
+    {
+      "id": "2003.67",
+      "date": "2003-04-08",
+      "image": "ihavenoideawhatiamdoing.png",
+      "slug": "ihavenoideawhatiamdoing",
+      "title": "i have no idea what i am doing",
+      "year": "2003",
+      "number": "67"
+    },
+    {
+      "id": "2003.63",
+      "date": "2003-04-08",
+      "image": "shutupiamworkingonthefuture.png",
+      "slug": "shutupiamworkingon",
+      "title": "shut up! i am working on the future",
+      "year": "2003",
+      "number": "63"
+    },
+    {
+      "id": "2003.61",
+      "date": "2003-04-01",
+      "image": "whatdoesthisbuttondo.png",
+      "slug": "whatdoesthisbuttondo",
+      "title": "what does this button do?",
+      "year": "2003",
+      "number": "61"
+    },
+    {
+      "id": "2003.50",
+      "date": "2003-03-04",
+      "image": "allineedisforyoutotellmeit.png",
+      "slug": "allineedisforyoutotellmeit",
+      "title": "all i need is for you to tell me it is ok",
+      "year": "2003",
+      "number": "50"
+    },
+    {
+      "id": "2002.192",
+      "date": "2002-10-30",
+      "image": "youthinktoomuch.png",
+      "slug": "youthinktoomuch",
+      "title": "you think too much",
+      "year": "2002",
+      "number": "192"
+    },
+    {
+      "id": "2002.160",
+      "date": "2002-09-13",
+      "image": "icantthinkofanything.png",
+      "slug": "icantthinkofanything",
+      "title": "i can't think of anything",
+      "year": "2002",
+      "number": "160"
+    },
+    {
+      "id": "2002.153",
+      "date": "2002-09-05",
+      "image": "everybreathyoutake.png",
+      "slug": "everybreathyoutake",
+      "title": "every breath you take",
+      "year": "2002",
+      "number": "153"
+    },
+    {
+      "id": "2002.152",
+      "date": "2002-09-02",
+      "image": "ontopofthehill.png",
+      "slug": "ontopofthehill",
+      "title": "on top of the hill",
+      "year": "2002",
+      "number": "152"
+    }
+  ],
+  "Fish": [
+    {
+      "id": "2003.66",
+      "date": "2003-04-08",
+      "image": "haveyouseenmytwin.png",
+      "slug": "haveyouseenmytwin",
+      "title": "have you seen my twin?",
+      "year": "2003",
+      "number": "66"
+    },
+    {
+      "id": "2003.41",
+      "date": "2003-02-20",
+      "image": "wherethepartyat.png",
+      "slug": "wherethepartyat",
+      "title": "where the party at?",
+      "year": "2003",
+      "number": "41"
+    },
+    {
+      "id": "2003.28",
+      "date": "2003-02-06",
+      "image": "afishinwater.png",
+      "slug": "afishinwater",
+      "title": "a fish in water",
+      "year": "2003",
+      "number": "28"
+    },
+    {
+      "id": "2002.164",
+      "date": "2002-09-27",
+      "image": "heywhendidyougethome.png",
+      "slug": "heywhendidyougethome",
+      "title": "hey... when did you get home?",
+      "year": "2002",
+      "number": "164"
+    },
+    {
+      "id": "2002.148",
+      "date": "2002-08-21",
+      "image": "haveawonderfulday.png",
+      "slug": "haveawonderfulday",
+      "title": "have a wonderful day!",
+      "year": "2002",
+      "number": "148"
+    }
+  ],
+  "Red": [
+    {
+      "id": "2003.61",
+      "date": "2003-04-01",
+      "image": "whatdoesthisbuttondo.png",
+      "slug": "whatdoesthisbuttondo",
+      "title": "what does this button do?",
+      "year": "2003",
+      "number": "61"
+    },
+    {
+      "id": "2002.218",
+      "date": "2002-12-27",
+      "image": "somethingsiforgot.png",
+      "slug": "somethingsiforgot",
+      "title": "somethings i forgot",
+      "year": "2002",
+      "number": "218"
+    }
+  ],
+  "City": [
+    {
+      "id": "2003.57",
+      "date": "2003-03-13",
+      "image": "ithinkiamlost.png",
+      "slug": "ithinkiamlost",
+      "title": "i think i am lost",
+      "year": "2003",
+      "number": "57"
+    },
+    {
+      "id": "2003.55",
+      "date": "2003-03-13",
+      "image": "theantthatwilltakeovert.png",
+      "slug": "theantthatwilltakeovert",
+      "title": "the ant that will take over the world",
+      "year": "2003",
+      "number": "55"
+    },
+    {
+      "id": "2003.30",
+      "date": "2003-02-06",
+      "image": "therewasnothingicoulddo.png",
+      "slug": "therewasnothingicoulddo",
+      "title": "there was nothing i could do",
+      "year": "2003",
+      "number": "30"
+    },
+    {
+      "id": "2003.9",
+      "date": "2003-01-14",
+      "image": "sometimesijustwanttokill.png",
+      "slug": "sometimesijustwanttokill",
+      "title": "sometimes i just want to kill everyone",
+      "year": "2003",
+      "number": "9"
+    },
+    {
+      "id": "2003.5",
+      "date": "2003-01-02",
+      "image": "whycantirememberyourname.png",
+      "slug": "whycantirememberyourname",
+      "title": "why can't i remember your name?",
+      "year": "2003",
+      "number": "5"
+    },
+    {
+      "id": "2002.213",
+      "date": "2002-12-20",
+      "image": "doyouevergetthefeelingthatitisover.png",
+      "slug": "doyouevergetthefeelingth",
+      "title": "Do you ever get the feeling that it is over?",
+      "year": "2002",
+      "number": "213"
+    },
+    {
+      "id": "2002.181",
+      "date": "2002-10-27",
+      "image": "ohthatswhy5.png",
+      "slug": "ohthatswhy5",
+      "title": "oh, that's why",
+      "year": "2002",
+      "number": "181"
+    },
+    {
+      "id": "2002.177",
+      "date": "2002-10-24",
+      "image": "whatiswrongwithme.png",
+      "slug": "whatiswrongwithme",
+      "title": "what is wrong with me?",
+      "year": "2002",
+      "number": "177"
+    }
+  ],
+  "Clouds": [
+    {
+      "id": "2003.56",
+      "date": "2003-03-13",
+      "image": "andyouarenext.png",
+      "slug": "andyouarenext",
+      "title": "and you are next",
+      "year": "2003",
+      "number": "56"
+    },
+    {
+      "id": "2003.53",
+      "date": "2003-03-04",
+      "image": "thatsallthereis.png",
+      "slug": "thatsallthereis",
+      "title": "that's all there is",
+      "year": "2003",
+      "number": "53"
+    },
+    {
+      "id": "2003.44",
+      "date": "2003-03-04",
+      "image": "itisawonderfulworld.png",
+      "slug": "itisawonderfulworld",
+      "title": "it is a wonderful world",
+      "year": "2003",
+      "number": "44"
+    },
+    {
+      "id": "2003.42",
+      "date": "2003-02-21",
+      "image": "getoutofmyhead.png",
+      "slug": "getoutofmyhead",
+      "title": "get out of my head",
+      "year": "2003",
+      "number": "42"
+    },
+    {
+      "id": "2003.37",
+      "date": "2003-02-18",
+      "image": "thatssomethingnew.png",
+      "slug": "thatssomethingnew",
+      "title": "that's something new",
+      "year": "2003",
+      "number": "37"
+    },
+    {
+      "id": "2003.31",
+      "date": "2003-02-06",
+      "image": "reachforthesky.png",
+      "slug": "reachforthesky",
+      "title": "reach for the sky",
+      "year": "2003",
+      "number": "31"
+    },
+    {
+      "id": "2003.26",
+      "date": "2003-02-03",
+      "image": "thedaytheworldwentaway.png",
+      "slug": "thedaytheworldwentaway",
+      "title": "the day the world went away",
+      "year": "2003",
+      "number": "26"
+    },
+    {
+      "id": "2003.22",
+      "date": "2003-01-29",
+      "image": "idontthinkgodlikesmevery.png",
+      "slug": "idonthinkgodlikesmevery",
+      "title": "i don't think god likes me very much today",
+      "year": "2003",
+      "number": "22"
+    },
+    {
+      "id": "2003.20",
+      "date": "2003-01-29",
+      "image": "ithinkwedranktoomuch.png",
+      "slug": "ithinkwedranktoomuch",
+      "title": "i think we drank too much",
+      "year": "2003",
+      "number": "20"
+    },
+    {
+      "id": "2003.15",
+      "date": "2003-01-17",
+      "image": "illkillyouwithmyknife.png",
+      "slug": "illkillyouwithmyknife",
+      "title": "i'll kill you with my knife!",
+      "year": "2003",
+      "number": "15"
+    },
+    {
+      "id": "2003.10",
+      "date": "2003-01-16",
+      "image": "theonlywayisup2.png",
+      "slug": "theonlywayisup2",
+      "title": "the only way is up",
+      "year": "2003",
+      "number": "10"
+    },
+    {
+      "id": "2003.9",
+      "date": "2003-01-14",
+      "image": "sometimesijustwanttokill.png",
+      "slug": "sometimesijustwanttokill",
+      "title": "sometimes i just want to kill everyone",
+      "year": "2003",
+      "number": "9"
+    },
+    {
+      "id": "2002.221",
+      "date": "2002-12-31",
+      "image": "whywasilefthere.png",
+      "slug": "whywasilefthere",
+      "title": "why was i left here?",
+      "year": "2002",
+      "number": "221"
+    },
+    {
+      "id": "2002.219",
+      "date": "2002-12-27",
+      "image": "youllloveittrustme2.png",
+      "slug": "youllloveittrustme2",
+      "title": "you'll love it, trust me",
+      "year": "2002",
+      "number": "219"
+    },
+    {
+      "id": "2002.218",
+      "date": "2002-12-27",
+      "image": "somethingsiforgot.png",
+      "slug": "somethingsiforgot",
+      "title": "somethings i forgot",
+      "year": "2002",
+      "number": "218"
+    },
+    {
+      "id": "2002.217",
+      "date": "2002-12-27",
+      "image": "neverminditwasntimportant.png",
+      "slug": "neverminditwasntimportant",
+      "title": "nevermind, it wasn't important",
+      "year": "2002",
+      "number": "217"
+    },
+    {
+      "id": "2002.215",
+      "date": "2002-12-23",
+      "image": "thesunwillrise.png",
+      "slug": "thesunwillrise",
+      "title": "the sun will rise",
+      "year": "2002",
+      "number": "215"
+    },
+    {
+      "id": "2002.212",
+      "date": "2002-12-20",
+      "image": "thatshighschoolphysics.png",
+      "slug": "thatshighschoolphysics",
+      "title": "that's high school physics",
+      "year": "2002",
+      "number": "212"
+    },
+    {
+      "id": "2002.207",
+      "date": "2002-12-18",
+      "image": "standbyyourside.png",
+      "slug": "standbyyourside",
+      "title": "stand by your side",
+      "year": "2002",
+      "number": "207"
+    },
+    {
+      "id": "2002.197",
+      "date": "2002-11-18",
+      "image": "ithurts.png",
+      "slug": "ithurts",
+      "title": "it hurts",
+      "year": "2002",
+      "number": "197"
+    },
+    {
+      "id": "2002.188",
+      "date": "2002-10-29",
+      "image": "youwillneverknowthetruth.png",
+      "slug": "youwillneverknowthetruth",
+      "title": "you will never know the truth",
+      "year": "2002",
+      "number": "188"
+    },
+    {
+      "id": "2002.181",
+      "date": "2002-10-27",
+      "image": "ohthatswhy5.png",
+      "slug": "ohthatswhy5",
+      "title": "oh, that's why",
+      "year": "2002",
+      "number": "181"
+    },
+    {
+      "id": "2002.179",
+      "date": "2002-10-25",
+      "image": "imgladyouremyfriend.png",
+      "slug": "imgladyouremyfriend",
+      "title": "i'm glad you're my friend",
+      "year": "2002",
+      "number": "179"
+    },
+    {
+      "id": "2002.177",
+      "date": "2002-10-24",
+      "image": "whatiswrongwithme.png",
+      "slug": "whatiswrongwithme",
+      "title": "what is wrong with me?",
+      "year": "2002",
+      "number": "177"
+    },
+    {
+      "id": "2002.169",
+      "date": "2002-10-09",
+      "image": "dogheaven.png",
+      "slug": "dogheaven",
+      "title": "dog heaven",
+      "year": "2002",
+      "number": "169"
+    },
+    {
+      "id": "2002.168",
+      "date": "2002-10-08",
+      "image": "nothingbettertodo.png",
+      "slug": "nothingbettertodo",
+      "title": "nothing better to do",
+      "year": "2002",
+      "number": "168"
+    },
+    {
+      "id": "2002.160",
+      "date": "2002-09-13",
+      "image": "icantthinkofanything.png",
+      "slug": "icantthinkofanything",
+      "title": "i can't think of anything",
+      "year": "2002",
+      "number": "160"
+    },
+    {
+      "id": "2002.152",
+      "date": "2002-09-02",
+      "image": "ontopofthehill.png",
+      "slug": "ontopofthehill",
+      "title": "on top of the hill",
+      "year": "2002",
+      "number": "152"
+    },
+    {
+      "id": "2002.150",
+      "date": "2002-08-22",
+      "image": "thisisntadream3.png",
+      "slug": "thisisntadream3",
+      "title": "this isn't a dream",
+      "year": "2002",
+      "number": "150"
+    },
+    {
+      "id": "2002.149",
+      "date": "2002-08-22",
+      "image": "icantremember2.png",
+      "slug": "icantremember2",
+      "title": "i can't remember",
+      "year": "2002",
+      "number": "149"
+    },
+    {
+      "id": "2002.148",
+      "date": "2002-08-21",
+      "image": "haveawonderfulday.png",
+      "slug": "haveawonderfulday",
+      "title": "have a wonderful day!",
+      "year": "2002",
+      "number": "148"
+    }
+  ],
+  "Sky Blue": [
+    {
+      "id": "2003.56",
+      "date": "2003-03-13",
+      "image": "andyouarenext.png",
+      "slug": "andyouarenext",
+      "title": "and you are next",
+      "year": "2003",
+      "number": "56"
+    },
+    {
+      "id": "2003.54",
+      "date": "2003-03-04",
+      "image": "notassmallasyouthink.png",
+      "slug": "notassmallasyouthink",
+      "title": "not as small as you think",
+      "year": "2003",
+      "number": "54"
+    },
+    {
+      "id": "2003.47",
+      "date": "2003-03-04",
+      "image": "itmightmakeyoufeelbetter.png",
+      "slug": "itmightmakeyoufeelbetter",
+      "title": "it might make you feel better",
+      "year": "2003",
+      "number": "47"
+    },
+    {
+      "id": "2003.44",
+      "date": "2003-03-04",
+      "image": "itisawonderfulworld.png",
+      "slug": "itisawonderfulworld",
+      "title": "it is a wonderful world",
+      "year": "2003",
+      "number": "44"
+    },
+    {
+      "id": "2003.43",
+      "date": "2003-02-21",
+      "image": "cantletgo.png",
+      "slug": "cantletgo",
+      "title": "can't let go",
+      "year": "2003",
+      "number": "43"
+    },
+    {
+      "id": "2003.42",
+      "date": "2003-02-21",
+      "image": "getoutofmyhead.png",
+      "slug": "getoutofmyhead",
+      "title": "get out of my head",
+      "year": "2003",
+      "number": "42"
+    },
+    {
+      "id": "2003.37",
+      "date": "2003-02-18",
+      "image": "thatssomethingnew.png",
+      "slug": "thatssomethingnew",
+      "title": "that's something new",
+      "year": "2003",
+      "number": "37"
+    },
+    {
+      "id": "2003.31",
+      "date": "2003-02-06",
+      "image": "reachforthesky.png",
+      "slug": "reachforthesky",
+      "title": "reach for the sky",
+      "year": "2003",
+      "number": "31"
+    },
+    {
+      "id": "2003.22",
+      "date": "2003-01-29",
+      "image": "idontthinkgodlikesmevery.png",
+      "slug": "idonthinkgodlikesmevery",
+      "title": "i don't think god likes me very much today",
+      "year": "2003",
+      "number": "22"
+    },
+    {
+      "id": "2003.20",
+      "date": "2003-01-29",
+      "image": "ithinkwedranktoomuch.png",
+      "slug": "ithinkwedranktoomuch",
+      "title": "i think we drank too much",
+      "year": "2003",
+      "number": "20"
+    },
+    {
+      "id": "2003.15",
+      "date": "2003-01-17",
+      "image": "illkillyouwithmyknife.png",
+      "slug": "illkillyouwithmyknife",
+      "title": "i'll kill you with my knife!",
+      "year": "2003",
+      "number": "15"
+    },
+    {
+      "id": "2003.9",
+      "date": "2003-01-14",
+      "image": "sometimesijustwanttokill.png",
+      "slug": "sometimesijustwanttokill",
+      "title": "sometimes i just want to kill everyone",
+      "year": "2003",
+      "number": "9"
+    },
+    {
+      "id": "2003.5",
+      "date": "2003-01-02",
+      "image": "whycantirememberyourname.png",
+      "slug": "whycantirememberyourname",
+      "title": "why can't i remember your name?",
+      "year": "2003",
+      "number": "5"
+    },
+    {
+      "id": "2002.219",
+      "date": "2002-12-27",
+      "image": "youllloveittrustme2.png",
+      "slug": "youllloveittrustme2",
+      "title": "you'll love it, trust me",
+      "year": "2002",
+      "number": "219"
+    },
+    {
+      "id": "2002.217",
+      "date": "2002-12-27",
+      "image": "neverminditwasntimportant.png",
+      "slug": "neverminditwasntimportant",
+      "title": "nevermind, it wasn't important",
+      "year": "2002",
+      "number": "217"
+    },
+    {
+      "id": "2002.216",
+      "date": "2002-12-23",
+      "image": "iwouldbutiwantallofyou.png",
+      "slug": "iwouldbutiwantallofyou",
+      "title": "i would, but i want all of you",
+      "year": "2002",
+      "number": "216"
+    },
+    {
+      "id": "2002.212",
+      "date": "2002-12-20",
+      "image": "thatshighschoolphysics.png",
+      "slug": "thatshighschoolphysics",
+      "title": "that's high school physics",
+      "year": "2002",
+      "number": "212"
+    },
+    {
+      "id": "2002.206",
+      "date": "2002-12-18",
+      "image": "ithoughtyoulovedmemorethan.png",
+      "slug": "ithoughtyoulovedmemoretha",
+      "title": "i thought you loved me more than any thing, and i thought you would come back to me",
+      "year": "2002",
+      "number": "206"
+    },
+    {
+      "id": "2002.197",
+      "date": "2002-11-18",
+      "image": "ithurts.png",
+      "slug": "ithurts",
+      "title": "it hurts",
+      "year": "2002",
+      "number": "197"
+    },
+    {
+      "id": "2002.191",
+      "date": "2002-10-30",
+      "image": "sorrysnail.png",
+      "slug": "sorrysnail",
+      "title": "sorry snail",
+      "year": "2002",
+      "number": "191"
+    },
+    {
+      "id": "2002.188",
+      "date": "2002-10-29",
+      "image": "youwillneverknowthetruth.png",
+      "slug": "youwillneverknowthetruth",
+      "title": "you will never know the truth",
+      "year": "2002",
+      "number": "188"
+    },
+    {
+      "id": "2002.181",
+      "date": "2002-10-27",
+      "image": "ohthatswhy5.png",
+      "slug": "ohthatswhy5",
+      "title": "oh, that's why",
+      "year": "2002",
+      "number": "181"
+    },
+    {
+      "id": "2002.179",
+      "date": "2002-10-25",
+      "image": "imgladyouremyfriend.png",
+      "slug": "imgladyouremyfriend",
+      "title": "i'm glad you're my friend",
+      "year": "2002",
+      "number": "179"
+    },
+    {
+      "id": "2002.169",
+      "date": "2002-10-09",
+      "image": "dogheaven.png",
+      "slug": "dogheaven",
+      "title": "dog heaven",
+      "year": "2002",
+      "number": "169"
+    },
+    {
+      "id": "2002.168",
+      "date": "2002-10-08",
+      "image": "nothingbettertodo.png",
+      "slug": "nothingbettertodo",
+      "title": "nothing better to do",
+      "year": "2002",
+      "number": "168"
+    },
+    {
+      "id": "2002.157",
+      "date": "2002-09-12",
+      "image": "ihavemagicpowers.png",
+      "slug": "ihavemagicpowers",
+      "title": "I have magic powers!",
+      "year": "2002",
+      "number": "157"
+    },
+    {
+      "id": "2002.150",
+      "date": "2002-08-22",
+      "image": "thisisntadream3.png",
+      "slug": "thisisntadream3",
+      "title": "this isn't a dream",
+      "year": "2002",
+      "number": "150"
+    },
+    {
+      "id": "2002.149",
+      "date": "2002-08-22",
+      "image": "icantremember2.png",
+      "slug": "icantremember2",
+      "title": "i can't remember",
+      "year": "2002",
+      "number": "149"
+    }
+  ],
+  "Palette": [
+    {
+      "id": "2003.53",
+      "date": "2003-03-04",
+      "image": "thatsallthereis.png",
+      "slug": "thatsallthereis",
+      "title": "that's all there is",
+      "year": "2003",
+      "number": "53"
+    },
+    {
+      "id": "2003.47",
+      "date": "2003-03-04",
+      "image": "itmightmakeyoufeelbetter.png",
+      "slug": "itmightmakeyoufeelbetter",
+      "title": "it might make you feel better",
+      "year": "2003",
+      "number": "47"
+    },
+    {
+      "id": "2003.39",
+      "date": "2003-02-20",
+      "image": "ithinkijustlostmybestfriend.png",
+      "slug": "ithinkijustlostmybest",
+      "title": "i think i just lost my best friend",
+      "year": "2003",
+      "number": "39"
+    },
+    {
+      "id": "2003.37",
+      "date": "2003-02-18",
+      "image": "thatssomethingnew.png",
+      "slug": "thatssomethingnew",
+      "title": "that's something new",
+      "year": "2003",
+      "number": "37"
+    },
+    {
+      "id": "2003.30",
+      "date": "2003-02-06",
+      "image": "therewasnothingicoulddo.png",
+      "slug": "therewasnothingicoulddo",
+      "title": "there was nothing i could do",
+      "year": "2003",
+      "number": "30"
+    },
+    {
+      "id": "2003.20",
+      "date": "2003-01-29",
+      "image": "ithinkwedranktoomuch.png",
+      "slug": "ithinkwedranktoomuch",
+      "title": "i think we drank too much",
+      "year": "2003",
+      "number": "20"
+    },
+    {
+      "id": "2003.18",
+      "date": "2003-01-23",
+      "image": "maybeifyouturnitthisway.png",
+      "slug": "maybeifyouturnitthisway",
+      "title": "maybe if you turn it this way",
+      "year": "2003",
+      "number": "18"
+    },
+    {
+      "id": "2003.16",
+      "date": "2003-01-23",
+      "image": "todayisbetterthanyesterday.png",
+      "slug": "todayisbetterthanyesterday",
+      "title": "today is better than yesterday",
+      "year": "2003",
+      "number": "16"
+    },
+    {
+      "id": "2003.11",
+      "date": "2003-01-16",
+      "image": "findinggod.png",
+      "slug": "findinggod",
+      "title": "i thought that this is where i would find god",
+      "year": "2003",
+      "number": "11"
+    },
+    {
+      "id": "2002.221",
+      "date": "2002-12-31",
+      "image": "whywasilefthere.png",
+      "slug": "whywasilefthere",
+      "title": "why was i left here?",
+      "year": "2002",
+      "number": "221"
+    },
+    {
+      "id": "2002.218",
+      "date": "2002-12-27",
+      "image": "somethingsiforgot.png",
+      "slug": "somethingsiforgot",
+      "title": "somethings i forgot",
+      "year": "2002",
+      "number": "218"
+    },
+    {
+      "id": "2002.217",
+      "date": "2002-12-27",
+      "image": "neverminditwasntimportant.png",
+      "slug": "neverminditwasntimportant",
+      "title": "nevermind, it wasn't important",
+      "year": "2002",
+      "number": "217"
+    },
+    {
+      "id": "2002.215",
+      "date": "2002-12-23",
+      "image": "thesunwillrise.png",
+      "slug": "thesunwillrise",
+      "title": "the sun will rise",
+      "year": "2002",
+      "number": "215"
+    },
+    {
+      "id": "2002.212",
+      "date": "2002-12-20",
+      "image": "thatshighschoolphysics.png",
+      "slug": "thatshighschoolphysics",
+      "title": "that's high school physics",
+      "year": "2002",
+      "number": "212"
+    },
+    {
+      "id": "2003.14",
+      "date": "2003-01-17",
+      "image": "wellthatdidntwork.png",
+      "slug": "wellthatdidntwork",
+      "title": "well, that didn't work",
+      "year": "2003",
+      "number": "14"
+    },
+    {
+      "id": "2002.192",
+      "date": "2002-10-30",
+      "image": "youthinktoomuch.png",
+      "slug": "youthinktoomuch",
+      "title": "you think too much",
+      "year": "2002",
+      "number": "192"
+    },
+    {
+      "id": "2002.190",
+      "date": "2002-10-29",
+      "image": "iamthemasterevilgenius.png",
+      "slug": "iamthemasterevilgenius",
+      "title": "I am the master evil genius",
+      "year": "2002",
+      "number": "190"
+    },
+    {
+      "id": "2002.188",
+      "date": "2002-10-29",
+      "image": "youwillneverknowthetruth.png",
+      "slug": "youwillneverknowthetruth",
+      "title": "you will never know the truth",
+      "year": "2002",
+      "number": "188"
+    },
+    {
+      "id": "2002.181",
+      "date": "2002-10-27",
+      "image": "ohthatswhy5.png",
+      "slug": "ohthatswhy5",
+      "title": "oh, that's why",
+      "year": "2002",
+      "number": "181"
+    },
+    {
+      "id": "2002.179",
+      "date": "2002-10-25",
+      "image": "imgladyouremyfriend.png",
+      "slug": "imgladyouremyfriend",
+      "title": "i'm glad you're my friend",
+      "year": "2002",
+      "number": "179"
+    },
+    {
+      "id": "2002.177",
+      "date": "2002-10-24",
+      "image": "whatiswrongwithme.png",
+      "slug": "whatiswrongwithme",
+      "title": "what is wrong with me?",
+      "year": "2002",
+      "number": "177"
+    },
+    {
+      "id": "2002.174",
+      "date": "2002-10-24",
+      "image": "ireallyneedtolearnhowtodraw.png",
+      "slug": "ireallyneedtolearn",
+      "title": "i really need to learn how to draw, i am the worst ever",
+      "year": "2002",
+      "number": "174"
+    },
+    {
+      "id": "2002.173",
+      "date": "2002-10-22",
+      "image": "whydoifeelthisway.png",
+      "slug": "whydoifeelthisway",
+      "title": "why do i feel this way?",
+      "year": "2002",
+      "number": "173"
+    },
+    {
+      "id": "2002.168",
+      "date": "2002-10-08",
+      "image": "nothingbettertodo.png",
+      "slug": "nothingbettertodo",
+      "title": "nothing better to do",
+      "year": "2002",
+      "number": "168"
+    },
+    {
+      "id": "2002.156",
+      "date": "2002-09-12",
+      "image": "makessense.png",
+      "slug": "makessense",
+      "title": "makes sense... there's three people here",
+      "year": "2002",
+      "number": "156"
+    },
+    {
+      "id": "2002.150",
+      "date": "2002-08-22",
+      "image": "thisisntadream3.png",
+      "slug": "thisisntadream3",
+      "title": "this isn't a dream",
+      "year": "2002",
+      "number": "150"
+    },
+    {
+      "id": "2002.148",
+      "date": "2002-08-21",
+      "image": "haveawonderfulday.png",
+      "slug": "haveawonderfulday",
+      "title": "have a wonderful day!",
+      "year": "2002",
+      "number": "148"
+    }
+  ],
+  "DoNotLike": [
+    {
+      "id": "2003.51",
+      "date": "2003-03-04",
+      "image": "whatswithyourleg.png",
+      "slug": "whatswithyourleg",
+      "title": "whats with your leg?",
+      "year": "2003",
+      "number": "51"
+    },
+    {
+      "id": "2003.35",
+      "date": "2003-02-17",
+      "image": "itsawarbot.png",
+      "slug": "itsawarbot",
+      "title": "it's a warbot?",
+      "year": "2003",
+      "number": "35"
+    },
+    {
+      "id": "2003.21",
+      "date": "2003-01-29",
+      "image": "couldyoudrawapictureofbrit.png",
+      "slug": "couldyoudrawapictureofbrit",
+      "title": "could you draw a picture of britney spears picking her nose",
+      "year": "2003",
+      "number": "21"
+    }
+  ],
+  "Space": [
+    {
+      "id": "2003.49",
+      "date": "2003-03-04",
+      "image": "iamtoogoodforyourworld.png",
+      "slug": "iamtoogoodforyourworld",
+      "title": "i am too good for your world",
+      "year": "2003",
+      "number": "49"
+    },
+    {
+      "id": "2003.18",
+      "date": "2003-01-23",
+      "image": "maybeifyouturnitthisway.png",
+      "slug": "maybeifyouturnitthisway",
+      "title": "maybe if you turn it this way",
+      "year": "2003",
+      "number": "18"
+    }
+  ],
+  "Monster": [
+    {
+      "id": "2003.46",
+      "date": "2003-03-04",
+      "image": "heyyou3.png",
+      "slug": "heyyou3",
+      "title": "HEY YOU!!!",
+      "year": "2003",
+      "number": "46"
+    },
+    {
+      "id": "2002.185",
+      "date": "2002-10-28",
+      "image": "whatareyoudoingwithmy.png",
+      "slug": "whatareyoudoingwithmy",
+      "title": "what are you doing with my boyfriend?",
+      "year": "2002",
+      "number": "185"
+    },
+    {
+      "id": "2002.170",
+      "date": "2002-10-09",
+      "image": "maybeshellcallback2.png",
+      "slug": "maybeshellcallback2",
+      "title": "maybe she'll call back",
+      "year": "2002",
+      "number": "170"
+    }
+  ],
+  "Flying": [
+    {
+      "id": "2003.43",
+      "date": "2003-02-21",
+      "image": "cantletgo.png",
+      "slug": "cantletgo",
+      "title": "can't let go",
+      "year": "2003",
+      "number": "43"
+    },
+    {
+      "id": "2003.26",
+      "date": "2003-02-03",
+      "image": "thedaytheworldwentaway.png",
+      "slug": "thedaytheworldwentaway",
+      "title": "the day the world went away",
+      "year": "2003",
+      "number": "26"
+    },
+    {
+      "id": "2003.22",
+      "date": "2003-01-29",
+      "image": "idontthinkgodlikesmevery.png",
+      "slug": "idonthinkgodlikesmevery",
+      "title": "i don't think god likes me very much today",
+      "year": "2003",
+      "number": "22"
+    },
+    {
+      "id": "2003.10",
+      "date": "2003-01-16",
+      "image": "theonlywayisup2.png",
+      "slug": "theonlywayisup2",
+      "title": "the only way is up",
+      "year": "2003",
+      "number": "10"
+    },
+    {
+      "id": "2002.212",
+      "date": "2002-12-20",
+      "image": "thatshighschoolphysics.png",
+      "slug": "thatshighschoolphysics",
+      "title": "that's high school physics",
+      "year": "2002",
+      "number": "212"
+    }
+  ],
+  "Bird": [
+    {
+      "id": "2003.42",
+      "date": "2003-02-21",
+      "image": "getoutofmyhead.png",
+      "slug": "getoutofmyhead",
+      "title": "get out of my head",
+      "year": "2003",
+      "number": "42"
+    },
+    {
+      "id": "2002.185",
+      "date": "2002-10-28",
+      "image": "whatareyoudoingwithmy.png",
+      "slug": "whatareyoudoingwithmy",
+      "title": "what are you doing with my boyfriend?",
+      "year": "2002",
+      "number": "185"
+    },
+    {
+      "id": "2002.166",
+      "date": "2002-10-08",
+      "image": "ihavelosttomorrow2.png",
+      "slug": "ihavelosttomorrow2",
+      "title": "i have lost tomorrow",
+      "year": "2002",
+      "number": "166"
+    }
+  ],
+  "Purple": [
+    {
+      "id": "2003.34",
+      "date": "2003-02-17",
+      "image": "neversleepwalkalone.png",
+      "slug": "neversleepwalkalone",
+      "title": "we never sleepwalk alone",
+      "year": "2003",
+      "number": "34"
+    },
+    {
+      "id": "2002.211",
+      "date": "2002-12-20",
+      "image": "ignorehimheisnotgoodenough.png",
+      "slug": "ignorehimheisnotgoodenough",
+      "title": "ignore him, he is not good enough",
+      "year": "2002",
+      "number": "211"
+    }
+  ],
+  "Dog": [
+    {
+      "id": "2003.20",
+      "date": "2003-01-29",
+      "image": "ithinkwedranktoomuch.png",
+      "slug": "ithinkwedranktoomuch",
+      "title": "i think we drank too much",
+      "year": "2003",
+      "number": "20"
+    },
+    {
+      "id": "2003.17",
+      "date": "2003-01-23",
+      "image": "whycantiseeyou.png",
+      "slug": "whycantiseeyou",
+      "title": "why can't i see you?",
+      "year": "2003",
+      "number": "17"
+    },
+    {
+      "id": "2002.212",
+      "date": "2002-12-20",
+      "image": "thatshighschoolphysics.png",
+      "slug": "thatshighschoolphysics",
+      "title": "that's high school physics",
+      "year": "2002",
+      "number": "212"
+    },
+    {
+      "id": "2002.182",
+      "date": "2002-10-27",
+      "image": "whywouldyoudrawthat.png",
+      "slug": "whywouldyoudrawthat",
+      "title": "why would you draw that?",
+      "year": "2002",
+      "number": "182"
+    },
+    {
+      "id": "2002.169",
+      "date": "2002-10-09",
+      "image": "dogheaven.png",
+      "slug": "dogheaven",
+      "title": "dog heaven",
+      "year": "2002",
+      "number": "169"
+    },
+    {
+      "id": "2002.165",
+      "date": "2002-09-27",
+      "image": "skatedog.png",
+      "slug": "skatedog",
+      "title": "skate dog",
+      "year": "2002",
+      "number": "165"
+    }
+  ],
+  "Sun": [
+    {
+      "id": "2003.10",
+      "date": "2003-01-16",
+      "image": "theonlywayisup2.png",
+      "slug": "theonlywayisup2",
+      "title": "the only way is up",
+      "year": "2003",
+      "number": "10"
+    },
+    {
+      "id": "2002.218",
+      "date": "2002-12-27",
+      "image": "somethingsiforgot.png",
+      "slug": "somethingsiforgot",
+      "title": "somethings i forgot",
+      "year": "2002",
+      "number": "218"
+    },
+    {
+      "id": "2002.215",
+      "date": "2002-12-23",
+      "image": "thesunwillrise.png",
+      "slug": "thesunwillrise",
+      "title": "the sun will rise",
+      "year": "2002",
+      "number": "215"
+    },
+    {
+      "id": "2002.172",
+      "date": "2002-10-22",
+      "image": "youaremysunshine2.png",
+      "slug": "youaremysunshine2",
+      "title": "you are my sunshine",
+      "year": "2002",
+      "number": "172"
+    },
+    {
+      "id": "2002.165",
+      "date": "2002-09-27",
+      "image": "skatedog.png",
+      "slug": "skatedog",
+      "title": "skate dog",
+      "year": "2002",
+      "number": "165"
+    }
+  ],
+  "Flying Saucer": [
+    {
+      "id": "2002.211",
+      "date": "2002-12-20",
+      "image": "ignorehimheisnotgoodenough.png",
+      "slug": "ignorehimheisnotgoodenough",
+      "title": "ignore him, he is not good enough",
+      "year": "2002",
+      "number": "211"
+    },
+    {
+      "id": "2003.18",
+      "date": "2003-01-23",
+      "image": "maybeifyouturnitthisway.png",
+      "slug": "maybeifyouturnitthisway",
+      "title": "maybe if you turn it this way",
+      "year": "2003",
+      "number": "18"
+    }
+  ],
+  "Broken": [
+    {
+      "id": "2002.210",
+      "date": "2002-12-19",
+      "image": "ifitwereworthfixingitwould.png",
+      "slug": "ifitwereworthfixingitwould",
+      "title": "if it were worth fixing, it wouldn't break",
+      "year": "2002",
+      "number": "210"
+    },
+    {
+      "id": "2003.14",
+      "date": "2003-01-17",
+      "image": "wellthatdidntwork.png",
+      "slug": "wellthatdidntwork",
+      "title": "well, that didn't work",
+      "year": "2003",
+      "number": "14"
+    }
+  ],
+  "Nice": [
+    {
+      "id": "2002.202",
+      "date": "2002-12-02",
+      "image": "holycrap.png",
+      "slug": "holycrap",
+      "title": "holy crap",
+      "year": "2002",
+      "number": "202"
+    },
+    {
+      "id": "2002.192",
+      "date": "2002-10-30",
+      "image": "youthinktoomuch.png",
+      "slug": "youthinktoomuch",
+      "title": "you think too much",
+      "year": "2002",
+      "number": "192"
+    },
+    {
+      "id": "2002.190",
+      "date": "2002-10-29",
+      "image": "iamthemasterevilgenius.png",
+      "slug": "iamthemasterevilgenius",
+      "title": "I am the master evil genius",
+      "year": "2002",
+      "number": "190"
+    },
+    {
+      "id": "2002.188",
+      "date": "2002-10-29",
+      "image": "youwillneverknowthetruth.png",
+      "slug": "youwillneverknowthetruth",
+      "title": "you will never know the truth",
+      "year": "2002",
+      "number": "188"
+    },
+    {
+      "id": "2002.179",
+      "date": "2002-10-25",
+      "image": "imgladyouremyfriend.png",
+      "slug": "imgladyouremyfriend",
+      "title": "i'm glad you're my friend",
+      "year": "2002",
+      "number": "179"
+    },
+    {
+      "id": "2002.177",
+      "date": "2002-10-24",
+      "image": "whatiswrongwithme.png",
+      "slug": "whatiswrongwithme",
+      "title": "what is wrong with me?",
+      "year": "2002",
+      "number": "177"
+    },
+    {
+      "id": "2002.174",
+      "date": "2002-10-24",
+      "image": "ireallyneedtolearnhowtodraw.png",
+      "slug": "ireallyneedtolearn",
+      "title": "i really need to learn how to draw, i am the worst ever",
+      "year": "2002",
+      "number": "174"
+    },
+    {
+      "id": "2002.173",
+      "date": "2002-10-22",
+      "image": "whydoifeelthisway.png",
+      "slug": "whydoifeelthisway",
+      "title": "why do i feel this way?",
+      "year": "2002",
+      "number": "173"
+    },
+    {
+      "id": "2002.168",
+      "date": "2002-10-08",
+      "image": "nothingbettertodo.png",
+      "slug": "nothingbettertodo",
+      "title": "nothing better to do",
+      "year": "2002",
+      "number": "168"
+    },
+    {
+      "id": "2002.160",
+      "date": "2002-09-13",
+      "image": "icantthinkofanything.png",
+      "slug": "icantthinkofanything",
+      "title": "i can't think of anything",
+      "year": "2002",
+      "number": "160"
+    },
+    {
+      "id": "2002.148",
+      "date": "2002-08-21",
+      "image": "haveawonderfulday.png",
+      "slug": "haveawonderfulday",
+      "title": "have a wonderful day!",
+      "year": "2002",
+      "number": "148"
+    }
+  ],
+  "Blood": [
+    {
+      "id": "2002.183",
+      "date": "2002-10-27",
+      "image": "idoitbecauseeveryone.png",
+      "slug": "idoitbecauseeveryone",
+      "title": "i do it because everyone says i should",
+      "year": "2002",
+      "number": "183"
+    },
+    {
+      "id": "2002.181",
+      "date": "2002-10-27",
+      "image": "ohthatswhy5.png",
+      "slug": "ohthatswhy5",
+      "title": "oh, that's why",
+      "year": "2002",
+      "number": "181"
+    },
+    {
+      "id": "2002.166",
+      "date": "2002-10-08",
+      "image": "ihavelosttomorrow2.png",
+      "slug": "ihavelosttomorrow2",
+      "title": "i have lost tomorrow",
+      "year": "2002",
+      "number": "166"
+    }
+  ],
+  "Rainbow": [
+    {
+      "id": "2002.181",
+      "date": "2002-10-27",
+      "image": "ohthatswhy5.png",
+      "slug": "ohthatswhy5",
+      "title": "oh, that's why",
+      "year": "2002",
+      "number": "181"
+    },
+    {
+      "id": "2002.171",
+      "date": "2002-10-22",
+      "image": "everyoneelseisreallyboring.png",
+      "slug": "everyoneelseisreallyboring",
+      "title": "every one else is really boring",
+      "year": "2002",
+      "number": "171"
+    }
+  ],
+  "Beige": [
+    {
+      "id": "2002.174",
+      "date": "2002-10-24",
+      "image": "ireallyneedtolearnhowtodraw.png",
+      "slug": "ireallyneedtolearn",
+      "title": "i really need to learn how to draw, i am the worst ever",
+      "year": "2002",
+      "number": "174"
+    }
+  ],
+  "Curb": [
+    {
+      "id": "2002.167",
+      "date": "2002-10-08",
+      "image": "itspoopagain.png",
+      "slug": "itspoopagain",
+      "title": "it's poop again",
+      "year": "2002",
+      "number": "167"
+    }
+  ],
+  "Ocean": [
+    {
+      "id": "2002.164",
+      "date": "2002-09-27",
+      "image": "heywhendidyougethome.png",
+      "slug": "heywhendidyougethome",
+      "title": "hey... when did you get home?",
+      "year": "2002",
+      "number": "164"
+    },
+    {
+      "id": "2002.149",
+      "date": "2002-08-22",
+      "image": "icantremember2.png",
+      "slug": "icantremember2",
+      "title": "i can't remember",
+      "year": "2002",
+      "number": "149"
+    }
+  ],
+  "Cliff": [
+    {
+      "id": "2002.152",
+      "date": "2002-09-02",
+      "image": "ontopofthehill.png",
+      "slug": "ontopofthehill",
+      "title": "on top of the hill",
+      "year": "2002",
+      "number": "152"
+    },
+    {
+      "id": "2002.148",
+      "date": "2002-08-21",
+      "image": "haveawonderfulday.png",
+      "slug": "haveawonderfulday",
+      "title": "have a wonderful day!",
+      "year": "2002",
+      "number": "148"
+    }
+  ],
+  "Bomb": [
+    {
+      "id": "2002.148",
+      "date": "2002-08-21",
+      "image": "haveawonderfulday.png",
+      "slug": "haveawonderfulday",
+      "title": "have a wonderful day!",
+      "year": "2002",
+      "number": "148"
+    }
+  ]
+}
