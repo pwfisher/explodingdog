@@ -37,7 +37,7 @@ export const DrawingPage: React.FC<{ drawing: Drawing, year: number }> = ({ draw
   }
 
   return (
-    <PageLayout title={`explodingdog ${year}`} showHeader={false} showFooter={false}>
+    <PageLayout title={drawing.title} showHeader={false} showFooter={false}>
       <Div100vh>
         <Container onKeyDown={onKeyDown} tabIndex={-1}>
           <Title>{drawing.title}</Title>
