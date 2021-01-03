@@ -2,18 +2,22 @@ import React from 'react'
 import styled from 'styled-components'
 import { navBarItemStyles } from './styles'
 import { useCookies } from 'react-cookie'
+import { Drawing } from '../../types'
+import { AddTagModal } from './AddTagModal'
 
 type Action = {
   title: string
   onClick: () => void
 }
 
-export const ActionsMenu: React.FC = () => {
+export const ActionsMenu: React.FC<{ drawing: Drawing }> = ({ drawing }) => {
   const [isActive, setIsActive] = React.useState(false)
   const [cookies] = useCookies(['feature__myTags'])
   const [actions, setActions] = React.useState<Action[]>([])
+  const [isAddTagModalOpen, setIsAddTagModalOpen] = React.useState(false)
 
-  const addNewTag = { title: 'Add new tag', onClick: () => alert('add new tag') }
+  const toggleAddTagModal = () => setIsAddTagModalOpen(!isAddTagModalOpen)
+  const addNewTag = { title: 'Add hashtags', onClick: toggleAddTagModal }
 
   React.useEffect(() => {
     const newActions = []
@@ -22,18 +26,21 @@ export const ActionsMenu: React.FC = () => {
   }, [cookies])
 
   return (
-    <Container title='Actions' onClick={() => setIsActive(!isActive)} isHidden={!actions.length}>
-      <svg viewBox="0 0 24 24">
-        <circle cx="5" cy="12" r="2" />
-        <circle cx="12" cy="12" r="2" />
-        <circle cx="19" cy="12" r="2" />
-      </svg>
-      <Popup isActive={isActive}>
-        {actions.map(action => (
-          <Item key={action.title}><a onClick={action.onClick}>{action.title}</a></Item>
-        ))}
-      </Popup>
-    </Container>
+    <>
+      <Container title='Actions' onClick={() => setIsActive(!isActive)} isHidden={!actions.length}>
+        <svg viewBox="0 0 24 24">
+          <circle cx="5" cy="12" r="2" />
+          <circle cx="12" cy="12" r="2" />
+          <circle cx="19" cy="12" r="2" />
+        </svg>
+        <Popup isActive={isActive}>
+          {actions.map(action => (
+            <Item key={action.title}><a onClick={action.onClick}>{action.title}</a></Item>
+          ))}
+        </Popup>
+      </Container>
+      <AddTagModal drawing={drawing} isOpen={isAddTagModalOpen} closeModal={toggleAddTagModal} />
+    </>
   )
 }
 
@@ -61,4 +68,6 @@ const Popup = styled.div.attrs({ className: 'Explorer__ActionsMenu__Popup'})<{ i
   width: 200px;
 `
 
-const Item = styled.div.attrs({ className: 'Explorer__ActionsMenu__Item'})``
+const Item = styled.div.attrs({ className: 'Explorer__ActionsMenu__Item'})`
+  font-size: 24px;
+`

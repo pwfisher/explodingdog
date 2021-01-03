@@ -57,7 +57,7 @@ export const DrawingPage: React.FC<{ drawing: Drawing, year: number }> = ({ draw
             <Link href="/day/[id]" as={`/day/${drawing.date}`}>
               <DateLink title={`Drawings for ${drawing.date}`}><b>{drawing.date.slice(5)}</b></DateLink>
             </Link>
-            <ActionsMenu />
+            <ActionsMenu drawing={drawing} />
             <Link href="/drawing/[id]" as={`/drawing/${getNextSlug(drawing.slug)}`}>
               <ArrowButton title='Next'><RightArrow /></ArrowButton>
             </Link>
