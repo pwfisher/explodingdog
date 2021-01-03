@@ -5,6 +5,7 @@ import { useCookies } from 'react-cookie'
 import { Drawing } from '../../types'
 import { AddTagModal } from './AddTagModal'
 import { ExportTagsModal } from './ExportTagsModal'
+import Link from 'next/link'
 
 type Action = {
   title: string
@@ -32,13 +33,14 @@ export const ActionsMenu: React.FC<{ drawing: Drawing }> = ({ drawing }) => {
 
   return (
     <>
-      <Container title='Actions' onClick={() => setIsActive(!isActive)} isHidden={!actions.length}>
+      <Container title='Actions' onClick={() => setIsActive(!isActive)}>
         <svg viewBox="0 0 24 24">
           <circle cx="5" cy="12" r="2" />
           <circle cx="12" cy="12" r="2" />
           <circle cx="19" cy="12" r="2" />
         </svg>
         <Popup isActive={isActive}>
+          <Link href='/'><Item>Home</Item></Link>
           {actions.map(action => (
             <Item key={action.title} onClick={action.onClick}>{action.title}</Item>
           ))}
@@ -50,11 +52,10 @@ export const ActionsMenu: React.FC<{ drawing: Drawing }> = ({ drawing }) => {
   )
 }
 
-const Container = styled.button.attrs({ className: 'Explorer__ActionsMenu__Container'})<{ isHidden: boolean }>`
+const Container = styled.button.attrs({ className: 'Explorer__ActionsMenu__Container'})`
   ${navBarItemStyles}
   background: none;
   border: 0;
-  display: ${o => o.isHidden && 'none'};
 
   svg {
     display: block;
