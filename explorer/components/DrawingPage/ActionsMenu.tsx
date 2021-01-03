@@ -2,8 +2,17 @@ import React from 'react'
 import styled from 'styled-components'
 import { navBarItemStyles } from './styles'
 
+type Action = {
+  title: string
+  onClick: () => void
+}
+
 export const ActionsMenu: React.FC = () => {
   const [isActive, setIsActive] = React.useState(false)
+
+  const actions: Action[] = []
+
+  if (!actions.length) return null
 
   return (
     <Container title='More Actions' onClick={() => setIsActive(!isActive)}>
@@ -13,7 +22,9 @@ export const ActionsMenu: React.FC = () => {
         <circle cx="19" cy="12" r="2" />
       </svg>
       <Popup isActive={isActive}>
-        <Item>No actions available</Item>
+        {actions.map(action => (
+          <Item><a onClick={action.onClick}>{action.title}</a></Item>
+        ))}
       </Popup>
     </Container>
   )
