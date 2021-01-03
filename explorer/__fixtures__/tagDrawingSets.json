@@ -253,6 +253,15 @@
       "title": "It took a while to notice that he went away",
       "year": "2001",
       "number": "211"
+    },
+    {
+      "id": "2001.203",
+      "date": "2001-09-18",
+      "image": "madesensetous.png",
+      "slug": "madesense",
+      "title": "It made sense to us at the time",
+      "year": "2001",
+      "number": "203"
     }
   ],
   "Knife": [
@@ -594,6 +603,15 @@
       "title": "Doctors don't want to cure me",
       "year": "2001",
       "number": "213"
+    },
+    {
+      "id": "2001.210",
+      "date": "2001-09-19",
+      "image": "feelbetter.png",
+      "slug": "feelbetter",
+      "title": "I wanted to make you feel better",
+      "year": "2001",
+      "number": "210"
     }
   ],
   "Expansive": [
@@ -974,6 +992,15 @@
       "title": "Doctors don't want to cure me",
       "year": "2001",
       "number": "213"
+    },
+    {
+      "id": "2001.207",
+      "date": "2001-09-19",
+      "image": "changedeverything.png",
+      "slug": "changedeverthing",
+      "title": "something we did changed everything",
+      "year": "2001",
+      "number": "207"
     }
   ],
   "Robot": [
@@ -1165,6 +1192,15 @@
       "title": "we fought for our country",
       "year": "2002",
       "number": "40"
+    },
+    {
+      "id": "2001.203",
+      "date": "2001-09-18",
+      "image": "madesensetous.png",
+      "slug": "madesense",
+      "title": "It made sense to us at the time",
+      "year": "2001",
+      "number": "203"
     }
   ],
   "Rocket": [
@@ -1547,6 +1583,24 @@
       "title": "I wanted to make you feel better",
       "year": "2001",
       "number": "210"
+    },
+    {
+      "id": "2001.203",
+      "date": "2001-09-18",
+      "image": "madesensetous.png",
+      "slug": "madesense",
+      "title": "It made sense to us at the time",
+      "year": "2001",
+      "number": "203"
+    },
+    {
+      "id": "2001.208",
+      "date": "2001-09-19",
+      "image": "believeinme.png",
+      "slug": "believeme",
+      "title": "I told you not to believe in me.",
+      "year": "2001",
+      "number": "208"
     }
   ],
   "HomePage": [
@@ -1612,6 +1666,15 @@
       "title": "Doctors don't want to cure me",
       "year": "2001",
       "number": "213"
+    },
+    {
+      "id": "2001.210",
+      "date": "2001-09-19",
+      "image": "feelbetter.png",
+      "slug": "feelbetter",
+      "title": "I wanted to make you feel better",
+      "year": "2001",
+      "number": "210"
     }
   ],
   "Machine": [
@@ -2205,6 +2268,15 @@
       "title": "Doctors don't want to cure me",
       "year": "2001",
       "number": "213"
+    },
+    {
+      "id": "2001.204",
+      "date": "2001-09-18",
+      "image": "onlythingleft.png",
+      "slug": "onlythingleft",
+      "title": "This is the only thing i have left",
+      "year": "2001",
+      "number": "204"
     }
   ],
   "Clouds": [
@@ -2621,6 +2693,15 @@
       "title": "i thought i could",
       "year": "2001",
       "number": "220"
+    },
+    {
+      "id": "2001.203",
+      "date": "2001-09-18",
+      "image": "madesensetous.png",
+      "slug": "madesense",
+      "title": "It made sense to us at the time",
+      "year": "2001",
+      "number": "203"
     }
   ],
   "Sky Blue": [
@@ -3109,6 +3190,24 @@
       "title": "Doctors don't want to cure me",
       "year": "2001",
       "number": "213"
+    },
+    {
+      "id": "2001.203",
+      "date": "2001-09-18",
+      "image": "madesensetous.png",
+      "slug": "madesense",
+      "title": "It made sense to us at the time",
+      "year": "2001",
+      "number": "203"
+    },
+    {
+      "id": "2001.205",
+      "date": "2001-09-18",
+      "image": "outofthewoods.png",
+      "slug": "outofthewoods",
+      "title": "I didn't understand until I got out of the woods",
+      "year": "2001",
+      "number": "205"
     }
   ],
   "Palette": [
@@ -3705,6 +3804,42 @@
       "title": "It took a while to notice that he went away",
       "year": "2001",
       "number": "211"
+    },
+    {
+      "id": "2001.208",
+      "date": "2001-09-19",
+      "image": "believeinme.png",
+      "slug": "believeme",
+      "title": "I told you not to believe in me.",
+      "year": "2001",
+      "number": "208"
+    },
+    {
+      "id": "2001.207",
+      "date": "2001-09-19",
+      "image": "changedeverything.png",
+      "slug": "changedeverthing",
+      "title": "something we did changed everything",
+      "year": "2001",
+      "number": "207"
+    },
+    {
+      "id": "2001.204",
+      "date": "2001-09-18",
+      "image": "onlythingleft.png",
+      "slug": "onlythingleft",
+      "title": "This is the only thing i have left",
+      "year": "2001",
+      "number": "204"
+    },
+    {
+      "id": "2001.203",
+      "date": "2001-09-18",
+      "image": "madesensetous.png",
+      "slug": "madesense",
+      "title": "It made sense to us at the time",
+      "year": "2001",
+      "number": "203"
     }
   ],
   "DoNotLike": [
@@ -4001,6 +4136,15 @@
       "title": "i thought i could",
       "year": "2001",
       "number": "220"
+    },
+    {
+      "id": "2001.207",
+      "date": "2001-09-19",
+      "image": "changedeverything.png",
+      "slug": "changedeverthing",
+      "title": "something we did changed everything",
+      "year": "2001",
+      "number": "207"
     }
   ],
   "Bird": [
@@ -4104,6 +4248,15 @@
       "title": "temporary happiness",
       "year": "2001",
       "number": "230"
+    },
+    {
+      "id": "2001.209",
+      "date": "2001-09-19",
+      "image": "heisourhero.png",
+      "slug": "heisourhero",
+      "title": "He is our hero",
+      "year": "2001",
+      "number": "209"
     }
   ],
   "Dog": [
@@ -4234,6 +4387,15 @@
       "title": "is it for me?",
       "year": "2002",
       "number": "59"
+    },
+    {
+      "id": "2001.207",
+      "date": "2001-09-19",
+      "image": "changedeverything.png",
+      "slug": "changedeverthing",
+      "title": "something we did changed everything",
+      "year": "2001",
+      "number": "207"
     }
   ],
   "Flying Saucer": [
@@ -4744,6 +4906,33 @@
       "title": "I wanted to make you feel better",
       "year": "2001",
       "number": "210"
+    },
+    {
+      "id": "2001.207",
+      "date": "2001-09-19",
+      "image": "changedeverything.png",
+      "slug": "changedeverthing",
+      "title": "something we did changed everything",
+      "year": "2001",
+      "number": "207"
+    },
+    {
+      "id": "2001.204",
+      "date": "2001-09-18",
+      "image": "onlythingleft.png",
+      "slug": "onlythingleft",
+      "title": "This is the only thing i have left",
+      "year": "2001",
+      "number": "204"
+    },
+    {
+      "id": "2001.203",
+      "date": "2001-09-18",
+      "image": "madesensetous.png",
+      "slug": "madesense",
+      "title": "It made sense to us at the time",
+      "year": "2001",
+      "number": "203"
     }
   ],
   "Blood": [
@@ -4883,6 +5072,24 @@
       "title": "I wanted to make you feel better",
       "year": "2001",
       "number": "210"
+    },
+    {
+      "id": "2001.207",
+      "date": "2001-09-19",
+      "image": "changedeverything.png",
+      "slug": "changedeverthing",
+      "title": "something we did changed everything",
+      "year": "2001",
+      "number": "207"
+    },
+    {
+      "id": "2001.206",
+      "date": "2001-09-18",
+      "image": "justabox.png",
+      "slug": "justabox",
+      "title": "yesterday it was just a box",
+      "year": "2001",
+      "number": "206"
     }
   ],
   "Beige": [
@@ -5416,6 +5623,15 @@
       "title": "glad you are here",
       "year": "2001",
       "number": "221"
+    },
+    {
+      "id": "2001.209",
+      "date": "2001-09-19",
+      "image": "heisourhero.png",
+      "slug": "heisourhero",
+      "title": "He is our hero",
+      "year": "2001",
+      "number": "209"
     }
   ],
   "Scale": [
@@ -5586,6 +5802,15 @@
       "title": "I wanted to make you feel better",
       "year": "2001",
       "number": "210"
+    },
+    {
+      "id": "2001.206",
+      "date": "2001-09-18",
+      "image": "justabox.png",
+      "slug": "justabox",
+      "title": "yesterday it was just a box",
+      "year": "2001",
+      "number": "206"
     }
   ],
   "Funny": [
@@ -5669,6 +5894,15 @@
       "title": "Doctors don't want to cure me",
       "year": "2001",
       "number": "213"
+    },
+    {
+      "id": "2001.203",
+      "date": "2001-09-18",
+      "image": "madesensetous.png",
+      "slug": "madesense",
+      "title": "It made sense to us at the time",
+      "year": "2001",
+      "number": "203"
     }
   ],
   "TV": [
@@ -5858,6 +6092,15 @@
       "title": "every day i worry about something",
       "year": "2001",
       "number": "227"
+    },
+    {
+      "id": "2001.204",
+      "date": "2001-09-18",
+      "image": "onlythingleft.png",
+      "slug": "onlythingleft",
+      "title": "This is the only thing i have left",
+      "year": "2001",
+      "number": "204"
     }
   ],
   "Green": [
@@ -5889,6 +6132,15 @@
       "title": "you need to get to work, young man",
       "year": "2001",
       "number": "216"
+    },
+    {
+      "id": "2001.209",
+      "date": "2001-09-19",
+      "image": "heisourhero.png",
+      "slug": "heisourhero",
+      "title": "He is our hero",
+      "year": "2001",
+      "number": "209"
     }
   ],
   "Grass": [
@@ -5942,6 +6194,33 @@
       "title": "stupid decisions",
       "year": "2001",
       "number": "228"
+    },
+    {
+      "id": "2001.208",
+      "date": "2001-09-19",
+      "image": "believeinme.png",
+      "slug": "believeme",
+      "title": "I told you not to believe in me.",
+      "year": "2001",
+      "number": "208"
+    },
+    {
+      "id": "2001.207",
+      "date": "2001-09-19",
+      "image": "changedeverything.png",
+      "slug": "changedeverthing",
+      "title": "something we did changed everything",
+      "year": "2001",
+      "number": "207"
+    },
+    {
+      "id": "2001.206",
+      "date": "2001-09-18",
+      "image": "justabox.png",
+      "slug": "justabox",
+      "title": "yesterday it was just a box",
+      "year": "2001",
+      "number": "206"
     }
   ],
   "Interesting": [
@@ -5962,6 +6241,24 @@
       "title": "i sure hope those computers know something i don't know",
       "year": "2001",
       "number": "225"
+    },
+    {
+      "id": "2001.204",
+      "date": "2001-09-18",
+      "image": "onlythingleft.png",
+      "slug": "onlythingleft",
+      "title": "This is the only thing i have left",
+      "year": "2001",
+      "number": "204"
+    },
+    {
+      "id": "2001.203",
+      "date": "2001-09-18",
+      "image": "madesensetous.png",
+      "slug": "madesense",
+      "title": "It made sense to us at the time",
+      "year": "2001",
+      "number": "203"
     }
   ],
   "Sad": [
@@ -5973,6 +6270,15 @@
       "title": "where's my ambition gone?",
       "year": "2001",
       "number": "226"
+    },
+    {
+      "id": "2001.205",
+      "date": "2001-09-18",
+      "image": "outofthewoods.png",
+      "slug": "outofthewoods",
+      "title": "I didn't understand until I got out of the woods",
+      "year": "2001",
+      "number": "205"
     }
   ],
   "Cage": [
@@ -6112,6 +6418,112 @@
       "title": "It took a while to notice that he went away",
       "year": "2001",
       "number": "211"
+    }
+  ],
+  "Fail": [
+    {
+      "id": "2001.208",
+      "date": "2001-09-19",
+      "image": "believeinme.png",
+      "slug": "believeme",
+      "title": "I told you not to believe in me.",
+      "year": "2001",
+      "number": "208"
+    }
+  ],
+  "Magic": [
+    {
+      "id": "2001.206",
+      "date": "2001-09-18",
+      "image": "justabox.png",
+      "slug": "justabox",
+      "title": "yesterday it was just a box",
+      "year": "2001",
+      "number": "206"
+    }
+  ],
+  "Rain": [
+    {
+      "id": "2001.205",
+      "date": "2001-09-18",
+      "image": "outofthewoods.png",
+      "slug": "outofthewoods",
+      "title": "I didn't understand until I got out of the woods",
+      "year": "2001",
+      "number": "205"
+    }
+  ],
+  "Treasure": [
+    {
+      "id": "2001.204",
+      "date": "2001-09-18",
+      "image": "onlythingleft.png",
+      "slug": "onlythingleft",
+      "title": "This is the only thing i have left",
+      "year": "2001",
+      "number": "204"
+    },
+    {
+      "id": "2001.206",
+      "date": "2001-09-18",
+      "image": "justabox.png",
+      "slug": "justabox",
+      "title": "yesterday it was just a box",
+      "year": "2001",
+      "number": "206"
+    }
+  ],
+  "Sitting": [
+    {
+      "id": "2001.202",
+      "date": "2001-09-18",
+      "image": "sithere.png",
+      "slug": "sithere",
+      "title": "right now I just want to sit here",
+      "year": "2001",
+      "number": "202"
+    },
+    {
+      "id": "2001.208",
+      "date": "2001-09-19",
+      "image": "believeinme.png",
+      "slug": "believeme",
+      "title": "I told you not to believe in me.",
+      "year": "2001",
+      "number": "208"
+    }
+  ],
+  "Reading": [
+    {
+      "id": "2001.208",
+      "date": "2001-09-19",
+      "image": "believeinme.png",
+      "slug": "believeme",
+      "title": "I told you not to believe in me.",
+      "year": "2001",
+      "number": "208"
+    }
+  ],
+  "Bushes": [
+    {
+      "id": "2001.205",
+      "date": "2001-09-18",
+      "image": "outofthewoods.png",
+      "slug": "outofthewoods",
+      "title": "I didn't understand until I got out of the woods",
+      "year": "2001",
+      "number": "205"
+    }
+  ],
+  "Confused": [
+    {
+      "id": "2001.205",
+      "date": "2001-09-18",
+      "image": "outofthewoods.png",
+      "slug": "outofthewoods",
+      "title": "I didn't understand until I got out of the woods",
+      "year": "2001",
+      "number": "205"
     }
   ]
 }
