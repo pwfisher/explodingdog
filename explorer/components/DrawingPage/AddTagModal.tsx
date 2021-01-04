@@ -2,7 +2,12 @@ import React from 'react'
 import styled from 'styled-components'
 import { Drawing, TagDrawingSets } from '../../types'
 import Modal from 'react-modal'
-import { addTagToDrawing, loadTagDrawingSets, drawingHasTag, removeTagFromDrawing } from '../../lib/hashtags'
+import {
+  addMyTagToDrawing,
+  drawingHasMyTag,
+  loadMyTagDrawingSets,
+  removeMyTagFromDrawing,
+} from '../../lib/hashtags'
 
 export const AddTagModal: React.FC<{ drawing: Drawing; isOpen: boolean; closeModal: () => void }> = ({
   drawing,
@@ -12,12 +17,12 @@ export const AddTagModal: React.FC<{ drawing: Drawing; isOpen: boolean; closeMod
   const [newTag, setNewTag] = React.useState('')
   const [tagDrawingSets, setTagDrawingSets] = React.useState<TagDrawingSets>({})
 
-  React.useEffect(() => setTagDrawingSets(loadTagDrawingSets()), [isOpen])
+  React.useEffect(() => setTagDrawingSets(loadMyTagDrawingSets()), [isOpen])
 
   function onNewTagSubmit(e: React.FormEvent<HTMLFormElement>) {
-    addTagToDrawing(newTag, drawing)
+    addMyTagToDrawing(newTag, drawing)
     setNewTag('')
-    setTagDrawingSets(loadTagDrawingSets())
+    setTagDrawingSets(loadMyTagDrawingSets())
     e.preventDefault()
   }
   const tags = Object.keys(tagDrawingSets)
@@ -41,10 +46,12 @@ export const AddTagModal: React.FC<{ drawing: Drawing; isOpen: boolean; closeMod
               <label>
                 <input
                   type='checkbox'
-                  checked={drawingHasTag(drawing, tag)}
+                  checked={drawingHasMyTag(drawing, tag)}
                   onChange={e => {
-                    e.currentTarget.checked ? addTagToDrawing(tag, drawing) : removeTagFromDrawing(tag, drawing)
-                    setTagDrawingSets(loadTagDrawingSets())
+                    e.currentTarget.checked
+                      ? addMyTagToDrawing(tag, drawing)
+                      : removeMyTagFromDrawing(tag, drawing)
+                    setTagDrawingSets(loadMyTagDrawingSets())
                   }}
                 /> {tag}
               </label>
@@ -86,6 +93,10 @@ const Tag = styled.li.attrs({ classNames: 'Explorer__AddTagModal__Tag' })`
     content: '·';
     display: inline-block;
     opacity: 0.3;
+  }
+
+  &:last-child::after {
+    display: none;
   }
 
   label {

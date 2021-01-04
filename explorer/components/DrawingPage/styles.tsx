@@ -94,3 +94,23 @@ export const DrawingLink = styled.a.attrs({ className: 'Explorer__DrawingPage__D
 export const DateLink = styled.a.attrs({ classNamne: 'Explorer__DrawingPage__Date'})`
   ${navBarItemStyles}
 `
+
+export const TagList = styled.ul.attrs({ classNames: 'Explorer__DrawingPage__TagList'})`
+  align-self: center;
+`
+
+export const Tag = styled.li.attrs({ classNames: 'Explorer__DrawingPage__Tag'})`
+  display: inline-block;
+  font-size: 12px;
+  margin: 0 4px;
+
+  &::after {
+    content: '·';
+    display: inline-block;
+    margin: 0 0 0 4px;
+  }
+
+  &:last-child::after {
+    display: none;
+  }
+`

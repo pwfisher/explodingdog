@@ -1,13 +1,13 @@
 import React from 'react'
 import styled, { css } from 'styled-components'
 import Modal from 'react-modal'
-import { loadTagDrawingSets, saveTagDrawingSetsString } from '../../lib/hashtags'
+import { loadMyTagDrawingSets, saveMyTagDrawingSetsString } from '../../lib/hashtags'
 
 export const ExportTagsModal: React.FC<{ isOpen: boolean; closeModal: () => void }> = ({
   isOpen,
   closeModal,
 }) => {
-  const tagDrawingSets = loadTagDrawingSets()
+  const tagDrawingSets = loadMyTagDrawingSets()
   const initialExportString = JSON.stringify(tagDrawingSets, null, 2)
 
   // exportString state powers selectAll
@@ -23,7 +23,7 @@ export const ExportTagsModal: React.FC<{ isOpen: boolean; closeModal: () => void
   // Edits in textarea are written to localStorage
   function onChange(e: React.ChangeEvent<HTMLTextAreaElement>) {
     setExportString(e.currentTarget.value)
-    saveTagDrawingSetsString(e.currentTarget.value)
+    saveMyTagDrawingSetsString(e.currentTarget.value)
   }
 
   return (

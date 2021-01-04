@@ -46,8 +46,12 @@ export const ActionsMenu: React.FC<{ drawing: Drawing }> = ({ drawing }) => {
           ))}
         </Popup>
       </Container>
-      <AddTagModal drawing={drawing} isOpen={isAddTagModalOpen} closeModal={toggleAddTagModal} />
-      <ExportTagsModal isOpen={isExportTagsModalOpen} closeModal={toggleExportTagsModal} />
+      {isAddTagModalOpen && (
+        <AddTagModal drawing={drawing} isOpen={isAddTagModalOpen} closeModal={toggleAddTagModal} />
+      )}
+      {isExportTagsModalOpen && (
+        <ExportTagsModal isOpen={isExportTagsModalOpen} closeModal={toggleExportTagsModal} />
+      )}
     </>
   )
 }

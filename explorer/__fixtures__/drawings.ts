@@ -28,7 +28,7 @@ export const yearDrawingSets: YearDrawingSets = drawingYears
       const [year, number] = drawing.id.split('.')
       return { ...drawing, year, number }
     })
-    accumulator[year] = processedYearSet.sort((a, b) => b.number - a.number)
+    accumulator[year] = processedYearSet.sort((a, b) => b.number.localeCompare(a.number))
     return accumulator
   }, {} as any) as YearDrawingSets
 
