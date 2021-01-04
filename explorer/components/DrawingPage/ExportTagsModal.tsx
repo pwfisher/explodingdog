@@ -1,29 +1,28 @@
 import React from 'react'
 import styled, { css } from 'styled-components'
 import Modal from 'react-modal'
-import { loadMyTagDrawingSets, saveMyTagDrawingSetsString } from '../../lib/hashtags'
+import { MyTagsContainer } from '../../containers/MyTags'
+import { TagDrawingSets } from '../../types'
 
 export const ExportTagsModal: React.FC<{ isOpen: boolean; closeModal: () => void }> = ({
   isOpen,
   closeModal,
 }) => {
-  const tagDrawingSets = loadMyTagDrawingSets()
-  const initialExportString = JSON.stringify(tagDrawingSets, null, 2)
-
-  // exportString state powers selectAll
-  const [exportString, setExportString] = React.useState(initialExportString)
+  const { myTagDrawingSets, saveMyTagDrawingSets } = MyTagsContainer.useContainer()
+  const storedValue: string = JSON.stringify(myTagDrawingSets, null, 2)
   const [showCopySuccess, setShowCopySuccess] = React.useState(false)
 
   function selectAll() {
-    navigator.clipboard.writeText(exportString)
+    navigator.clipboard.writeText(storedValue)
     setShowCopySuccess(true)
     setTimeout(() => setShowCopySuccess(false), 2000)
   }
 
-  // Edits in textarea are written to localStorage
+  // Valid edits in textarea are written to localStorage
   function onChange(e: React.ChangeEvent<HTMLTextAreaElement>) {
-    setExportString(e.currentTarget.value)
-    saveMyTagDrawingSetsString(e.currentTarget.value)
+    try {
+      saveMyTagDrawingSets(JSON.parse(e.currentTarget.value) as TagDrawingSets)
+    } catch (e) {}
   }
 
   return (
@@ -34,7 +33,7 @@ export const ExportTagsModal: React.FC<{ isOpen: boolean; closeModal: () => void
           <SelectAllButton onClick={selectAll} showSuccess={showCopySuccess}>select all</SelectAllButton>
           <CloseButton onClick={closeModal}>close</CloseButton>
         </ButtonBar>
-        <ExportTextarea value={exportString} onChange={onChange}>{exportString}</ExportTextarea>
+        <ExportTextarea value={storedValue} onChange={onChange} />
       </Wrap>
     </Modal>
   )

@@ -22,10 +22,13 @@ import { useRouter } from 'next/router'
 import Div100vh from 'react-div-100vh'
 import { PageLayout } from '../PageLayout'
 import { ActionsMenu } from './ActionsMenu'
-import { getFixtureTagsForDrawing, getMyTagsForDrawing } from '../../lib/hashtags'
+import { getTagsForDrawing } from '../../lib/hashtags'
+import { MyTagsContainer } from '../../containers/MyTags'
 
 export const DrawingPage: React.FC<{ drawing: Drawing, year: number }> = ({ drawing, year }) => {
+  const { getMyTagsForDrawing } = MyTagsContainer.useContainer()
   const router = useRouter()
+
   const goToPrevious = () => router.push(`/drawing/${getPreviousSlug(drawing.slug)}`)
   const goToNext = () => router.push(`/drawing/${getNextSlug(drawing.slug)}`)
 
@@ -39,9 +42,8 @@ export const DrawingPage: React.FC<{ drawing: Drawing, year: number }> = ({ draw
     handler?.()
   }
 
-  const fixtureTags = getFixtureTagsForDrawing(drawing)
-
-  const myTags = getMyTagsForDrawing(drawing) // needs to come from context in order to update
+  const tags = getTagsForDrawing(drawing)
+  const myTags = getMyTagsForDrawing(drawing)
 
   return (
     <PageLayout title={drawing.title} showHeader={false} showFooter={false}>
@@ -51,8 +53,8 @@ export const DrawingPage: React.FC<{ drawing: Drawing, year: number }> = ({ draw
           <ImageWrap>
             <Image src={`${assetPrefix}/images/${drawing.image}`} alt={drawing.title} />
           </ImageWrap>
-          {fixtureTags.length > 0 && <TagList>{fixtureTags.sort().map(tag => <Tag key={tag}>{tag}</Tag>)}</TagList>}
-          {myTags.length > 0 && <TagList>{myTags.sort().map(tag => <Tag key={tag}>{tag}</Tag>)}</TagList>}
+          {tags.length > 0 && <TagList>{tags.map(tag => <Tag key={tag}>{tag}</Tag>)}</TagList>}
+          {myTags.length > 0 && <TagList>{myTags.map(tag => <Tag key={tag}>{tag}</Tag>)}</TagList>}
           <NavBar>
             <Link href="/drawing/[id]" as={`/drawing/${getPreviousSlug(drawing.slug)}`}>
               <ArrowButton title='Previous'><LeftArrow /></ArrowButton>

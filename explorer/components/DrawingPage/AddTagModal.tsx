@@ -1,31 +1,28 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Drawing, TagDrawingSets } from '../../types'
+import { Drawing } from '../../types'
 import Modal from 'react-modal'
-import {
-  addMyTagToDrawing,
-  drawingHasMyTag,
-  loadMyTagDrawingSets,
-  removeMyTagFromDrawing,
-} from '../../lib/hashtags'
+import { MyTagsContainer } from '../../containers/MyTags'
 
 export const AddTagModal: React.FC<{ drawing: Drawing; isOpen: boolean; closeModal: () => void }> = ({
   drawing,
   isOpen,
   closeModal,
 }) => {
-  const [newTag, setNewTag] = React.useState('')
-  const [tagDrawingSets, setTagDrawingSets] = React.useState<TagDrawingSets>({})
+  const {
+    myTags,
+    drawingHasMyTag,
+    addMyTagToDrawing,
+    removeMyTagFromDrawing,
+  } = MyTagsContainer.useContainer()
 
-  React.useEffect(() => setTagDrawingSets(loadMyTagDrawingSets()), [isOpen])
+  const [newTag, setNewTag] = React.useState('')
 
   function onNewTagSubmit(e: React.FormEvent<HTMLFormElement>) {
     addMyTagToDrawing(newTag, drawing)
     setNewTag('')
-    setTagDrawingSets(loadMyTagDrawingSets())
     e.preventDefault()
   }
-  const tags = Object.keys(tagDrawingSets)
 
   return (
     <Modal
@@ -41,7 +38,7 @@ export const AddTagModal: React.FC<{ drawing: Drawing; isOpen: boolean; closeMod
         </form>
         <br />
         <TagList>
-          {tags.sort().map(tag => (
+          {myTags.map(tag => (
             <Tag key={tag}>
               <label>
                 <input
@@ -51,7 +48,6 @@ export const AddTagModal: React.FC<{ drawing: Drawing; isOpen: boolean; closeMod
                     e.currentTarget.checked
                       ? addMyTagToDrawing(tag, drawing)
                       : removeMyTagFromDrawing(tag, drawing)
-                    setTagDrawingSets(loadMyTagDrawingSets())
                   }}
                 /> {tag}
               </label>
