@@ -411,7 +411,7 @@
     "date": "2001-09-10",
     "image": "goingwell.png",
     "slug": "goingwell",
-    "title": "Just when things we're going so well..."
+    "title": "Just when things were going so well..."
   },
   {
     "id": "2001.191",
@@ -937,13 +937,6 @@
     "image": "moneygo.png",
     "slug": "moneygo",
     "title": "where did all my money go?"
-  },
-  {
-    "id": "2001.116",
-    "date": "2001-06-20",
-    "image": "watchout.png",
-    "slug": "watchout",
-    "title": "Watch out! You might get what you're after."
   },
   {
     "id": "2001.115",
@@ -1576,18 +1569,11 @@
     "title": "unfortunately he had to go back"
   },
   {
-    "id": "2001.ERROR",
+    "id": "2001.25",
     "date": "2001-02-13",
     "image": "onlyhim.png",
     "slug": "onlyhim",
     "title": "He was the only one that could make me feel that way."
-  },
-  {
-    "id": "2001.24",
-    "date": "2001-02-13",
-    "image": "hello.png",
-    "slug": "hello",
-    "title": "Hello, My name is Collin"
   },
   {
     "id": "2001.23",

@@ -701,25 +701,11 @@
     "title": "math is fun"
   },
   {
-    "id": "2000.499",
-    "date": "2000-08-04",
-    "image": "iloveyoutod.png",
-    "slug": "iloveyou",
-    "title": "i love you today"
-  },
-  {
     "id": "2000.498",
     "date": "2000-08-04",
     "image": "bemyself.png",
     "slug": "godswish",
     "title": "god's wish came true"
-  },
-  {
-    "id": "2000.497",
-    "date": "2000-07-27",
-    "image": "butyouloved.png",
-    "slug": "lovedme",
-    "title": "but you loved me yesterday!"
   },
   {
     "id": "2000.496",
@@ -1588,13 +1574,6 @@
     "image": "hatemonster.png",
     "slug": "hatemons",
     "title": "i hate monsters"
-  },
-  {
-    "id": "2000.372",
-    "date": "2000-06-05",
-    "image": "something.png",
-    "slug": "something",
-    "title": "give me something to cry about"
   },
   {
     "id": "2000.371",
@@ -2472,13 +2451,6 @@
     "title": "i've got food in my bottom"
   },
   {
-    "id": "2000.246",
-    "date": "2000-03-01",
-    "image": "ijustwant.png",
-    "slug": "ijustwant",
-    "title": "i just wanted to cut my nails"
-  },
-  {
     "id": "2000.245",
     "date": "2000-03-01",
     "image": "dontpisson.png",
@@ -3065,13 +3037,6 @@
     "image": "wereally.png",
     "slug": "wereallyne",
     "title": "we really need some new pillows around here"
-  },
-  {
-    "id": "2000.161",
-    "date": "2000-02-12",
-    "image": "nicotine.png",
-    "slug": "nicotine",
-    "title": "nicotine changed my life"
   },
   {
     "id": "2000.160",
