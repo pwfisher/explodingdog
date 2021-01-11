@@ -1,6 +1,7 @@
 import { YearPage } from '../../components/YearPage'
 import { GetStaticProps, GetStaticPaths } from 'next'
 import { drawingYears } from '../../__fixtures__'
+import { singleQueryParamValue } from '../../lib/next'
 
 export default YearPage
 
@@ -10,6 +11,6 @@ export const getStaticPaths: GetStaticPaths = async () => {
 }
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
-  const year = Number(params?.id)
+  const year = singleQueryParamValue(params?.id)
   return { props: { year } }
 }

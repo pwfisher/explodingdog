@@ -3,7 +3,7 @@ import { drawingYears } from '../__fixtures__'
 import styled from 'styled-components'
 import Link from 'next/link'
 
-export const YearBar: React.FC<{ activeYear: number }> = ({ activeYear }) => {
+export const YearBar: React.FC<{ activeYear: string }> = ({ activeYear }) => {
   return (
     <YearList>
       {drawingYears.sort().reverse().map(year => (

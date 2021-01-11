@@ -11,7 +11,7 @@ export interface Drawing
 
 export interface YearDrawingSets
   extends Readonly<{
-    [year: number]: Drawing[]
+    [year: string]: Drawing[]
   }> {}
 
 export interface DayDrawingSets
@@ -21,7 +21,7 @@ export interface DayDrawingSets
 
 export interface DayDrawingSetsByYear
   extends Readonly<{
-    [year: number]: DayDrawingSets
+    [year: string]: DayDrawingSets
   }> {}
 
 export interface TagDrawingSets {

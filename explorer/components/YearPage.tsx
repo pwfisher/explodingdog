@@ -4,7 +4,7 @@ import styled from 'styled-components'
 import { YearBar } from './YearBar'
 import { yearDrawingSets } from '../__fixtures__'
 
-export const YearPage: React.FC<{ year: number }> = ({ year }) => {
+export const YearPage: React.FC<{ year: string }> = ({ year }) => {
   const drawings = yearDrawingSets[year]
   return (
     <PageLayout title={`explodingdog ${year}`}>
