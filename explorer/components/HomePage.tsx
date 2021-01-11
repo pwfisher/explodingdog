@@ -1,7 +1,9 @@
 import Link from 'next/link'
 import { PageLayout } from './PageLayout'
-import { drawingYears } from '../__fixtures__'
+import { drawingYears, tags, tagDrawingSets } from '../__fixtures__'
 import styled from 'styled-components'
+import { DrawingSection } from './DrawingSection'
+import { getTagSlug } from '../lib/tags'
 
 export const HomePage = () => (
   <PageLayout title="explodingdog">
@@ -13,7 +15,7 @@ export const HomePage = () => (
       <p><a href="http://www.buildingaworld.com">The gift shop is open</a></p>
     </IntroSection>
 
-    <DrawingsByYearSection>
+    <YearIndexSection>
       <h2>drawings by year:</h2>
       <ol>
         {drawingYears.sort().reverse().map(year => (
@@ -24,7 +26,22 @@ export const HomePage = () => (
           </li>
         ))}
       </ol>
-    </DrawingsByYearSection>
+    </YearIndexSection>
+
+    <TagIndexSection>
+      <h2>drawings by tag:</h2>
+      <ol>
+        {tags.sort().map(tag => (
+          <li key={tag}>
+            <Link href="/tag/[id]" as={`/tag/${getTagSlug(tag)}`}>
+              <a>{tag}</a>
+            </Link>
+          </li>
+        ))}
+      </ol>
+    </TagIndexSection>
+
+    <DrawingSection drawings={tagDrawingSets['HomePage']} />
 
     <SearchSection>
       <form method="get" action="http://www.google.com/search">
@@ -55,15 +72,27 @@ const IntroSection = styled(Section).attrs({ className: 'Explorer__HomePage__Int
   }
 `
 
-const DrawingsByYearSection = styled(Section).attrs({ className: 'Explorer__HomePage__DrawingsByYearSection'})`
+const YearIndexSection = styled(Section).attrs({ className: 'Explorer__HomePage__YearIndexSection'})`
   ol {
     margin-left: 8px;
   }
 
   li {
     display: inline-block;
-    font-size: 64px;
+    font-size: 48px;
     font-weight: 600;
+    margin: 6px 12px;
+  }
+`
+
+const TagIndexSection = styled(Section).attrs({ className: 'Explorer__HomePage__TagIndexSection'})`
+  ol {
+    margin-left: 8px;
+  }
+
+  li {
+    display: inline-block;
+    font-size: 16px;
     margin: 6px 12px;
   }
 `

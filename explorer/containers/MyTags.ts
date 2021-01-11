@@ -1,6 +1,6 @@
 import React from 'react'
 import { createContainer } from 'unstated-next'
-import { duplicateTagDrawingSets, loadMyTagDrawingSets } from '../lib/hashtags'
+import { duplicateTagDrawingSets, loadMyTagDrawingSets } from '../lib/tags'
 import { Drawing, TagDrawingSets } from '../types'
 
 export function useMyTags() {

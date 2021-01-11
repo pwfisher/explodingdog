@@ -1,12 +1,12 @@
 import React from 'react'
 import { PageLayout } from './PageLayout'
-import { DrawingTile } from './DrawingTile'
 import Link from 'next/link'
 import styled from 'styled-components'
 import { getPreviousDay, getNextDay } from '../lib/drawings'
 import { useRouter } from 'next/router'
 import Div100vh from 'react-div-100vh'
 import { dayDrawingSets } from '../__fixtures__'
+import { DrawingSection } from './DrawingSection'
 
 export const DayPage: React.FC<{ day: string }> = ({ day }) => {
   const drawings = dayDrawingSets[day]
@@ -30,11 +30,7 @@ export const DayPage: React.FC<{ day: string }> = ({ day }) => {
       <Div100vh>
         <Container onKeyDown={onKeyDown} tabIndex={-1}>
           <DayHeading>{day}</DayHeading>
-          <DrawingSection>
-            {drawings && drawings.map(drawing => (
-              <DrawingTile key={`${drawing.date} ${drawing.slug}`} {...drawing} />
-            ))}
-          </DrawingSection>
+          <StyledDrawingSection drawings={drawings} />
           <NavBar>
             <Link href="/day/[id]" as={`/day/${getPreviousDay(day)}`}>
               <Arrow>&lt;</Arrow>
@@ -68,10 +64,11 @@ const DayHeading = styled.h1.attrs({ className: 'Explorer__DayPage__DayHeading'}
   text-align: center;
 `
 
-const DrawingSection = styled.section.attrs({ className: 'Explorer__DayPage__DrawingSection'})`
+const StyledDrawingSection = styled(DrawingSection).attrs({
+  className: 'Explorer__DayPage__StyledDrawingSection',
+})`
   flex: 1 1 0;
   overflow: scroll;
-  text-align: center;
 `
 
 const NavBar = styled.nav.attrs({ className: 'Explorer__DrawingPage__Header'})`

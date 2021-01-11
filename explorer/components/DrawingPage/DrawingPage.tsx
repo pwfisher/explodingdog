@@ -22,8 +22,9 @@ import { useRouter } from 'next/router'
 import Div100vh from 'react-div-100vh'
 import { PageLayout } from '../PageLayout'
 import { ActionsMenu } from './ActionsMenu'
-import { getTagsForDrawing } from '../../lib/hashtags'
+import { getTagsForDrawing } from '../../lib/tags'
 import { MyTagsContainer } from '../../containers/MyTags'
+import { getTagSlug } from '../../lib/tags'
 
 export const DrawingPage: React.FC<{ drawing: Drawing, year: number }> = ({ drawing, year }) => {
   const { getMyTagsForDrawing } = MyTagsContainer.useContainer()
@@ -53,7 +54,17 @@ export const DrawingPage: React.FC<{ drawing: Drawing, year: number }> = ({ draw
           <ImageWrap>
             <Image src={`${assetPrefix}/images/${drawing.image}`} alt={drawing.title} />
           </ImageWrap>
-          {tags.length > 0 && <TagList>{tags.map(tag => <Tag key={tag}>{tag}</Tag>)}</TagList>}
+          {tags.length > 0 && (
+            <TagList>
+              {tags.map(tag => (
+                <Tag key={tag}>
+                  <Link href='/tag/[id]' as={`/tag/${getTagSlug(tag)}`}>
+                    <a>{tag}</a>
+                  </Link>
+                </Tag>
+              ))}
+            </TagList>
+          )}
           {myTags.length > 0 && <TagList>{myTags.map(tag => <Tag key={tag}>{tag}</Tag>)}</TagList>}
           <NavBar>
             <Link href="/drawing/[id]" as={`/drawing/${getPreviousSlug(drawing.slug)}`}>

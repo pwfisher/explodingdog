@@ -24,3 +24,11 @@ export function duplicateTagDrawingSets(original: TagDrawingSets): TagDrawingSet
     return accumulator
   }, {})
 }
+
+export function getTagSlug(tag: string): string {
+  return tag.toLocaleLowerCase().trim().replace(/\s+/g, '-')
+}
+
+export function getTagFromSlug(slug: string): string | undefined {
+  return fixtureTags.find(tag => getTagSlug(tag) === slug)
+}
