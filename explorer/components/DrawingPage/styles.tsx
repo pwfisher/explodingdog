@@ -114,3 +114,11 @@ export const Tag = styled.li.attrs({ classNames: 'Explorer__DrawingPage__Tag'})`
     display: none;
   }
 `
+
+export const MyTagListHeading = styled.h5.attrs({ className: 'Explorer__DrawingPage__MyTagListHeding' })`
+  font-size: 10px;
+  font-weight: 200;
+  margin: -2px 0 -4px;
+  text-align: center;
+  opacity: 0.2;
+`

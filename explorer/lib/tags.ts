@@ -1,15 +1,12 @@
 import { Drawing, TagDrawingSets } from '../types'
-import {
-  tagDrawingSets as fixtureTagDrawingSets,
-  tags as fixtureTags,
-} from '../__fixtures__'
+import { allTags, tagDrawingSets, tags } from '../__fixtures__'
 
 export function getTagsForDrawing(drawing: Drawing): string[] {
-  return fixtureTags.filter(tag => drawingHasTag(drawing, tag))
+  return tags.filter(tag => drawingHasTag(drawing, tag))
 }
 
 export function drawingHasTag(drawing: Drawing, tag: string): boolean {
-  const drawings: Drawing[] = fixtureTagDrawingSets[tag] ?? []
+  const drawings: Drawing[] = tagDrawingSets[tag] ?? []
   return drawings.some(o => o.id === drawing.id)
 }
 
@@ -30,5 +27,5 @@ export function getTagSlug(tag: string): string {
 }
 
 export function getTagFromSlug(slug: string): string | undefined {
-  return fixtureTags.find(tag => getTagSlug(tag) === slug)
+  return allTags.find(tag => getTagSlug(tag) === slug)
 }

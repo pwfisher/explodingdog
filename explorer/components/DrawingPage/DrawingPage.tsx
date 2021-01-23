@@ -16,6 +16,7 @@ import {
   DateLink,
   TagList,
   Tag,
+  MyTagListHeading,
 } from './styles'
 import { getPreviousSlug, getNextSlug } from '../../lib/drawings'
 import { useRouter } from 'next/router'
@@ -57,15 +58,20 @@ export const DrawingPage: React.FC<{ drawing: Drawing, year: number }> = ({ draw
           {tags.length > 0 && (
             <TagList>
               {tags.map(tag => (
-                <Tag key={tag}>
-                  <Link href='/tag/[id]' as={`/tag/${getTagSlug(tag)}`}>
-                    <a>{tag}</a>
-                  </Link>
-                </Tag>
+                <Tag key={tag}><Link href={`/tag/${getTagSlug(tag)}`}><a>{tag}</a></Link></Tag>
               ))}
             </TagList>
           )}
-          {myTags.length > 0 && <TagList>{myTags.map(tag => <Tag key={tag}>{tag}</Tag>)}</TagList>}
+          {myTags.length > 0 && (
+            <>
+              <MyTagListHeading>myTags</MyTagListHeading>
+              <TagList>
+                {myTags.map(tag => (
+                  <Tag key={tag}><Link href={`/tag/${getTagSlug(tag)}`}><a>{tag}</a></Link></Tag>
+                ))}
+              </TagList>
+            </>
+          )}
           <NavBar>
             <Link href="/drawing/[id]" as={`/drawing/${getPreviousSlug(drawing.slug)}`}>
               <ArrowButton title='Previous'><LeftArrow /></ArrowButton>
