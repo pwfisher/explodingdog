@@ -3,16 +3,17 @@ import styled, { css } from 'styled-components'
 import Modal from 'react-modal'
 import { MyTagsContainer } from '../../containers/MyTags'
 import { TagDrawingSets } from '../../types'
+import stringify from 'json-stable-stringify'
 
 export const ExportTagsModal: React.FC<{ isOpen: boolean; closeModal: () => void }> = ({
   isOpen,
   closeModal,
 }) => {
   const { myTagDrawingSets, saveMyTagDrawingSets } = MyTagsContainer.useContainer()
-  const storedValue: string = JSON.stringify(myTagDrawingSets, null, 2)
+  const storedValue: string = stringify(myTagDrawingSets, { space: 2 })
   const [showCopySuccess, setShowCopySuccess] = React.useState(false)
 
-  function selectAll() {
+  function copyToClipboard() {
     navigator.clipboard.writeText(storedValue)
     setShowCopySuccess(true)
     setTimeout(() => setShowCopySuccess(false), 2000)
@@ -30,7 +31,7 @@ export const ExportTagsModal: React.FC<{ isOpen: boolean; closeModal: () => void
       <Wrap onKeyDown={e => e.stopPropagation()}>
         <Title>Export Hashtags</Title>
         <ButtonBar>
-          <SelectAllButton onClick={selectAll} showSuccess={showCopySuccess}>select all</SelectAllButton>
+          <CopyButton onClick={copyToClipboard} showSuccess={showCopySuccess}>Copy</CopyButton>
           <CloseButton onClick={closeModal}>close</CloseButton>
         </ButtonBar>
         <ExportTextarea value={storedValue} onChange={onChange} />
@@ -54,7 +55,7 @@ const ButtonBar = styled.div.attrs({ classNames: 'Explorer__ExportTagsModal__But
   justify-content: space-between;
 `
 
-const SelectAllButton = styled.button.attrs({ classNames: 'Explorer__ExportTagsModal__SelectAllButton' })<{
+const CopyButton = styled.button.attrs({ classNames: 'Explorer__ExportTagsModal__CopyButton' })<{
   showSuccess: boolean
 }>`
   align-self: flex-start;
