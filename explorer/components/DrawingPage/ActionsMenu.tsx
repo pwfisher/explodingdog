@@ -3,7 +3,7 @@ import styled from 'styled-components'
 import { navBarItemStyles } from './styles'
 import { useCookies } from 'react-cookie'
 import { Drawing } from '../../types'
-import { AddTagModal } from './AddTagModal'
+import { EditTagsModal } from './EditTagsModal'
 import { ExportTagsModal } from './ExportTagsModal'
 import Link from 'next/link'
 
@@ -16,17 +16,17 @@ export const ActionsMenu: React.FC<{ drawing: Drawing }> = ({ drawing }) => {
   const [isActive, setIsActive] = React.useState(false)
   const [cookies] = useCookies(['feature__myTags'])
   const [actions, setActions] = React.useState<Action[]>([])
-  const [isAddTagModalOpen, setIsAddTagModalOpen] = React.useState(false)
+  const [isEditTagsModalOpen, setIsEditTagsModalOpen] = React.useState(false)
   const [isExportTagsModalOpen, setIsExportTagsModalOpen] = React.useState(false)
 
-  const toggleAddTagModal = () => setIsAddTagModalOpen(!isAddTagModalOpen)
+  const toggleEditTagsModal = () => setIsEditTagsModalOpen(!isEditTagsModalOpen)
   const toggleExportTagsModal = () => setIsExportTagsModalOpen(!isExportTagsModalOpen)
 
   React.useEffect(() => {
     const newActions = []
     if (cookies.feature__myTags === 'on') {
-      newActions.push({ title: 'Export hashtags', onClick: toggleExportTagsModal })
-      newActions.push({ title: 'Add hashtags', onClick: toggleAddTagModal })
+      newActions.push({ title: 'Export tags', onClick: toggleExportTagsModal })
+      newActions.push({ title: 'Edit tags', onClick: toggleEditTagsModal })
     }
     setActions(newActions)
   }, [cookies])
@@ -46,8 +46,8 @@ export const ActionsMenu: React.FC<{ drawing: Drawing }> = ({ drawing }) => {
           ))}
         </Popup>
       </Container>
-      {isAddTagModalOpen && (
-        <AddTagModal drawing={drawing} isOpen={isAddTagModalOpen} closeModal={toggleAddTagModal} />
+      {isEditTagsModalOpen && (
+        <EditTagsModal drawing={drawing} isOpen={isEditTagsModalOpen} closeModal={toggleEditTagsModal} />
       )}
       {isExportTagsModalOpen && (
         <ExportTagsModal isOpen={isExportTagsModalOpen} closeModal={toggleExportTagsModal} />

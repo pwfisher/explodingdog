@@ -4,7 +4,7 @@ import { useCookies } from 'react-cookie'
 
 const flags = ['myTags']
 
-export const AppFlags: React.FC = () => {
+export const AppFlagCookieSetter: React.FC = () => {
   const { query } = useRouter()
   const [cookies, setCookie] = useCookies()
 

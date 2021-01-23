@@ -17,7 +17,7 @@ export const AppStyle = createGlobalStyle`
     text-decoration: none;
 
     &:visited {
-      color: #BBB;
+      color: #AAA;
     }
   }
 `

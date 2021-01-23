@@ -4,11 +4,11 @@ import { Drawing } from '../../types'
 import Modal from 'react-modal'
 import { MyTagsContainer } from '../../containers/MyTags'
 
-export const AddTagModal: React.FC<{ drawing: Drawing; isOpen: boolean; closeModal: () => void }> = ({
-  drawing,
-  isOpen,
-  closeModal,
-}) => {
+export const EditTagsModal: React.FC<{
+  drawing: Drawing
+  isOpen: boolean
+  closeModal: () => void
+}> = ({ drawing, isOpen, closeModal }) => {
   const {
     myTags,
     drawingHasMyTag,
@@ -34,7 +34,9 @@ export const AddTagModal: React.FC<{ drawing: Drawing; isOpen: boolean; closeMod
         <Title>Add Hashtags</Title>
         <Code>{JSON.stringify(drawing, null, 2)}</Code>
         <form onSubmit={onNewTagSubmit}>
-          New: <input value={newTag} onChange={e => setNewTag(e.currentTarget.value)} /> <input type='submit' />
+          New:{' '}
+          <input value={newTag} onChange={e => setNewTag(e.currentTarget.value)} />
+          <input type='submit' />
         </form>
         <br />
         <TagList>
@@ -59,18 +61,18 @@ export const AddTagModal: React.FC<{ drawing: Drawing; isOpen: boolean; closeMod
   )
 }
 
-const CloseButton = styled.button.attrs({ classNames: 'Explorer__AddTagModal__CloseButton' })`
+const CloseButton = styled.button.attrs({ classNames: 'Explorer__EditTagsModal__CloseButton' })`
   font-size: 24px;
   position: absolute;
   right: 24px;
   top: 24px;
 `
 
-const Title = styled.h1.attrs({ classNames: 'Explorer__AddTagModal__Title' })`
+const Title = styled.h1.attrs({ classNames: 'Explorer__EditTagsModal__Title' })`
   text-align: center;
 `
 
-const Code = styled.code.attrs({ classNames: 'Explorer__AddTagModal__Code' })`
+const Code = styled.code.attrs({ classNames: 'Explorer__EditTagsModal__Code' })`
   color: #999;
   display: block;
   font-size: 9px;
@@ -78,11 +80,11 @@ const Code = styled.code.attrs({ classNames: 'Explorer__AddTagModal__Code' })`
   margin: 8px 0 16px;
 `
 
-const TagList = styled.ul.attrs({ classNames: 'Explorer__AddTagModal__TagList' })`
+const TagList = styled.ul.attrs({ classNames: 'Explorer__EditTagsModal__TagList' })`
   margin: 0 -12px;
 `
 
-const Tag = styled.li.attrs({ classNames: 'Explorer__AddTagModal__Tag' })`
+const Tag = styled.li.attrs({ classNames: 'Explorer__EditTagsModal__Tag' })`
   display: inline-block;
 
   &::after {

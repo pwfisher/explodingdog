@@ -66,6 +66,10 @@ const Section = styled.section`
 `
 
 const IntroSection = styled(Section).attrs({ className: 'Explorer__HomePage__IntroSection'})`
+  > h2 {
+    margin-bottom: 12px;
+  }
+
   > p {
     font-size: 19px;
     margin: 16px 0 16px 24px;
@@ -93,7 +97,17 @@ const TagIndexSection = styled(Section).attrs({ className: 'Explorer__HomePage__
   li {
     display: inline-block;
     font-size: 16px;
-    margin: 6px 12px;
+    padding: 6px 12px;
+    position: relative;
+
+    &:not(:last-of-type)::after {
+      content: '·';
+      display: inline;
+      opacity: 0.2;
+      position: absolute;
+      right: -2px;
+      top: 6px;
+    }
   }
 `
 
