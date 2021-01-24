@@ -9,7 +9,7 @@ export const DrawingTile: React.FC<Drawing> = ({ date, title, slug, image }) => 
     <Container>
       <Title>{title}</Title>
       <Link href={`/drawing/${slug}`}>
-        <a><Image src={`${assetPrefix}/images/${image}`} alt={title} /></a>
+        <a><Image src={`${assetPrefix}/images/${image}`} alt={title} loading='lazy' /></a>
       </Link>
       <Link href={`/day/${date}`}><Date>{date}</Date></Link>
     </Container>
