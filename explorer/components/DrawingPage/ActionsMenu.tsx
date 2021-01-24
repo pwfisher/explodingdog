@@ -31,25 +31,28 @@ export const ActionsMenu: React.FC<{ drawing: Drawing }> = ({ drawing }) => {
     setActions(newActions)
   }, [cookies])
 
-  const ref = React.useRef<HTMLDivElement>(null)
+  const popupRef = React.useRef<HTMLDivElement>(null)
+  const containerRef = React.useRef<HTMLButtonElement>(null)
   const onDocumentClick = (e: MouseEvent) => {
-    if (e.target instanceof HTMLElement && !ref.current?.contains(e.target)) setIsActive(false)
+    if (!(e.target instanceof Element)) return
+    if (!containerRef.current?.contains(e.target)) return setIsActive(false) // outside
+    if (popupRef.current?.contains(e.target)) return // in popup
+    setIsActive(!isActive) // in button
   }
   React.useEffect(() => {
-    if (isActive) document.addEventListener('mousedown', onDocumentClick)
-    else document.removeEventListener('mousedown', onDocumentClick)
+    document.addEventListener('mousedown', onDocumentClick)
     return () => document.removeEventListener('mousedown', onDocumentClick)
   }, [isActive])
 
   return (
     <>
-      <Container title='Actions' onClick={() => setIsActive(!isActive)}>
+      <Container title='Actions' ref={containerRef}>
         <svg viewBox="0 0 24 24">
           <circle cx="5" cy="12" r="2" />
           <circle cx="12" cy="12" r="2" />
           <circle cx="19" cy="12" r="2" />
         </svg>
-        <Popup {...{ isActive, ref }}>
+        <Popup {...{ isActive }} ref={popupRef}>
           <Link href='/'><Item>Home</Item></Link>
           {actions.map(({ onClick, title }) => <Item key={title} {...{ onClick }}>{title}</Item>)}
           <Copyright>©2021 Sam Brown</Copyright>
