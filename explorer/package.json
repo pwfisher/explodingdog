@@ -1,6 +1,7 @@
 {
   "name": "explodingdog-explorer",
-  "version": "0.4.0",
+  "version": "2.0.0",
+  "private": true,
   "description": "explodingdog explorer. An alternate explodingdog experience.",
   "author": "Patrick Fisher <patrick@pwfisher.com>",
   "license": "MIT",

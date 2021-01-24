@@ -31,3 +31,5 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+shopify-scraper/scraped-images/
