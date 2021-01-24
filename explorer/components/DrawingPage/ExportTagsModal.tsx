@@ -29,7 +29,7 @@ export const ExportTagsModal: React.FC<{ isOpen: boolean; closeModal: () => void
   return (
     <Modal isOpen={isOpen} onRequestClose={closeModal}>
       <Wrap onKeyDown={e => e.stopPropagation()}>
-        <Title>Export Hashtags</Title>
+        <Title>Export Tags</Title>
         <ButtonBar>
           <CopyButton onClick={copyToClipboard} showSuccess={showCopySuccess}>Copy</CopyButton>
           <CloseButton onClick={closeModal}>close</CloseButton>

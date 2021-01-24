@@ -31,6 +31,16 @@ export const ActionsMenu: React.FC<{ drawing: Drawing }> = ({ drawing }) => {
     setActions(newActions)
   }, [cookies])
 
+  const ref = React.useRef<HTMLDivElement>(null)
+  const onDocumentClick = (e: MouseEvent) => {
+    if (e.target instanceof HTMLElement && !ref.current?.contains(e.target)) setIsActive(false)
+  }
+  React.useEffect(() => {
+    if (isActive) document.addEventListener('mousedown', onDocumentClick)
+    else document.removeEventListener('mousedown', onDocumentClick)
+    return () => document.removeEventListener('mousedown', onDocumentClick)
+  }, [isActive])
+
   return (
     <>
       <Container title='Actions' onClick={() => setIsActive(!isActive)}>
@@ -39,15 +49,14 @@ export const ActionsMenu: React.FC<{ drawing: Drawing }> = ({ drawing }) => {
           <circle cx="12" cy="12" r="2" />
           <circle cx="19" cy="12" r="2" />
         </svg>
-        <Popup isActive={isActive}>
+        <Popup {...{ isActive, ref }}>
           <Link href='/'><Item>Home</Item></Link>
-          {actions.map(action => (
-            <Item key={action.title} onClick={action.onClick}>{action.title}</Item>
-          ))}
+          {actions.map(({ onClick, title }) => <Item key={title} {...{ onClick }}>{title}</Item>)}
+          <Copyright>©2021 Sam Brown</Copyright>
         </Popup>
       </Container>
       {isEditTagsModalOpen && (
-        <EditTagsModal drawing={drawing} isOpen={isEditTagsModalOpen} closeModal={toggleEditTagsModal} />
+        <EditTagsModal {...{ drawing }} isOpen={isEditTagsModalOpen} closeModal={toggleEditTagsModal} />
       )}
       {isExportTagsModalOpen && (
         <ExportTagsModal isOpen={isExportTagsModalOpen} closeModal={toggleExportTagsModal} />
@@ -87,4 +96,11 @@ const Item = styled.a.attrs({ className: 'Explorer__ActionsMenu__Item'})`
   &:hover {
     background: #e5e5e5;
   }
+`
+
+const Copyright = styled.div.attrs({ className: 'Explorer__ActionsMenu__Copyright' })`
+  color: #999;
+  font-size: 14px;
+  padding: 12px 8px 4px;
+  text-align: center;
 `

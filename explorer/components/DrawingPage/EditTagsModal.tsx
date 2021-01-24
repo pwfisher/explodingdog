@@ -31,7 +31,7 @@ export const EditTagsModal: React.FC<{
     >
       <div onKeyDown={e => e.stopPropagation()}>
         <CloseButton onClick={closeModal}>close</CloseButton>
-        <Title>Add Hashtags</Title>
+        <Title>Add Tags</Title>
         <Code>{JSON.stringify(drawing, null, 2)}</Code>
         <form onSubmit={onNewTagSubmit}>
           New:{' '}
