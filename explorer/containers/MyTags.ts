@@ -1,7 +1,8 @@
 import React from 'react'
 import { createContainer } from 'unstated-next'
-import { duplicateTagDrawingSets, loadMyTagDrawingSets } from '../lib/tags'
+import { duplicateTagDrawingSets, getTagSlug, loadMyTagDrawingSets } from '../lib/tags'
 import { Drawing, TagDrawingSets } from '../types'
+import { tagDrawingSets } from '../__fixtures__'
 
 export function useMyTags() {
   const [myTagDrawingSets, setMyTagDrawingSets] = React.useState<TagDrawingSets>({})
@@ -46,6 +47,14 @@ export function useMyTags() {
     return myTags.filter(tag => drawingHasMyTag(drawing, tag))
   }
 
+  function getDrawingsForTag(tag: string): Drawing[] {
+    return tagDrawingSets[tag]
+  }
+
+  function getMyTagFromSlug(slug: string): string | undefined {
+    return myTags.find(tag => getTagSlug(tag) === slug)
+  }
+
   return {
     myTagDrawingSets,
     saveMyTagDrawingSets,
@@ -54,6 +63,8 @@ export function useMyTags() {
     addMyTagToDrawing,
     removeMyTagFromDrawing,
     getMyTagsForDrawing,
+    getDrawingsForTag,
+    getMyTagFromSlug,
   }
 }
 

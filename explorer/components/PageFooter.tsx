@@ -1,39 +1,40 @@
 import React from 'react'
 import styled from 'styled-components'
 
+type ListItem = {
+  href: string
+  text: string
+}
+
+const list: ListItem[] = [
+  { href: 'https://www.instagram.com/explodingdog_sam/', text: 'instagram' },
+  { href: 'http://twitter.com/Explodingdog', text: 'twitter' },
+  { href: 'https://explodingdog.tumblr.com/', text: 'tumblr' },
+  { href: 'http://www.buildingaworld.com', text: 'gift shop' },
+  { href: 'http://explodingdog.com/mailinglist/', text: 'mailing list' },
+]
+
 export const PageFooter: React.FC = () => {
   return (
     <Container>
-      <AlsoAt>also at:</AlsoAt>
+      <Heading>also at:</Heading>
       <List>
-        <ListItem>
-          <a href="http://www.buildingaworld.com">gift shop</a>
-        </ListItem>
-        <ListItem>
-          <a href="http://explodingdog.com/mailinglist/">emailing list</a>
-        </ListItem>
+        {list.map(({ href, text}) => <ListItem><a {...{ href }}>{text}</a></ListItem>)}
       </List>
-      <List>
-        <ListItem>
-          <a href="https://www.instagram.com/explodingdog_sam/">instagram</a>
-        </ListItem>
-        <ListItem>
-          <a href="http://twitter.com/Explodingdog">twitter</a>
-        </ListItem>
-      </List>
-      <Copyright>©2020 Sam Brown</Copyright>
+      <Copyright>©2021 Sam Brown</Copyright>
     </Container>
   )
 }
 
 const Container = styled.footer.attrs({ className: 'Explorer__PageFooter__Container'})`
-  margin-top: 24px;
-  padding: 24px;
+  margin-top: 64px;
+  padding: 40px 24px;
 `
 
-const AlsoAt = styled.ul.attrs({ className: 'Explorer__PageFooter__AlsoAt'})`
+const Heading = styled.ul.attrs({ className: 'Explorer__PageFooter__Heading'})`
   font-size: 24px;
   font-weight: bold;
+  margin-bottom: 16px;
 `
 
 const List = styled.ul.attrs({ className: 'Explorer__PageFooter__List'})`
@@ -44,11 +45,26 @@ const ListItem = styled.li.attrs({ className: 'Explorer__PageFooter__ListItem'})
   display: inline-block;
   font-size: 32px;
   font-weight: bold;
-  margin: 8px 12px;
+  margin: 8px 20px;
+  position: relative;
+
+  &:not(:last-of-type) {
+    padding-right: 20px;
+
+    ::after {
+      content: '·';
+      display: inline;
+      opacity: 0.05;
+      position: absolute;
+      right: -14px;
+      top: 0;
+    }
+  }
 `
 
 const Copyright = styled.div.attrs({ className: 'Explorer__PageFooter__Copyright'})`
   color: lightGrey;
   font-size: 14px;
-  margin: 16px 24px 0;
+  margin: 64px 0 32px;
+  text-align: center;
 `

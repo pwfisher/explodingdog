@@ -8,7 +8,7 @@ export const TagPage: React.FC<{ tag: string }> = ({ tag }) => {
   return (
     <PageLayout title={`explodingdog ${tag}`}>
       <PageHeading>{tag}</PageHeading>
-      <DrawingSection drawings={drawings} />
+      <DrawingSection {...{ drawings }} />
     </PageLayout>
   )
 }

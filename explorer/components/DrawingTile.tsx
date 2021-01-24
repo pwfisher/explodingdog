@@ -8,14 +8,10 @@ export const DrawingTile: React.FC<Drawing> = ({ date, title, slug, image }) => 
   return (
     <Container>
       <Title>{title}</Title>
-      <Link href="/drawing/[id]" as={`/drawing/${slug}`}>
-        <a>
-          <Image src={`${assetPrefix}/images/${image}`} alt={title} />
-        </a>
+      <Link href={`/drawing/${slug}`}>
+        <a><Image src={`${assetPrefix}/images/${image}`} alt={title} /></a>
       </Link>
-      <Link href="/day/[id]" as={`/day/${date}`}>
-        <Date>{date}</Date>
-      </Link>
+      <Link href={`/day/${date}`}><Date>{date}</Date></Link>
     </Container>
   )
 }

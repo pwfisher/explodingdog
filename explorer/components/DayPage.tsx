@@ -28,20 +28,14 @@ export const DayPage: React.FC<{ day: string }> = ({ day }) => {
   return (
     <PageLayout title={`explodingdog ${day}`} showHeader={false} showFooter={false}>
       <Div100vh>
-        <Container onKeyDown={onKeyDown} tabIndex={-1}>
+        <Container {...{ onKeyDown }} tabIndex={-1}>
           <DayHeading>{day}</DayHeading>
           <StyledDrawingSection drawings={drawings} />
           <NavBar>
-            <Link href="/day/[id]" as={`/day/${getPreviousDay(day)}`}>
-              <Arrow>&lt;</Arrow>
-            </Link>
-            <Link href="/"><a>{'Home'}</a></Link>
-            <Link href="/year/[id]" as={`/year/${year}`}>
-              <YearLink>{year}</YearLink>
-            </Link>
-            <Link href="/day/[id]" as={`/day/${getNextDay(day)}`}>
-              <Arrow>&gt;</Arrow>
-            </Link>
+            <Link href={`/day/${getPreviousDay(day)}`}><Arrow>&lt;</Arrow></Link>
+            <Link href="/"><a>Home</a></Link>
+            <Link href={`/year/${year}`}><YearLink>{year}</YearLink></Link>
+            <Link href={`/day/${getNextDay(day)}`}><Arrow>&gt;</Arrow></Link>
           </NavBar>
         </Container>
       </Div100vh>

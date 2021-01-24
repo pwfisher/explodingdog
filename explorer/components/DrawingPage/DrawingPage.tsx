@@ -50,7 +50,7 @@ export const DrawingPage: React.FC<{ drawing: Drawing, year: number }> = ({ draw
   return (
     <PageLayout title={drawing.title} showHeader={false} showFooter={false}>
       <Div100vh>
-        <Container onKeyDown={onKeyDown} tabIndex={-1}>
+        <Container {...{ onKeyDown }} tabIndex={-1}>
           <Title>{drawing.title}</Title>
           <ImageWrap>
             <Image src={`${assetPrefix}/images/${drawing.image}`} alt={drawing.title} />
@@ -67,26 +67,26 @@ export const DrawingPage: React.FC<{ drawing: Drawing, year: number }> = ({ draw
               <MyTagListHeading>myTags</MyTagListHeading>
               <TagList>
                 {myTags.map(tag => (
-                  <Tag key={tag}><Link href={`/tag/${getTagSlug(tag)}`}><a>{tag}</a></Link></Tag>
+                  <Tag key={tag}><Link href={`/my-tag/${getTagSlug(tag)}`}><a>{tag}</a></Link></Tag>
                 ))}
               </TagList>
             </>
           )}
           <NavBar>
-            <Link href="/drawing/[id]" as={`/drawing/${getPreviousSlug(drawing.slug)}`}>
+            <Link href={`/drawing/${getPreviousSlug(drawing.slug)}`}>
               <ArrowButton title='Previous'><LeftArrow /></ArrowButton>
             </Link>
             <DrawingLink title='Source' href={`http://explodingdog.com/title/${drawing.slug}.html`}>
               <b>#{drawing.number}</b>
             </DrawingLink>
-            <Link href="/year/[id]" as={`/year/${year}`}>
+            <Link href={`/year/${year}`}>
               <YearLink title={`Drawings for ${drawing.year}`}><b>{year}</b></YearLink>
             </Link>
-            <Link href="/day/[id]" as={`/day/${drawing.date}`}>
+            <Link href={`/day/${drawing.date}`}>
               <DateLink title={`Drawings for ${drawing.date}`}><b>{drawing.date.slice(5)}</b></DateLink>
             </Link>
             <ActionsMenu drawing={drawing} />
-            <Link href="/drawing/[id]" as={`/drawing/${getNextSlug(drawing.slug)}`}>
+            <Link href={`/drawing/${getNextSlug(drawing.slug)}`}>
               <ArrowButton title='Next'><RightArrow /></ArrowButton>
             </Link>
           </NavBar>

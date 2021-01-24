@@ -571,6 +571,15 @@
       "slug": "ipromised",
       "title": "I promised myself i wouldn't do this again",
       "year": "2002"
+    },
+    {
+      "date": "2001-06-07",
+      "id": "2001.92",
+      "image": "somethingwrng.png",
+      "number": "92",
+      "slug": "somethingwrng",
+      "title": "I feel as if I have done something wrong",
+      "year": "2001"
     }
   ],
   "Bird": [
@@ -3465,6 +3474,24 @@
       "slug": "birdsofourown",
       "title": "birds of our own",
       "year": "2001"
+    },
+    {
+      "date": "2001-06-07",
+      "id": "2001.93",
+      "image": "nothurtfeel.png",
+      "number": "93",
+      "slug": "hurtfeel",
+      "title": "you will not hurt my feelings",
+      "year": "2001"
+    },
+    {
+      "date": "2010-10-11",
+      "id": "2010.127",
+      "image": "holdontightanddontletgo.png",
+      "number": "127",
+      "slug": "holdontightanddontletgo",
+      "title": "Hold on tight and don't let go",
+      "year": "2010"
     }
   ],
   "Fear": [
@@ -3997,6 +4024,15 @@
       "slug": "illgobutiwontgetoutofthecar",
       "title": "I'll go but I won't get out of the car",
       "year": "2015"
+    },
+    {
+      "date": "2010-10-11",
+      "id": "2010.127",
+      "image": "holdontightanddontletgo.png",
+      "number": "127",
+      "slug": "holdontightanddontletgo",
+      "title": "Hold on tight and don't let go",
+      "year": "2010"
     }
   ],
   "Flying saucer": [
@@ -4597,6 +4633,24 @@
       "slug": "ambiguity",
       "title": "ambiguities are all we have",
       "year": "2002"
+    },
+    {
+      "date": "2001-06-07",
+      "id": "2001.91",
+      "image": "drugsfeelgood.png",
+      "number": "91",
+      "slug": "drugfeelgood",
+      "title": "Drugs make me feel good",
+      "year": "2001"
+    },
+    {
+      "date": "2010-10-11",
+      "id": "2010.127",
+      "image": "holdontightanddontletgo.png",
+      "number": "127",
+      "slug": "holdontightanddontletgo",
+      "title": "Hold on tight and don't let go",
+      "year": "2010"
     }
   ],
   "Funny": [
@@ -4787,6 +4841,51 @@
       "number": "64",
       "slug": "feelgoodabout",
       "title": "Yes, I do feel good about it",
+      "year": "2001"
+    },
+    {
+      "date": "2001-06-07",
+      "id": "2001.90",
+      "image": "evil.png",
+      "number": "90",
+      "slug": "evil",
+      "title": "need more evil",
+      "year": "2001"
+    },
+    {
+      "date": "2001-06-07",
+      "id": "2001.94",
+      "image": "hatebirds.png",
+      "number": "94",
+      "slug": "hatebirds",
+      "title": "I hate birds",
+      "year": "2001"
+    },
+    {
+      "date": "2001-06-07",
+      "id": "2001.89",
+      "image": "duckies.png",
+      "number": "89",
+      "slug": "duckies",
+      "title": "I love rubber duckies",
+      "year": "2001"
+    },
+    {
+      "date": "2001-06-07",
+      "id": "2001.91",
+      "image": "drugsfeelgood.png",
+      "number": "91",
+      "slug": "drugfeelgood",
+      "title": "Drugs make me feel good",
+      "year": "2001"
+    },
+    {
+      "date": "2001-06-07",
+      "id": "2001.88",
+      "image": "zombie.png",
+      "number": "88",
+      "slug": "zombie",
+      "title": "Zombies never were my preference",
       "year": "2001"
     }
   ],
@@ -5336,6 +5435,24 @@
       "slug": "itchanges",
       "title": "It changes",
       "year": "2001"
+    },
+    {
+      "date": "2001-06-07",
+      "id": "2001.92",
+      "image": "somethingwrng.png",
+      "number": "92",
+      "slug": "somethingwrng",
+      "title": "I feel as if I have done something wrong",
+      "year": "2001"
+    },
+    {
+      "date": "2001-06-07",
+      "id": "2001.88",
+      "image": "zombie.png",
+      "number": "88",
+      "slug": "zombie",
+      "title": "Zombies never were my preference",
+      "year": "2001"
     }
   ],
   "Gross": [
@@ -5367,6 +5484,15 @@
       "slug": "doctorscureme",
       "title": "Doctors don't want to cure me",
       "year": "2001"
+    },
+    {
+      "date": "2010-10-11",
+      "id": "2010.127",
+      "image": "holdontightanddontletgo.png",
+      "number": "127",
+      "slug": "holdontightanddontletgo",
+      "title": "Hold on tight and don't let go",
+      "year": "2010"
     }
   ],
   "Help": [
@@ -5401,6 +5527,15 @@
     }
   ],
   "HomePage": [
+    {
+      "date": "2010-10-11",
+      "id": "2010.127",
+      "image": "holdontightanddontletgo.png",
+      "number": "127",
+      "slug": "holdontightanddontletgo",
+      "title": "Hold on tight and don't let go",
+      "year": "2010"
+    },
     {
       "date": "2003-04-10",
       "id": "2003.74",
@@ -5465,6 +5600,17 @@
       "year": "2001"
     }
   ],
+  "Hope": [
+    {
+      "date": "2010-10-11",
+      "id": "2010.127",
+      "image": "holdontightanddontletgo.png",
+      "number": "127",
+      "slug": "holdontightanddontletgo",
+      "title": "Hold on tight and don't let go",
+      "year": "2010"
+    }
+  ],
   "Hug": [
     {
       "date": "2001-06-12",
@@ -5483,6 +5629,15 @@
       "slug": "ambiguity",
       "title": "ambiguities are all we have",
       "year": "2002"
+    },
+    {
+      "date": "2010-10-11",
+      "id": "2010.127",
+      "image": "holdontightanddontletgo.png",
+      "number": "127",
+      "slug": "holdontightanddontletgo",
+      "title": "Hold on tight and don't let go",
+      "year": "2010"
     }
   ],
   "Interesting": [
@@ -7182,6 +7337,24 @@
       "slug": "somethingsiforgot",
       "title": "somethings i forgot",
       "year": "2002"
+    },
+    {
+      "date": "2001-06-07",
+      "id": "2001.89",
+      "image": "duckies.png",
+      "number": "89",
+      "slug": "duckies",
+      "title": "I love rubber duckies",
+      "year": "2001"
+    },
+    {
+      "date": "2010-10-11",
+      "id": "2010.127",
+      "image": "holdontightanddontletgo.png",
+      "number": "127",
+      "slug": "holdontightanddontletgo",
+      "title": "Hold on tight and don't let go",
+      "year": "2010"
     }
   ],
   "Palette": [
@@ -8012,6 +8185,24 @@
       "slug": "icantlookthatfarback",
       "title": "I can't look that far back",
       "year": "2015"
+    },
+    {
+      "date": "2001-06-07",
+      "id": "2001.89",
+      "image": "duckies.png",
+      "number": "89",
+      "slug": "duckies",
+      "title": "I love rubber duckies",
+      "year": "2001"
+    },
+    {
+      "date": "2010-10-11",
+      "id": "2010.127",
+      "image": "holdontightanddontletgo.png",
+      "number": "127",
+      "slug": "holdontightanddontletgo",
+      "title": "Hold on tight and don't let go",
+      "year": "2010"
     }
   ],
   "Paper": [
@@ -8172,6 +8363,17 @@
       "number": "46",
       "slug": "besttoy",
       "title": "My mother got me the best toy ever.",
+      "year": "2001"
+    }
+  ],
+  "Power": [
+    {
+      "date": "2001-06-07",
+      "id": "2001.93",
+      "image": "nothurtfeel.png",
+      "number": "93",
+      "slug": "hurtfeel",
+      "title": "you will not hurt my feelings",
       "year": "2001"
     }
   ],
@@ -8465,6 +8667,15 @@
       "slug": "timetells",
       "title": "time will tell...",
       "year": "2000"
+    },
+    {
+      "date": "2001-06-07",
+      "id": "2001.90",
+      "image": "evil.png",
+      "number": "90",
+      "slug": "evil",
+      "title": "need more evil",
+      "year": "2001"
     }
   ],
   "Purple": [
@@ -8660,6 +8871,15 @@
       "slug": "somethingsiforgot",
       "title": "somethings i forgot",
       "year": "2002"
+    },
+    {
+      "date": "2010-10-11",
+      "id": "2010.127",
+      "image": "holdontightanddontletgo.png",
+      "number": "127",
+      "slug": "holdontightanddontletgo",
+      "title": "Hold on tight and don't let go",
+      "year": "2010"
     }
   ],
   "Reading": [
@@ -8889,6 +9109,15 @@
       "slug": "whatdoyouthink",
       "title": "What do you think?",
       "year": "2015"
+    },
+    {
+      "date": "2010-10-11",
+      "id": "2010.127",
+      "image": "holdontightanddontletgo.png",
+      "number": "127",
+      "slug": "holdontightanddontletgo",
+      "title": "Hold on tight and don't let go",
+      "year": "2010"
     }
   ],
   "Robot": [
@@ -9215,6 +9444,15 @@
       "slug": "go1",
       "title": "i don't want to go",
       "year": "2000"
+    },
+    {
+      "date": "2010-10-11",
+      "id": "2010.127",
+      "image": "holdontightanddontletgo.png",
+      "number": "127",
+      "slug": "holdontightanddontletgo",
+      "title": "Hold on tight and don't let go",
+      "year": "2010"
     }
   ],
   "Rocket": [
@@ -9434,6 +9672,24 @@
       "number": "151",
       "slug": "itriedtohold",
       "title": "I tried to hold on",
+      "year": "2001"
+    },
+    {
+      "date": "2001-06-07",
+      "id": "2001.95",
+      "image": "inthefuture.png",
+      "number": "95",
+      "slug": "inthefuture",
+      "title": "in the future things will be better",
+      "year": "2001"
+    },
+    {
+      "date": "2001-06-07",
+      "id": "2001.91",
+      "image": "drugsfeelgood.png",
+      "number": "91",
+      "slug": "drugfeelgood",
+      "title": "Drugs make me feel good",
       "year": "2001"
     }
   ],
@@ -10749,6 +11005,17 @@
       "year": "2000"
     }
   ],
+  "Strength": [
+    {
+      "date": "2001-06-07",
+      "id": "2001.93",
+      "image": "nothurtfeel.png",
+      "number": "93",
+      "slug": "hurtfeel",
+      "title": "you will not hurt my feelings",
+      "year": "2001"
+    }
+  ],
   "Suicide": [
     {
       "date": "2002-08-13",
@@ -11087,6 +11354,17 @@
       "slug": "warning2",
       "title": "WARNING: there is a trojan on your computer.",
       "year": "2004"
+    }
+  ],
+  "Twist": [
+    {
+      "date": "2001-06-07",
+      "id": "2001.89",
+      "image": "duckies.png",
+      "number": "89",
+      "slug": "duckies",
+      "title": "I love rubber duckies",
+      "year": "2001"
     }
   ],
   "War": [
