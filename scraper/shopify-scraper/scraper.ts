@@ -1,7 +1,7 @@
 #!/usr/bin/env ts-node-script
 import got from 'got'
 import { parseStringPromise } from 'xml2js'
-import { Drawing } from '../explorer/types'
+import { Drawing } from '../../explorer/types'
 import fs from 'fs'
 import stream from 'stream'
 import { promisify } from 'util'
