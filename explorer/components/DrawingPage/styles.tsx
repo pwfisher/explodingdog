@@ -102,12 +102,13 @@ export const TagList = styled.ul.attrs({ classNames: 'Explorer__DrawingPage__Tag
 export const Tag = styled.li.attrs({ classNames: 'Explorer__DrawingPage__Tag'})`
   display: inline-block;
   font-size: 12px;
-  margin: 0 4px;
+  padding: 0 0 0 6px;
 
   &::after {
     content: '·';
     display: inline-block;
-    margin: 0 0 0 4px;
+    margin: 0 0 0 6px;
+    opacity: 0.3;
   }
 
   &:last-child::after {

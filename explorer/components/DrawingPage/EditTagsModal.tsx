@@ -86,6 +86,7 @@ const TagList = styled.ul.attrs({ classNames: 'Explorer__EditTagsModal__TagList'
 
 const Tag = styled.li.attrs({ classNames: 'Explorer__EditTagsModal__Tag' })`
   display: inline-block;
+  user-select: none;
 
   &::after {
     content: '·';

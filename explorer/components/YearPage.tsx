@@ -6,7 +6,7 @@ import { DrawingSection } from './DrawingSection'
 import { drawingHasTag } from '../lib/tags'
 
 export const YearPage: React.FC<{ year: string }> = ({ year }) => {
-  const drawings = yearDrawingSets[year].filter(drawing => !drawingHasTag(drawing, 'DoNotLike'))
+  const drawings = yearDrawingSets[year].filter(drawing => !drawingHasTag(drawing, 'DoNotList'))
   return (
     <PageLayout title={`explodingdog ${year}`}>
       <YearBar activeYear={year} />

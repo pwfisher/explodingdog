@@ -48,7 +48,7 @@ export function useMyTags() {
   }
 
   function getDrawingsForTag(tag: string): Drawing[] {
-    return tagDrawingSets[tag]
+    return myTagDrawingSets[tag]
   }
 
   function getMyTagFromSlug(slug: string): string | undefined {
