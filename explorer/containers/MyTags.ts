@@ -2,7 +2,6 @@ import React from 'react'
 import { createContainer } from 'unstated-next'
 import { duplicateTagDrawingSets, getTagSlug, loadMyTagDrawingSets } from '../lib/tags'
 import { Drawing, TagDrawingSets } from '../types'
-import { tagDrawingSets } from '../__fixtures__'
 
 export function useMyTags() {
   const [myTagDrawingSets, setMyTagDrawingSets] = React.useState<TagDrawingSets>({})

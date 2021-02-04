@@ -39,23 +39,35 @@ export const EditTagsModal: React.FC<{
           <input type='submit' />
         </form>
         <br />
-        <TagList>
-          {myTags.map(tag => (
-            <Tag key={tag}>
-              <label>
-                <input
-                  type='checkbox'
-                  checked={drawingHasMyTag(drawing, tag)}
-                  onChange={e => {
-                    e.currentTarget.checked
-                      ? addMyTagToDrawing(tag, drawing)
-                      : removeMyTagFromDrawing(tag, drawing)
-                  }}
-                /> {tag}
-              </label>
-            </Tag>
-          ))}
-        </TagList>
+        {Object.entries(
+          myTags.reduce<Record<string, string[]>>((accumulator, tag) => {
+            const key = tag[0]
+            if (!accumulator[key]) accumulator[key] = []
+            accumulator[key].push(tag)
+            return accumulator
+          }, {})
+        ).map(([key, tags]) => (
+          <TagLetter {...{ key }}>
+            <h4>{key}</h4>
+            <TagList {...{ key }}>
+              {tags.map(tag => (
+                <Tag key={tag}>
+                  <label>
+                    <input
+                      type='checkbox'
+                      checked={drawingHasMyTag(drawing, tag)}
+                      onChange={e => {
+                        e.currentTarget.checked
+                          ? addMyTagToDrawing(tag, drawing)
+                          : removeMyTagFromDrawing(tag, drawing)
+                      }}
+                    /> {tag}
+                  </label>
+                </Tag>
+              ))}
+            </TagList>
+          </TagLetter>
+        ))}
       </div>
     </Modal>
   )
@@ -63,9 +75,9 @@ export const EditTagsModal: React.FC<{
 
 const CloseButton = styled.button.attrs({ classNames: 'Explorer__EditTagsModal__CloseButton' })`
   font-size: 24px;
-  position: absolute;
-  right: 24px;
-  top: 24px;
+  position: fixed;
+  right: 60px;
+  top: 60px;
 `
 
 const Title = styled.h1.attrs({ classNames: 'Explorer__EditTagsModal__Title' })`
@@ -80,9 +92,19 @@ const Code = styled.code.attrs({ classNames: 'Explorer__EditTagsModal__Code' })`
   margin: 8px 0 16px;
 `
 
-const TagList = styled.ul.attrs({ classNames: 'Explorer__EditTagsModal__TagList' })`
-  margin: 0 -12px;
+const TagLetter = styled.ul.attrs({ classNames: 'Explorer__EditTagsModal__TagLetter' })`
+  display: flex;
+  margin: 8px 0;
+
+  > h4:first-child {
+    flex-shrink: 0;
+    font-size: 20px;
+    margin: 0;
+    width: 24px;
+  }
 `
+
+const TagList = styled.ul.attrs({ classNames: 'Explorer__EditTagsModal__TagList' })``
 
 const Tag = styled.li.attrs({ classNames: 'Explorer__EditTagsModal__Tag' })`
   display: inline-block;
